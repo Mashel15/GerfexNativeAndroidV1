@@ -1,0 +1,7 @@
+.gradle/
+**/build/
+node_modules/
+local.properties
+*.apk
+*.aab
+imported_runtime_20260608_073103/GerfexReactUI/

@@ -1,0 +1,26 @@
+def route(prompt, external_available=False):
+    text = prompt.lower().strip()
+
+    action_keywords = [
+        "افتح", "اغلق", "ابحث", "يوتيوب",
+        "كروم", "اعدادات", "ارجع",
+        "الرئيسية"
+    ]
+
+    for k in action_keywords:
+        if k in text:
+            return {
+                "route": "local_action",
+                "reason": "android_task"
+            }
+
+    if external_available:
+        return {
+            "route": "external_verify",
+            "reason": "external_model_available"
+        }
+
+    return {
+        "route": "local_queen",
+        "reason": "fallback_local"
+    }

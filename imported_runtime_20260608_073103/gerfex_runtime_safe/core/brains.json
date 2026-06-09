@@ -1,0 +1,17 @@
+{
+  "active_brain": "Queen",
+  "available_brains": [
+    {
+      "name": "DeepSeek",
+      "type": "cloud",
+      "role": "primary",
+      "status": "available"
+    },
+    {
+      "name": "Llama",
+      "type": "local",
+      "role": "secondary",
+      "status": "future"
+    }
+  ]
+}

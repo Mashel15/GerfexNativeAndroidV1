@@ -1,0 +1,10334 @@
+# GERFEX DUPLICATE AND IMPORTANT CAPABILITIES V1
+
+Purpose: identify repeated/evolved commands and important capabilities before final unification.
+
+Total selected capabilities: 368
+
+## type_text
+- files_count: 421
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - ... 341 more
+
+## tap
+- files_count: 291
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - ... 211 more
+
+## dump_ui
+- files_count: 266
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/recovery_brain.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/recovery_brain.py
+  - ... 186 more
+
+## swipe
+- files_count: 259
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - ... 179 more
+
+## press_back
+- files_count: 258
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - ... 178 more
+
+## press_home
+- files_count: 258
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - ... 178 more
+
+## press_enter
+- files_count: 224
+- important_name: True
+- files:
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/android_bridge.py
+  - archive/gerfex_checkpoint_google_search_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/android_bridge.py
+  - archive/gerfex_checkpoint_memory_summary_v1/android_bridge.py
+  - archive/gerfex_checkpoint_memory_system_v1/android_bridge.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/android_bridge.py
+  - ... 144 more
+
+## open_url
+- files_count: 218
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - ... 138 more
+
+## open_settings
+- files_count: 205
+- important_name: True
+- files:
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/queue_runner.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - archive/gerfex_checkpoint_goal_executor_v1/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/android_bridge.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/android_bridge.py
+  - archive/gerfex_checkpoint_google_search_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/android_bridge.py
+  - ... 125 more
+
+## open_app
+- files_count: 192
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/queue_runner.py
+  - ... 112 more
+
+## queue_action
+- files_count: 188
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/android_bridge.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - archive/gerfex_checkpoint_goal_executor_v1/android_bridge.py
+  - ... 108 more
+
+## press_recent
+- files_count: 180
+- important_name: True
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_active_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_decision_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_context_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_attention_headline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_following_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_android_control/android_bridge.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - archive/gerfex_checkpoint_goal_executor_v1/android_bridge.py
+  - ... 100 more
+
+## process_queue
+- files_count: 153
+- important_name: True
+- files:
+  - queue_runner.py
+  - gerfex_checkpoint_intent_intelligence_v1/queue_runner.py
+  - gerfex_checkpoint_intent_learning_v1/queue_runner.py
+  - gerfex_checkpoint_clean_core_v1/queue_runner.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/queue_runner.py
+  - checkpoint_search_open_samsung_verified_v1/queue_runner.py
+  - checkpoint_search_open_samsung_working_v2/queue_runner.py
+  - backup_before_visual_confirm_20260528_171458/queue_runner.py
+  - gerfex_checkpoint_visual_confirm_v1/queue_runner.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queue_runner.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queue_runner.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queue_runner.py
+  - archive/gerfex_checkpoint_action_router_v1/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_agent_active_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_core_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_decision_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v2/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/queue_runner.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_context_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_attention_headline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_auto_verify_v1/queue_runner.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_browser_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_commands_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_following_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_stability_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_arms_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/queue_runner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/queue_runner.py
+  - archive/gerfex_checkpoint_failure_learning_v1/queue_runner.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/queue_runner.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_full_android_control/queue_runner.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_executor_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/queue_runner.py
+  - archive/gerfex_checkpoint_google_search_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_summary_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_system_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_observation_layer_v1/queue_runner.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_open_first_result_v1/queue_runner.py
+  - archive/gerfex_checkpoint_planner_memory_v1/queue_runner.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/queue_runner.py
+  - ... 73 more
+
+## detect_intent
+- files_count: 135
+- important_name: True
+- files:
+  - intent_engine.py
+  - gerfex_runtime.py
+  - gerfex_runtime_before_search_core_v2.py
+  - gerfex_goal_loop_core.py
+  - intent_router.py
+  - gerfex_checkpoint_search_core_v2/gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime_before_search_core_v2.py
+  - gerfex_checkpoint_before_core_layers_v1/intent_engine.py
+  - gerfex_checkpoint_intent_router_v1/intent_router.py
+  - gerfex_checkpoint_runtime_core_v1/intent_router.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/intent_router.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - archive/releases/gerfex_complete_v1_final/intent_engine.py
+  - archive/releases/gerfex_complete_v1_success/intent_engine.py
+  - archive/releases/phase2_before_goal_agent/intent_engine.py
+  - archive/releases/phase2_goal_agent_success/intent_engine.py
+  - archive/releases/phase3_before_recovery/intent_engine.py
+  - archive/releases/phase3_recovery_reader_success_final/intent_engine.py
+  - archive/releases/runtime_read_recovery_success/gerfex_runtime.py
+  - archive/releases/phase4_google_search_visible_success/gerfex_runtime.py
+  - archive/releases/phase4_search_open_by_tap_best/gerfex_runtime.py
+  - archive/releases/phase4_search_visible_open_attempt_safe/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase5_before_goal_loop_core/intent_engine.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase5_preinstall/intent_engine.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase6_preinstall/intent_engine.py
+  - archive/releases/phase6_collector_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_ranker_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_working/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase8_preinstall/intent_engine.py
+  - archive/releases/phase8_ranked_answer_success/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase10_dynamic_collector/gerfex_goal_loop_core.py
+  - archive/releases/phase11_context_rank_success/gerfex_goal_loop_core.py
+  - archive/releases/phase13_feed_collector_linked/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_full/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_working_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_selector_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_selected_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_success/gerfex_goal_loop_core.py
+  - archive/releases/verify_layer_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_verify_full_clean/gerfex_goal_loop_core.py
+  - ... 55 more
+
+## execute_goal
+- files_count: 101
+- important_name: True
+- files:
+  - goal_engine.py
+  - gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - archive/releases/v2_session_auto_success/goal_engine.py
+  - archive/releases/v2_router_link_success/goal_engine.py
+  - archive/releases/gerfex_v3_bundle/goal_engine.py
+  - archive/releases/gerfex_v3_bundle_success/goal_engine.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/goal_executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/goal_executor.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_official_runtime_v1/runtime/goal_executor.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/goal_executor.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_runtime_v1/runtime/goal_executor.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - ... 21 more
+
+## read_screen
+- files_count: 78
+- important_name: True
+- files:
+  - screen_reader.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/screen_reader.py
+  - gerfex_checkpoint_before_core_layers_v1/screen_reader.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_reader.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_reader.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_reader.py
+  - archive/gerfex_checkpoint_browser_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/screen_reader.py
+  - archive/gerfex_checkpoint_commands_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_reader.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_arms_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_reader.py
+  - archive/gerfex_checkpoint_end_of_day_v1/screen_reader.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/screen_reader.py
+  - archive/gerfex_checkpoint_google_search_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observation_layer_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_open_first_result_v1/screen_reader.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/screen_reader.py
+  - archive/gerfex_checkpoint_research_stable_v1/screen_reader.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_reader.py
+  - archive/gerfex_checkpoint_search_read_results_v1/screen_reader.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/screen_reader.py
+  - archive/gerfex_checkpoint_target_preview_v1/screen_reader.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/screen_reader.py
+  - archive/gerfex_checkpoint_web_agent_v1/screen_reader.py
+  - archive/gerfex_anatomy_phase_v1/screen_reader.py
+  - archive/gerfex_core_arms_v1_clean/screen_reader.py
+  - archive/releases/phase5_goal_loop_core_fixed/screen_reader.py
+  - archive/releases/phase5_preinstall/screen_reader.py
+  - archive/releases/phase5_goal_loop_core_final_success/screen_reader.py
+  - archive/releases/phase6_preinstall/screen_reader.py
+  - archive/releases/phase8_preinstall/screen_reader.py
+  - archive/releases/verify_layer_full/screen_reader.py
+  - archive/releases/interaction_pack_v1/screen_reader.py
+  - archive/releases/interaction_clean_v2/screen_reader.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/screen_reader_bridge.py
+  - gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## save_memory
+- files_count: 75
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/memory_context.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/state_memory.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/memory_context.py
+  - archive/gerfex_checkpoint_agent_core_v1/state_memory.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_attention_headline_v1/memory_context.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_memory.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/memory_context.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/state_memory.py
+  - archive/gerfex_checkpoint_context_following_v1/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/state_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/state_memory.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v2_ranked/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_respects_router_goal_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/memory_context.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/state_memory.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/state_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_route_executor_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_android_web_split_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+  - archive/legacy_scripts_v1/memory_context.py
+  - archive/legacy_scripts_v1/state_memory.py
+  - archive/legacy_scripts_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v1.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v2.py
+  - archive/releases/gerfex_complete_v1_final/memory_engine.py
+  - archive/releases/gerfex_complete_v1_success/memory_engine.py
+  - archive/releases/phase2_before_goal_agent/memory_engine.py
+  - archive/releases/phase2_goal_agent_success/memory_engine.py
+  - archive/releases/phase3_before_recovery/memory_engine.py
+  - archive/releases/phase3_recovery_reader_success_final/memory_engine.py
+  - archive/releases/phase5_before_goal_loop_core/memory_engine.py
+  - archive/releases/phase5_preinstall/memory_engine.py
+  - archive/releases/phase6_preinstall/memory_engine.py
+  - archive/releases/phase8_preinstall/memory_engine.py
+
+## list_skills
+- files_count: 69
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/skill_registry.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/skill_registry.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_runtime_v1/runtime/skill_registry.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+
+## load_memory
+- files_count: 66
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/follow_article.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/memory_context.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/state_memory.py
+  - archive/gerfex_checkpoint_agent_core_v1/follow_article.py
+  - archive/gerfex_checkpoint_agent_core_v1/memory_context.py
+  - archive/gerfex_checkpoint_agent_core_v1/state_memory.py
+  - archive/gerfex_checkpoint_attention_headline_v1/follow_article.py
+  - archive/gerfex_checkpoint_attention_headline_v1/memory_context.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/follow_article.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_memory.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/memory_context.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/state_memory.py
+  - archive/gerfex_checkpoint_context_following_v1/follow_article.py
+  - archive/gerfex_checkpoint_context_following_v1/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/follow_article.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/state_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/follow_article.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/memory_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/state_memory.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v2_ranked/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_respects_router_goal_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/follow_article.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/memory_context.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/state_memory.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/state_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_route_executor_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_android_web_split_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/memory_context.py
+  - archive/legacy_scripts_v1/follow_article.py
+  - archive/legacy_scripts_v1/state_memory.py
+  - archive/legacy_scripts_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v1.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v2.py
+  - archive/releases/gerfex_complete_v1_final/memory_engine.py
+  - archive/releases/gerfex_complete_v1_success/memory_engine.py
+  - archive/releases/phase2_before_goal_agent/memory_engine.py
+  - archive/releases/phase2_goal_agent_success/memory_engine.py
+  - archive/releases/phase3_before_recovery/memory_engine.py
+  - archive/releases/phase3_recovery_reader_success_final/memory_engine.py
+  - archive/releases/phase5_before_goal_loop_core/memory_engine.py
+  - archive/releases/phase5_preinstall/memory_engine.py
+  - archive/releases/phase6_preinstall/memory_engine.py
+  - archive/releases/phase8_preinstall/memory_engine.py
+
+## youtube_search_open_first
+- files_count: 60
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+
+## read_json
+- files_count: 50
+- important_name: True
+- files:
+  - archive_mentor_experiments/mentor_console_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mentor_adapter_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/thought_trace_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/thought_trace_v2.py
+  - archive/gerfex_checkpoint_core_loop_v2_success/thought_trace_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/thought_trace_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/thought_trace_v2.py
+  - archive/gerfex_checkpoint_first_real_phone_action/step_executor_v4b.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mentor_adapter_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/thought_trace_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_v1/mentor_adapter_v1.py
+  - archive/gerfex_checkpoint_mentor_payload_v0/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_mentor_protocol_v1/mentor_adapter_v1.py
+  - archive/gerfex_checkpoint_runtime_config_v1/step_executor_v4d.py
+  - archive/gerfex_checkpoint_step_executor_v2_connected/step_executor_v2.py
+  - archive/gerfex_checkpoint_step_executor_v3_reordered/step_executor_v3.py
+  - archive/gerfex_checkpoint_step_executor_v3_reordered/step_executor_v2.py
+  - archive/gerfex_checkpoint_step_executor_v4a_bridge_request/step_executor_v4a.py
+  - archive/gerfex_checkpoint_step_executor_v4c_open_dump_success/step_executor_v4c.py
+  - archive/gerfex_checkpoint_step_executor_v4d_live_read_success/step_executor_v4d.py
+  - archive/gerfex_checkpoint_thought_trace_v2/thought_trace_v2.py
+  - archive/gerfex_checkpoint_v4d_safe_mode/step_executor_v4d.py
+  - archive/gerfex_checkpoint_v4d_validation_blocks_bad_ui/step_executor_v4d.py
+  - archive/gerfex_phase_adaptive_executor_v3/adaptive_executor_v3.py
+  - archive/gerfex_phase_agent_core_v1/valid_learn_gate_v1.py
+  - archive/gerfex_phase_agent_core_v1/recovery_v1.py
+  - archive/gerfex_phase_agent_core_v1/approval_gate_v1.py
+  - archive/gerfex_phase_live_loop_v1/live_action_loop_v1.py
+  - archive/legacy_scripts_v1/thought_trace_v2.py
+  - archive/legacy_scripts_v1/mentor_payload_v0.py
+  - archive/legacy_scripts_v1/mentor_adapter_v1.py
+  - archive/legacy_scripts_v1/step_executor_v2.py
+  - archive/legacy_scripts_v1/step_executor_v3.py
+  - archive/legacy_scripts_v1/step_executor_v4a.py
+  - archive/legacy_scripts_v1/step_executor_v4b.py
+  - archive/legacy_scripts_v1/step_executor_v4c.py
+  - archive/legacy_scripts_v1/step_executor_v4d.py
+  - archive/gerfex_checkpoint_live_loop_v1/gerfex_phase_live_loop_v1/live_action_loop_v1.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_phase_agent_core_v1/valid_learn_gate_v1.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_phase_agent_core_v1/recovery_v1.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_phase_agent_core_v1/approval_gate_v1.py
+  - archive/gerfex_checkpoint_adaptive_executor_v3/gerfex_phase_adaptive_executor_v3/adaptive_executor_v3.py
+
+## open_youtube_results
+- files_count: 50
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_ultimate_core_v1/core/action_executor_v1.py
+
+## open_chrome
+- files_count: 50
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_ultimate_core_v1/core/action_executor_v1.py
+
+## tap_item
+- files_count: 50
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_ultimate_core_v1/core/action_executor_v1.py
+
+## run_goal
+- files_count: 49
+- important_name: True
+- files:
+  - gerfex_launcher.py
+  - gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_decision_loop_bundle_v1/decision_loop_bundle.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_executor.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_executor.py
+  - archive/legacy_scripts_v1/gerfex_executor.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_packages/decision_engine_package_v1/decision_engine.py
+
+## confirm_video_opened
+- files_count: 49
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+
+## has_skill
+- files_count: 48
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skill_registry_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/skill_registry_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/skill_registry_v1.py
+
+## start_goal
+- files_count: 45
+- important_name: True
+- files:
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## recover
+- files_count: 41
+- important_name: True
+- files:
+  - goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - archive/gerfex_checkpoint_anatomy_action_lifecycle_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_context_stability_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/recovery_manager.py
+  - archive/gerfex_checkpoint_observation_layer_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_policy_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_screen_compare_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_target_preview_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/recovery_manager.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/recovery_manager.py
+  - archive/gerfex_anatomy_phase_v1/recovery_manager.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - archive/releases/v2_session_auto_success/goal_engine.py
+  - archive/releases/v2_router_link_success/goal_engine.py
+  - archive/releases/gerfex_v3_bundle/goal_engine.py
+  - archive/releases/gerfex_v3_bundle_success/goal_engine.py
+
+## finish_goal
+- files_count: 40
+- important_name: True
+- files:
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## is_dirty_dump
+- files_count: 28
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## detect_goal
+- files_count: 26
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+
+## read
+- files_count: 25
+- important_name: True
+- files:
+  - session_state.py
+  - gerfex_checkpoint_before_core_layers_v1/session_state.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_see.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_vision_ocr_v2/gerfex_see.py
+  - archive/legacy_scripts_v1/gerfex_see.py
+  - archive/releases/session_answer_filter_success/session_state.py
+  - archive/releases/resume_engine_success/session_state.py
+  - archive/releases/resume_action_success/session_state.py
+  - archive/releases/v2_router_link_success/session_state.py
+  - archive/releases/skill_auto_link_success/session_state.py
+  - archive/releases/gerfex_v3_bundle/session_state.py
+  - archive/releases/gerfex_v3_bundle_success/session_state.py
+  - archive/releases/gerfex_v3_web_bundle/session_state.py
+  - archive/releases/gerfex_v3_web_bundle_3_1/session_state.py
+  - archive/releases/gerfex_v3_web_bundle_3_1_success/session_state.py
+  - archive/releases/gerfex_v3_apps_bundle/session_state.py
+  - archive/releases/gerfex_v3_apps_bundle_success/session_state.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/session_state.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3_success/session_state.py
+
+## queen_think
+- files_count: 23
+- important_name: True
+- files:
+  - queen_core.py
+  - checkpoint_search_open_v1/queen_core.py
+  - checkpoint_search_open_samsung_verified_v1/queen_core.py
+  - checkpoint_search_open_samsung_working_v2/queen_core.py
+  - checkpoint_autonomous_news_v1/queen_core.py
+  - gerfex_checkpoint_autonomous_router_v1/queen_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queen_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queen_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_official_runtime_v1/agent/queen_core.py
+
+## open_saved_source
+- files_count: 23
+- important_name: True
+- files:
+  - open_saved_source.py
+  - checkpoint_search_open_v1/open_saved_source.py
+  - checkpoint_search_open_samsung_verified_v1/open_saved_source.py
+  - checkpoint_search_open_samsung_working_v2/open_saved_source.py
+  - checkpoint_autonomous_news_v1/open_saved_source.py
+  - gerfex_checkpoint_autonomous_router_v1/open_saved_source.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/open_saved_source.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/open_saved_source.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/open_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/open_saved_source.py
+  - gerfex_official_runtime_v1/agent/open_saved_source.py
+
+## load_executor
+- files_count: 22
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_executor.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_executor.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_executor.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_executor.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_executor.py
+  - gerfex_runtime_v1/runtime/package_executor.py
+
+## read_screen_text
+- files_count: 22
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/vision_reader.py
+  - archive/gerfex_checkpoint_agent_active_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/vision_reader.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_article_context_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_attention_headline_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/vision_reader.py
+  - archive/gerfex_checkpoint_context_following_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/vision_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/vision_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/vision_reader.py
+  - archive/gerfex_checkpoint_vision_ocr_v1/vision_reader.py
+  - archive/gerfex_checkpoint_vision_ocr_v2/vision_reader.py
+  - archive/legacy_scripts_v1/vision_reader.py
+  - archive/legacy_scripts_v1/gerfex_agent.py
+
+## read_queue
+- files_count: 21
+- important_name: True
+- files:
+  - queue_runner_apps_v2.py
+  - gerfex_checkpoint_action_resolver_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_goal_loop_v1/queue_runner_apps_v2.py
+  - gerfex_integrated_core_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_core_integration_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_general_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_package_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/queue_runner_apps_v2.py
+
+## dump
+- files_count: 21
+- important_name: True
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## get_skill
+- files_count: 21
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/skill_registry.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/skill_registry.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_official_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/skill_registry.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/skill_registry.py
+  - gerfex_runtime_v1/runtime/skill_registry.py
+
+## run_skill
+- files_count: 21
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/skill_executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/skill_executor.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_official_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/skill_executor.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/skill_executor.py
+  - gerfex_runtime_v1/runtime/skill_executor.py
+
+## enqueue
+- files_count: 21
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_full_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_goal_planner_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_skill_registry_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_runtime_v1/packages/android_executor_package_v1/executor.py
+
+## detect_goal_type
+- files_count: 20
+- important_name: True
+- files:
+  - goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - archive/releases/v2_session_auto_success/goal_engine.py
+  - archive/releases/v2_router_link_success/goal_engine.py
+  - archive/releases/gerfex_v3_bundle/goal_engine.py
+  - archive/releases/gerfex_v3_bundle_success/goal_engine.py
+
+## dump_stamp
+- files_count: 20
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_smart_ui_loop_v2_fresh_dump/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_smart_ui_loop_v3_failed_status_ok/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_target_not_found_search_more/smart_ui_loop_v3.py
+  - archive/legacy_scripts_v1/smart_ui_loop_v2.py
+  - archive/legacy_scripts_v1/smart_ui_loop_v3.py
+
+## copy_dump
+- files_count: 20
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_smart_ui_loop_v2_fresh_dump/smart_ui_loop_v2.py
+  - archive/gerfex_checkpoint_smart_ui_loop_v3_failed_status_ok/smart_ui_loop_v3.py
+  - archive/gerfex_checkpoint_target_not_found_search_more/smart_ui_loop_v3.py
+  - archive/legacy_scripts_v1/smart_ui_loop_v2.py
+  - archive/legacy_scripts_v1/smart_ui_loop_v3.py
+
+## save_goal
+- files_count: 18
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## save_brains
+- files_count: 18
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_memory
+- files_count: 18
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_brains
+- files_count: 18
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## decide_next_goal
+- files_count: 18
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v2_ranked/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_respects_router_goal_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_route_executor_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_android_web_split_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_v1/fast_memory_cycle_v2.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v1.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v2.py
+
+## safe_read_confirmed_ui
+- files_count: 17
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## open_and_read
+- files_count: 17
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## tap_text
+- files_count: 17
+- important_name: True
+- files:
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_web_agent_v1.py
+  - archive/legacy_scripts_v1/gerfex_web_agent_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+
+## force_google_search
+- files_count: 16
+- important_name: True
+- files:
+  - gerfex_web.py
+  - gerfex_web_backup_before_fast_3_3.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web_backup_before_fast_3_3.py
+  - archive/releases/gerfex_v3_planner_bundle_success/gerfex_web.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web_backup_before_fast_3_3.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3_success/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization_success/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/gerfex_web.py
+
+## save_learned_commands
+- files_count: 16
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_learned_commands
+- files_count: 16
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## open_website
+- files_count: 16
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_browser.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_browser.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_browser.py
+  - archive/legacy_scripts_v1/gerfex_browser.py
+
+## google_search
+- files_count: 16
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_browser.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_browser.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_browser.py
+  - archive/legacy_scripts_v1/gerfex_browser.py
+
+## youtube
+- files_count: 16
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_browser.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_browser.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_browser.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_browser.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_browser.py
+  - archive/legacy_scripts_v1/gerfex_browser.py
+
+## wait_for_dump_copy
+- files_count: 15
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_memory_cycle_agent_v2_1_success/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_memory_cycle_agent_v2_2_wait2_success/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/memory_cycle_agent_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/memory_cycle_agent_v2_2.py
+  - archive/gerfex_checkpoint_router_v1/memory_cycle_agent_v2_2.py
+  - archive/legacy_scripts_v1/memory_cycle_agent_v2.py
+  - archive/legacy_scripts_v1/memory_cycle_agent_v2_2.py
+
+## read_text
+- files_count: 14
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_vision.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_vision.py
+  - archive/gerfex_checkpoint_mentor_payload_v0/mentor_payload_v0.py
+  - archive/gerfex_checkpoint_vision_ocr_v1/screen_vision.py
+  - archive/legacy_scripts_v1/screen_vision.py
+  - archive/legacy_scripts_v1/mentor_payload_v0.py
+
+## search_query_from_goal
+- files_count: 13
+- important_name: True
+- files:
+  - resume_action.py
+  - gerfex_checkpoint_before_core_layers_v1/resume_action.py
+  - archive/releases/resume_action_success/resume_action.py
+  - archive/releases/resume_auto_chain_success/resume_action.py
+  - archive/releases/gerfex_v3_bundle/resume_action.py
+  - archive/releases/gerfex_v3_bundle_success/resume_action.py
+  - archive/releases/gerfex_v3_web_bundle/resume_action.py
+  - archive/releases/gerfex_v3_web_bundle_3_1/resume_action.py
+  - archive/releases/gerfex_v3_web_bundle_3_1_success/resume_action.py
+  - archive/releases/gerfex_v3_apps_bundle/resume_action.py
+  - archive/releases/gerfex_v3_apps_bundle_success/resume_action.py
+  - archive/releases/gerfex_v3_recovery_bundle/resume_action.py
+  - archive/releases/gerfex_v3_recovery_bundle_success/resume_action.py
+
+## read_ui
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_smart_observe_general_bundle_v1/smart_observe.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_general_v1/gerfex_smart_observe_general_bundle_v1/smart_observe.py
+
+## dump_once
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_smart_observe_general_bundle_v1/smart_observe.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_general_v1/gerfex_smart_observe_general_bundle_v1/smart_observe.py
+
+## reject_dirty_dump
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_smart_observe_general_bundle_v1/smart_observe.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_general_v1/gerfex_smart_observe_general_bundle_v1/smart_observe.py
+
+## select_brain_adapter
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/agent_loop.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/agent_loop.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_official_runtime_v1/runtime/agent_loop.py
+
+## normalize_goal
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+
+## run_queen_task
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/queen_internal_skill.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/queen_internal_skill.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+
+## run_queen_search
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/queen_internal_skill.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/queen_internal_skill.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+
+## run_queen_android_action
+- files_count: 13
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/queen_internal_skill.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/queen_internal_skill.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+
+## read_report
+- files_count: 12
+- important_name: True
+- files:
+  - recovery_reader.py
+  - gerfex_checkpoint_before_core_layers_v1/recovery_reader.py
+  - archive/releases/phase3_recovery_success/recovery_reader.py
+  - archive/releases/phase3_recovery_reader_success_final/recovery_reader.py
+  - archive/releases/runtime_read_recovery_success/recovery_reader.py
+  - archive/releases/phase4_google_search_visible_success/recovery_reader.py
+  - archive/releases/phase4_search_open_by_tap_best/recovery_reader.py
+  - archive/releases/phase4_search_visible_open_attempt_safe/recovery_reader.py
+  - archive/releases/phase5_before_goal_loop_core/recovery_reader.py
+  - archive/releases/phase5_preinstall/recovery_reader.py
+  - archive/releases/phase6_preinstall/recovery_reader.py
+  - archive/releases/phase8_preinstall/recovery_reader.py
+
+## tap_first_video_result
+- files_count: 12
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+
+## default_memory
+- files_count: 12
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_memory.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/gerfex_memory.py
+
+## answer_search
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+
+## browser_search
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+
+## read_current_page
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+
+## read_texts
+- files_count: 11
+- important_name: True
+- files:
+  - arm_verify_full.py
+  - gerfex_checkpoint_before_core_layers_v1/arm_verify_full.py
+  - archive/releases/arm_verify_full_clean/arm_verify_full.py
+  - archive/releases/arm_execute_verify_success/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1_chrome_success/arm_verify_full.py
+  - archive/releases/milestone_real_app_control_v1/arm_verify_full.py
+  - archive/releases/chrome_clean_verify_success/arm_verify_full.py
+  - archive/releases/goal_engine_full/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle_success/arm_verify_full.py
+
+## read_google_retry
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_web.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3_success/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization_success/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/gerfex_web.py
+
+## open_results
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## safe_dump
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+
+## youtube_search
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## make_open_url_action
+- files_count: 11
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/browser_runtime_policy.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+
+## classify_screen
+- files_count: 11
+- important_name: True
+- files:
+  - archive/releases/gerfex_v1.py
+  - archive/releases/gerfex_v1_chrome_dump_fixed/gerfex.py
+  - archive/releases/gerfex_complete_v1/gerfex.py
+  - archive/releases/gerfex_complete_v1_final/gerfex.py
+  - archive/releases/gerfex_complete_v1_success/gerfex.py
+  - archive/releases/phase2_before_goal_agent/gerfex.py
+  - archive/releases/phase2_goal_agent_success/gerfex.py
+  - archive/releases/phase3_before_recovery/gerfex.py
+  - archive/releases/phase3_recovery_reader_success_final/gerfex.py
+  - archive/releases/runtime_read_recovery_success/gerfex.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex.py
+
+## read_ui_texts
+- files_count: 10
+- important_name: True
+- files:
+  - ui_reasoner.py
+  - gerfex_checkpoint_before_core_layers_v1/ui_reasoner.py
+  - archive/releases/gerfex_complete_v1_final/ui_reasoner.py
+  - archive/releases/gerfex_complete_v1_success/ui_reasoner.py
+  - archive/releases/phase2_before_goal_agent/ui_reasoner.py
+  - archive/releases/phase3_before_recovery/ui_reasoner.py
+  - archive/releases/phase5_before_goal_loop_core/ui_reasoner.py
+  - archive/releases/phase5_preinstall/ui_reasoner.py
+  - archive/releases/phase6_preinstall/ui_reasoner.py
+  - archive/releases/phase8_preinstall/ui_reasoner.py
+
+## read_fresh_retry
+- files_count: 10
+- important_name: True
+- files:
+  - gerfex_web_backup_before_fast_3_3.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web_backup_before_fast_3_3.py
+  - archive/releases/gerfex_v3_web_bundle_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_web_bundle_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_v3_planner_bundle_success/gerfex_web.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web_backup_before_fast_3_3.py
+
+## set_goal
+- files_count: 10
+- important_name: True
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v1.py
+  - archive/legacy_scripts_v1/goal_loop_v1.py
+
+## run_search
+- files_count: 10
+- important_name: True
+- files:
+  - gerfex_search_runner.py
+  - checkpoint_search_open_v1/gerfex_search_runner.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_search_runner.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_search_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v1.py
+  - archive/legacy_scripts_v1/goal_loop_v1.py
+
+## tap_text_and_confirm
+- files_count: 10
+- important_name: True
+- files:
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+
+## search_inside_app
+- files_count: 10
+- important_name: True
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+
+## read_items
+- files_count: 9
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/mini_brain.py
+  - archive/gerfex_checkpoint_core_arms_v1/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mini_brain.py
+  - archive/gerfex_checkpoint_google_search_working_v1/mini_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mini_brain.py
+  - archive/legacy_scripts_v1/mini_brain.py
+  - archive/gerfex_core_arms_v1_clean/mini_brain.py
+
+## take_screenshot
+- files_count: 9
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/vision_reader.py
+  - archive/gerfex_checkpoint_agent_core_v1/vision_reader.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/vision_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/vision_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/vision_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/vision_reader.py
+  - archive/gerfex_checkpoint_vision_ocr_v1/vision_reader.py
+  - archive/gerfex_checkpoint_vision_ocr_v2/vision_reader.py
+  - archive/legacy_scripts_v1/vision_reader.py
+
+## search_and_open
+- files_count: 8
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_navigator.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_navigator.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_navigator.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_navigator.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_navigator.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_navigator.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_navigator.py
+  - archive/legacy_scripts_v1/gerfex_navigator.py
+
+## screen_contains
+- files_count: 8
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_verifier.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_verifier.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_verifier.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_verifier.py
+  - archive/legacy_scripts_v1/gerfex_verifier.py
+
+## search_verified
+- files_count: 8
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_verifier.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_verifier.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_verifier.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_verifier.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_verifier.py
+  - archive/legacy_scripts_v1/gerfex_verifier.py
+
+## capture_screen
+- files_count: 8
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_vision.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_vision.py
+  - archive/gerfex_checkpoint_vision_ocr_v1/screen_vision.py
+  - archive/legacy_scripts_v1/screen_vision.py
+
+## load_learned
+- files_count: 7
+- important_name: True
+- files:
+  - gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+
+## add_learning_example
+- files_count: 7
+- important_name: True
+- files:
+  - gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+
+## match_learned
+- files_count: 7
+- important_name: True
+- files:
+  - gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+
+## youtube_direct_search
+- files_count: 7
+- important_name: True
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+
+## run_goal_loop
+- files_count: 6
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/goal_loop_bridge_v1.py
+  - gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+
+## summary
+- files_count: 6
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_official_runtime_v1/evolution/proposal_manager.py
+
+## refresh_screen
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent_loop_v1.py
+  - archive/legacy_scripts_v1/gerfex_agent_loop_v1.py
+
+## open_first_result
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_click_result.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_click_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_click_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_click_result.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_click_result.py
+  - archive/legacy_scripts_v1/gerfex_click_result.py
+
+## step_open_chrome
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v1.py
+  - archive/legacy_scripts_v1/goal_loop_v1.py
+
+## step_dump_ui
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v1.py
+  - archive/legacy_scripts_v1/goal_loop_v1.py
+
+## search
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2.py
+  - archive/legacy_scripts_v1/goal_loop_v2.py
+
+## wait_for_new_dump
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_1.py
+  - archive/legacy_scripts_v1/goal_loop_v2_1.py
+
+## wait_for_chrome_dump
+- files_count: 6
+- important_name: True
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_2.py
+  - archive/legacy_scripts_v1/goal_loop_v2_2.py
+
+## wait_fresh_dump
+- files_count: 5
+- important_name: True
+- files:
+  - gerfex_recover.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_recover.py
+  - archive/releases/gerfex_v3_recovery_bundle/gerfex_recover.py
+  - archive/releases/gerfex_v3_recovery_bundle_success/gerfex_recover.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_recover.py
+
+## memory
+- files_count: 5
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+
+## normalize_app
+- files_count: 5
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+
+## search_google
+- files_count: 5
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+
+## screenshot
+- files_count: 5
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+
+## set_active_app
+- files_count: 4
+- important_name: True
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## load_recovery_log
+- files_count: 4
+- important_name: True
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## save_recovery_log
+- files_count: 4
+- important_name: True
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## record_recovery
+- files_count: 4
+- important_name: True
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## recover_from_ui_freeze
+- files_count: 4
+- important_name: True
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## load_learning
+- files_count: 4
+- important_name: True
+- files:
+  - learning_engine.py
+  - gerfex_checkpoint_learning_engine_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/learning_engine.py
+
+## save_learning
+- files_count: 4
+- important_name: True
+- files:
+  - learning_engine.py
+  - gerfex_checkpoint_learning_engine_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/learning_engine.py
+
+## skills
+- files_count: 4
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## goals
+- files_count: 4
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## queue
+- files_count: 4
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## clear_queue
+- files_count: 4
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## screen_parse
+- files_count: 4
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## queen_core
+- files_count: 3
+- important_name: True
+- files:
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+
+## dump_and_read_ui
+- files_count: 1
+- important_name: True
+- files:
+  - gerfex_decision_loop_bundle_v1/decision_loop_bundle.py
+
+## dump_until_package
+- files_count: 1
+- important_name: True
+- files:
+  - gerfex_checkpoint_smart_observe_youtube_v1/queue_runner_apps_v2.py
+
+## safe_read
+- files_count: 1
+- important_name: True
+- files:
+  - gerfex_inventory_audit_v1_20260529_195550/full_inventory_builder.py
+
+## json_summary
+- files_count: 1
+- important_name: True
+- files:
+  - gerfex_inventory_audit_v1_20260529_195550/full_inventory_builder.py
+
+## run
+- files_count: 403
+- important_name: False
+- files:
+  - gerfex.py
+  - recovery_reader.py
+  - gerfex_runtime.py
+  - gerfex_runtime_before_search_core_v2.py
+  - gerfex_goal_loop_core.py
+  - goal_engine.py
+  - gerfex_v3.py
+  - gerfex_web.py
+  - gerfex_app.py
+  - gerfex_recover.py
+  - gerfex_planner.py
+  - gerfex_web_backup_before_fast_3_3.py
+  - smart_action_engine.py
+  - flow_engine.py
+  - smart_action_engine_old.py
+  - flow_engine_old_before_fast_3_1.py
+  - gerfex_mvp.py
+  - gerfex_sovereign.py
+  - read_opened_article.py
+  - autonomous_news.py
+  - gerfex_checkpoint_search_core_v2/gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_ultimate_core_v1/autonomous_goal_loop.py
+  - gerfex_checkpoint_before_core_layers_v1/flow_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/flow_engine_old_before_fast_3_1.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_app.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_mvp.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_planner.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_recover.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime_before_search_core_v2.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_sovereign.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_v3.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web_backup_before_fast_3_3.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/recovery_reader.py
+  - gerfex_checkpoint_before_core_layers_v1/smart_action_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/smart_action_engine_old.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/autonomous_news.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_news_20260528_172735/autonomous_news.py
+  - gerfex_checkpoint_dynamic_news_v1/autonomous_news.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/autonomous_news.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/autonomous_news.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/autonomous_news.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/autonomous_news.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/autonomous_news.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/autonomous_news.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queen_internal_skill.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/autonomous_news.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/adaptive_executor.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent_loop_v1.py
+  - ... 323 more
+
+## main
+- files_count: 346
+- important_name: False
+- files:
+  - queue_runner.py
+  - gerfex_runtime.py
+  - gerfex_goal_loop_core.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_intent_intelligence_v1/queue_runner.py
+  - gerfex_checkpoint_intent_learning_v1/queue_runner.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/queue_runner.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/queue_runner.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/queue_runner.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/queue_runner.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_visual_confirm_20260528_171458/queue_runner.py
+  - gerfex_checkpoint_visual_confirm_v1/queue_runner.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queue_runner.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queue_runner.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queue_runner.py
+  - gerfex_inventory_audit_v1_20260529_195550/full_inventory_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/runtime_flow_audit_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/runtime_flow_audit_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/runtime_flow_audit_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/runtime_flow_audit_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - archive/gerfex_checkpoint_action_router_v1/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/task_planner.py
+  - ... 266 more
+
+## execute
+- files_count: 235
+- important_name: False
+- files:
+  - queue_runner.py
+  - gerfex_runtime_before_search_core_v2.py
+  - gerfex_checkpoint_search_core_v2/gerfex_runtime.py
+  - gerfex_checkpoint_intent_intelligence_v1/queue_runner.py
+  - gerfex_checkpoint_intent_learning_v1/queue_runner.py
+  - gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_clean_core_v1/queue_runner.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime_before_search_core_v2.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/queue_runner.py
+  - checkpoint_search_open_samsung_verified_v1/queue_runner.py
+  - checkpoint_search_open_samsung_working_v2/queue_runner.py
+  - backup_before_visual_confirm_20260528_171458/queue_runner.py
+  - gerfex_checkpoint_visual_confirm_v1/queue_runner.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queue_runner.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queue_runner.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queue_runner.py
+  - archive/gerfex_checkpoint_action_router_v1/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_agent_active_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_core_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_decision_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v2/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/queue_runner.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_context_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_attention_headline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_auto_verify_v1/queue_runner.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_browser_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_commands_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_following_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_context_stability_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_arms_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/queue_runner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/queue_runner.py
+  - archive/gerfex_checkpoint_failure_learning_v1/queue_runner.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_arm_adapter.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/queue_runner.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_arm_adapter.py
+  - ... 155 more
+
+## wait
+- files_count: 218
+- important_name: False
+- files:
+  - android_bridge.py
+  - gerfex_checkpoint_intent_intelligence_v1/android_bridge.py
+  - gerfex_checkpoint_intent_learning_v1/android_bridge.py
+  - gerfex_checkpoint_action_resolver_v1/android_bridge.py
+  - gerfex_checkpoint_goal_loop_v1/android_bridge.py
+  - gerfex_integrated_core_v1/android_bridge.py
+  - gerfex_checkpoint_core_integration_v1/android_bridge.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/android_bridge.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_general_v1/android_bridge.py
+  - gerfex_checkpoint_smart_observe_package_v1/android_bridge.py
+  - gerfex_checkpoint_android_runner_package_v1/android_bridge.py
+  - gerfex_checkpoint_intent_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_action_executor_package_v1/android_bridge.py
+  - gerfex_checkpoint_goal_system_package_v1/android_bridge.py
+  - gerfex_checkpoint_decision_engine_package_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/android_bridge.py
+  - gerfex_checkpoint_mvp_confirmed_v1/android_bridge.py
+  - gerfex_checkpoint_clean_core_v1/android_bridge.py
+  - gerfex_checkpoint_before_core_layers_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1/android_bridge.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/android_bridge.py
+  - checkpoint_search_open_samsung_verified_v1/android_bridge.py
+  - checkpoint_search_open_samsung_working_v2/android_bridge.py
+  - backup_before_visual_confirm_20260528_171458/android_bridge.py
+  - gerfex_checkpoint_visual_confirm_v1/android_bridge.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/android_bridge.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/android_bridge.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - archive/gerfex_checkpoint_action_router_v1/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/android_bridge.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/android_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/android_bridge.py
+  - archive/gerfex_checkpoint_agent_core_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v2/android_bridge.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/android_bridge.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_auto_verify_v1/android_bridge.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/android_bridge.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/android_bridge.py
+  - archive/gerfex_checkpoint_browser_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/android_bridge.py
+  - archive/gerfex_checkpoint_commands_working_v1/android_bridge.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/android_bridge.py
+  - archive/gerfex_checkpoint_context_stability_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_arms_v1/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/android_bridge.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/android_bridge.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/android_bridge.py
+  - archive/gerfex_checkpoint_end_of_day_v1/android_bridge.py
+  - archive/gerfex_checkpoint_failure_learning_v1/android_bridge.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/android_bridge.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/android_bridge.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/android_bridge.py
+  - ... 138 more
+
+## load_json
+- files_count: 194
+- important_name: False
+- files:
+  - gerfex_runtime.py
+  - gerfex_goal_loop_core.py
+  - collector_v1.py
+  - goal_engine.py
+  - gerfex_launcher.py
+  - smart_action_engine.py
+  - smart_action_engine_old.py
+  - queen_core.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/smart_action_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/smart_action_engine_old.py
+  - checkpoint_search_open_v1/queen_core.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_v1/collector_v1.py
+  - checkpoint_search_open_samsung_verified_v1/queen_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/collector_v1.py
+  - checkpoint_search_open_samsung_working_v2/queen_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/collector_v1.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/collector_v1.py
+  - checkpoint_autonomous_news_v1/queen_core.py
+  - gerfex_checkpoint_autonomous_router_v1/queen_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/collector_v1.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queen_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/collector_v1.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queen_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/collector_v1.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queen_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/collector_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queen_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - ... 114 more
+
+## run_cmd
+- files_count: 161
+- important_name: False
+- files:
+  - queue_runner.py
+  - gerfex_checkpoint_intent_intelligence_v1/queue_runner.py
+  - gerfex_checkpoint_intent_learning_v1/queue_runner.py
+  - gerfex_checkpoint_clean_core_v1/queue_runner.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/queue_runner.py
+  - checkpoint_search_open_samsung_verified_v1/queue_runner.py
+  - checkpoint_search_open_samsung_working_v2/queue_runner.py
+  - backup_before_visual_confirm_20260528_171458/queue_runner.py
+  - gerfex_checkpoint_visual_confirm_v1/queue_runner.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queue_runner.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queue_runner.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/environment_awareness_builder.py
+  - archive/gerfex_checkpoint_action_router_v1/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_agent_active_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_core_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_decision_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v2/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/queue_runner.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_context_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_attention_headline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_auto_verify_v1/queue_runner.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_browser_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_commands_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_following_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_stability_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_arms_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/queue_runner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/queue_runner.py
+  - archive/gerfex_checkpoint_failure_learning_v1/queue_runner.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/queue_runner.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_full_android_control/queue_runner.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_executor_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/queue_runner.py
+  - archive/gerfex_checkpoint_google_search_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_summary_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_system_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_observation_layer_v1/queue_runner.py
+  - ... 81 more
+
+## think
+- files_count: 160
+- important_name: False
+- files:
+  - queen_api.py
+  - gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - checkpoint_search_open_v1/queen_api.py
+  - checkpoint_search_open_samsung_verified_v1/queen_api.py
+  - checkpoint_search_open_samsung_working_v2/queen_api.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_adapter.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/adapters/mock_brain_adapter.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_adapter.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_adapter_queen_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - ... 80 more
+
+## rish_cmd
+- files_count: 152
+- important_name: False
+- files:
+  - queue_runner.py
+  - gerfex_checkpoint_intent_intelligence_v1/queue_runner.py
+  - gerfex_checkpoint_intent_learning_v1/queue_runner.py
+  - gerfex_checkpoint_clean_core_v1/queue_runner.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1/queue_runner.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/queue_runner.py
+  - checkpoint_search_open_samsung_verified_v1/queue_runner.py
+  - checkpoint_search_open_samsung_working_v2/queue_runner.py
+  - backup_before_visual_confirm_20260528_171458/queue_runner.py
+  - gerfex_checkpoint_visual_confirm_v1/queue_runner.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queue_runner.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queue_runner.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/queue_runner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queue_runner.py
+  - archive/gerfex_checkpoint_action_router_v1/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_chrome_focus_fix/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v1_recovery_v2/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_recovery_sequence/queue_runner.py
+  - archive/gerfex_checkpoint_adaptive_ui_agent_v2_retry_cycle/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_agent_active_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_core_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_decision_v1/queue_runner.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v2/queue_runner.py
+  - archive/gerfex_checkpoint_android_executor_v3_dynamic_coords/queue_runner.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_context_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_open_and_dump_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_article_reading_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_attention_headline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_auto_verify_v1/queue_runner.py
+  - archive/gerfex_checkpoint_bad_ui_xml_recovery/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_browser_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/queue_runner.py
+  - archive/gerfex_checkpoint_commands_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_following_v1/queue_runner.py
+  - archive/gerfex_checkpoint_context_stability_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_arms_v1/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_direct_article_open_v1/queue_runner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/queue_runner.py
+  - archive/gerfex_checkpoint_failure_learning_v1/queue_runner.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/queue_runner.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/queue_runner.py
+  - archive/gerfex_checkpoint_full_android_control/queue_runner.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_executor_v1/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/queue_runner.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/queue_runner.py
+  - archive/gerfex_checkpoint_google_search_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_summary_v1/queue_runner.py
+  - archive/gerfex_checkpoint_memory_system_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/queue_runner_before_context_v1.py
+  - archive/gerfex_checkpoint_observation_layer_v1/queue_runner.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/queue_runner.py
+  - archive/gerfex_checkpoint_open_first_result_v1/queue_runner.py
+  - archive/gerfex_checkpoint_planner_memory_v1/queue_runner.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/queue_runner.py
+  - ... 72 more
+
+## load_registry
+- files_count: 113
+- important_name: False
+- files:
+  - package_loader_v1.py
+  - package_installer_v1.py
+  - gerfex_checkpoint_package_loader_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_runner_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_loader_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_loader_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_installer_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_installer_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_loader.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/tool_registry.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/tool_registry.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/tool_registry.py
+  - archive/gerfex_checkpoint_context_stability_v1/tool_registry.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/tool_registry.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/tool_registry.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/tool_registry.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/tool_registry.py
+  - archive/gerfex_checkpoint_observation_layer_v1/tool_registry.py
+  - archive/gerfex_checkpoint_policy_v1/tool_registry.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/tool_registry.py
+  - archive/gerfex_checkpoint_screen_compare_v1/tool_registry.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/tool_registry.py
+  - archive/gerfex_checkpoint_target_preview_v1/tool_registry.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/tool_registry.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/tool_registry.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/tool_registry.py
+  - archive/gerfex_anatomy_phase_v1/tool_registry.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_loader_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_installer_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_loader.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_loader_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_installer_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_loader.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_loader.py
+  - ... 33 more
+
+## save_json
+- files_count: 99
+- important_name: False
+- files:
+  - gerfex_runtime.py
+  - gerfex_goal_loop_core.py
+  - goal_engine.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase6_collector_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_ranker_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_working/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_ranked_answer_success/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase10_dynamic_collector/gerfex_goal_loop_core.py
+  - archive/releases/phase11_context_rank_success/gerfex_goal_loop_core.py
+  - archive/releases/phase13_feed_collector_linked/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_full/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_working_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_selector_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_selected_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_success/gerfex_goal_loop_core.py
+  - archive/releases/verify_layer_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_verify_full_clean/gerfex_goal_loop_core.py
+  - archive/releases/arm_execute_verify_success/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1/gerfex_goal_loop_core.py
+  - archive/releases/gerfex_query_sync_fix/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1_chrome_success/gerfex_goal_loop_core.py
+  - archive/releases/milestone_real_app_control_v1/gerfex_goal_loop_core.py
+  - archive/releases/chrome_clean_verify_success/gerfex_goal_loop_core.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - ... 19 more
+
+## decide
+- files_count: 95
+- important_name: False
+- files:
+  - brain_manager.py
+  - decision_core.py
+  - gerfex_ultimate_core_v1/decision_brain_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/brain_manager.py
+  - gerfex_checkpoint_before_core_layers_v1/decision_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_agent_active_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/policy_engine.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/policy_engine.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/policy_engine.py
+  - archive/gerfex_checkpoint_article_context_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_attention_headline_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_decide.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v1.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/policy_engine.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/policy_engine.py
+  - archive/gerfex_checkpoint_context_following_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_context_stability_v1/policy_engine.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_decide.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_decide.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v1.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/policy_engine.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/policy_engine.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/policy_engine.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/policy_engine.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v1.py
+  - archive/gerfex_checkpoint_observation_layer_v1/policy_engine.py
+  - archive/gerfex_checkpoint_policy_v1/policy_engine.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/policy_engine.py
+  - archive/gerfex_checkpoint_screen_compare_v1/policy_engine.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/policy_engine.py
+  - archive/gerfex_checkpoint_target_preview_v1/policy_engine.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/policy_engine.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/policy_engine.py
+  - archive/legacy_scripts_v1/gerfex_decide.py
+  - archive/legacy_scripts_v1/gerfex_agent.py
+  - archive/legacy_scripts_v1/gerfex_agent_loop_v1.py
+  - archive/legacy_scripts_v1/goal_loop_v1.py
+  - archive/gerfex_anatomy_phase_v1/policy_engine.py
+  - archive/releases/gerfex_complete_v1_final/brain_manager.py
+  - archive/releases/gerfex_complete_v1_success/brain_manager.py
+  - archive/releases/phase2_before_goal_agent/brain_manager.py
+  - archive/releases/phase3_before_recovery/brain_manager.py
+  - archive/releases/phase5_before_goal_loop_core/brain_manager.py
+  - archive/releases/phase5_preinstall/brain_manager.py
+  - archive/releases/phase6_preinstall/brain_manager.py
+  - archive/releases/phase8_preinstall/brain_manager.py
+  - archive/releases/gerfex_sovereign_core_bundle/decision_core.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/decision_core.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/decision_brain_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/decision_brain_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/decision_brain_v1.py
+  - ... 15 more
+
+## root
+- files_count: 95
+- important_name: False
+- files:
+  - queen_api.py
+  - gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - checkpoint_search_open_v1/queen_api.py
+  - checkpoint_search_open_samsung_verified_v1/queen_api.py
+  - checkpoint_search_open_samsung_working_v2/queen_api.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend_before_queen.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/backup_control_center_v1_20260529_210539/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_official_runtime_v1/agent/queen_api.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - ... 15 more
+
+## make_plan
+- files_count: 91
+- important_name: False
+- files:
+  - gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/task_planner.py
+  - archive/gerfex_checkpoint_agent_core_v1/task_planner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_planner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/task_planner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/task_planner.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_planner_memory_v1/task_planner.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_planner.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_planner.py
+  - archive/gerfex_phase_multi_tool_planner/multi_tool_planner.py
+  - archive/legacy_scripts_v1/task_planner.py
+  - archive/legacy_scripts_v1/gerfex_planner.py
+  - archive/releases/gerfex_v1.py
+  - archive/releases/gerfex_v1_chrome_dump_fixed/gerfex.py
+  - archive/releases/gerfex_complete_v1/gerfex.py
+  - archive/releases/gerfex_complete_v1_final/gerfex.py
+  - archive/releases/gerfex_complete_v1_success/gerfex.py
+  - archive/releases/phase2_before_goal_agent/gerfex.py
+  - archive/releases/phase2_goal_agent_success/gerfex.py
+  - archive/releases/phase3_before_recovery/gerfex.py
+  - archive/releases/phase3_recovery_reader_success_final/gerfex.py
+  - archive/releases/runtime_read_recovery_success/gerfex.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_goal_loop_core.py
+  - archive/releases/phase5_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_ranker_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_working/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_success/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase10_dynamic_collector/gerfex_goal_loop_core.py
+  - archive/releases/phase11_context_rank_success/gerfex_goal_loop_core.py
+  - archive/releases/phase13_feed_collector_linked/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_full/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_working_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_selector_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_selected_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_success/gerfex_goal_loop_core.py
+  - archive/releases/verify_layer_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_verify_full_clean/gerfex_goal_loop_core.py
+  - archive/releases/arm_execute_verify_success/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1/gerfex_goal_loop_core.py
+  - archive/releases/gerfex_query_sync_fix/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1_chrome_success/gerfex_goal_loop_core.py
+  - archive/releases/milestone_real_app_control_v1/gerfex_goal_loop_core.py
+  - archive/releases/chrome_clean_verify_success/gerfex_goal_loop_core.py
+  - archive/gerfex_checkpoint_unified_v1_success/gerfex_phase_multi_tool_planner/multi_tool_planner.py
+  - archive/gerfex_checkpoint_multi_tool_planner_v1/gerfex_phase_multi_tool_planner/multi_tool_planner.py
+  - archive/gerfex_checkpoint_auto_pipeline_v1/gerfex_phase_multi_tool_planner/multi_tool_planner.py
+  - archive/gerfex_checkpoint_auto_pipeline_memory_safe_v1/gerfex_phase_multi_tool_planner/multi_tool_planner.py
+  - ... 11 more
+
+## plan
+- files_count: 86
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/task_engine.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/task_engine.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/task_engine.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/task_engine.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/task_engine.py
+  - archive/gerfex_checkpoint_context_stability_v1/task_engine.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/task_engine.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/task_engine.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/task_engine.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/task_engine.py
+  - archive/gerfex_checkpoint_observation_layer_v1/task_engine.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/task_engine.py
+  - archive/gerfex_checkpoint_screen_compare_v1/task_engine.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/task_engine.py
+  - archive/gerfex_checkpoint_target_preview_v1/task_engine.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/task_engine.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/task_engine.py
+  - archive/gerfex_anatomy_phase_v1/task_engine.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/goal_planner.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/goal_planner.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_official_runtime_v1/runtime/goal_planner.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/goal_planner.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_runtime_v1/runtime/goal_planner.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - ... 6 more
+
+## rish
+- files_count: 82
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - ... 2 more
+
+## wait_for_package
+- files_count: 81
+- important_name: False
+- files:
+  - gerfex_smart_observe_general_bundle_v1/smart_observe.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/core/action_executor_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_stable_core_api_package_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_ultimate_core_v1/core/action_executor_v1.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - gerfex_packages/smart_observe_package_v1/smart_observe.py
+  - ... 1 more
+
+## remember
+- files_count: 77
+- important_name: False
+- files:
+  - gerfex_runtime.py
+  - gerfex_runtime_before_search_core_v2.py
+  - gerfex_goal_loop_core.py
+  - gerfex_checkpoint_search_core_v2/gerfex_runtime.py
+  - gerfex_checkpoint_runtime_search_core_v2_clean/gerfex_runtime.py
+  - gerfex_checkpoint_search_core_ranker_v2/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_runtime_before_search_core_v2.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - archive/releases/runtime_read_recovery_success/gerfex_runtime.py
+  - archive/releases/phase4_google_search_visible_success/gerfex_runtime.py
+  - archive/releases/phase4_search_open_by_tap_best/gerfex_runtime.py
+  - archive/releases/phase4_search_visible_open_attempt_safe/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_runtime.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase5_preinstall/gerfex_runtime.py
+  - archive/releases/phase5_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase6_preinstall/gerfex_runtime.py
+  - archive/releases/phase6_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase6_collector_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_ranker_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_working/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_runtime.py
+  - archive/releases/phase8_preinstall/gerfex_runtime_before_search_core_v2.py
+  - archive/releases/phase8_ranked_answer_success/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase10_dynamic_collector/gerfex_goal_loop_core.py
+  - archive/releases/phase11_context_rank_success/gerfex_goal_loop_core.py
+  - archive/releases/phase13_feed_collector_linked/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_full/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_working_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_selector_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_selected_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_success/gerfex_goal_loop_core.py
+  - archive/releases/verify_layer_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_verify_full_clean/gerfex_goal_loop_core.py
+  - archive/releases/arm_execute_verify_success/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1/gerfex_goal_loop_core.py
+  - archive/releases/gerfex_query_sync_fix/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1_chrome_success/gerfex_goal_loop_core.py
+  - archive/releases/milestone_real_app_control_v1/gerfex_goal_loop_core.py
+  - archive/releases/chrome_clean_verify_success/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+
+## execute_plan
+- files_count: 67
+- important_name: False
+- files:
+  - gerfex_goal_loop_core.py
+  - gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_verified_v1/gerfex_goal_loop_core.py
+  - checkpoint_search_open_samsung_working_v2/gerfex_goal_loop_core.py
+  - checkpoint_autonomous_news_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_goal_loop_core.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_success/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_fixed/gerfex_goal_loop_core.py
+  - archive/releases/phase5_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase5_goal_loop_core_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_success/gerfex_goal_loop_core.py
+  - archive/releases/phase6_collector_ranker_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_success/gerfex_goal_loop_core.py
+  - archive/releases/phase7_synth_working/gerfex_goal_loop_core.py
+  - archive/releases/phase8_preinstall/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_success/gerfex_goal_loop_core.py
+  - archive/releases/phase8_ranked_answer_final_success/gerfex_goal_loop_core.py
+  - archive/releases/phase10_dynamic_collector/gerfex_goal_loop_core.py
+  - archive/releases/phase11_context_rank_success/gerfex_goal_loop_core.py
+  - archive/releases/phase13_feed_collector_linked/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_full/gerfex_goal_loop_core.py
+  - archive/releases/task_planner_working_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_system_selector_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_executor_selected_success/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_bridge_execute_success/gerfex_goal_loop_core.py
+  - archive/releases/verify_layer_full/gerfex_goal_loop_core.py
+  - archive/releases/arm_verify_full_clean/gerfex_goal_loop_core.py
+  - archive/releases/arm_execute_verify_success/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1/gerfex_goal_loop_core.py
+  - archive/releases/gerfex_query_sync_fix/gerfex_goal_loop_core.py
+  - archive/releases/core_arms_pack_v1_chrome_success/gerfex_goal_loop_core.py
+  - archive/releases/milestone_real_app_control_v1/gerfex_goal_loop_core.py
+  - archive/releases/chrome_clean_verify_success/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_official_runtime_v1/agent/gerfex_goal_loop_core.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+
+## run_rish
+- files_count: 67
+- important_name: False
+- files:
+  - queue_runner_apps_v2.py
+  - gerfex_checkpoint_action_resolver_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_goal_loop_v1/queue_runner_apps_v2.py
+  - gerfex_integrated_core_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_core_integration_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_general_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_package_v1/queue_runner_apps_v2.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner_apps_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_vision.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_see.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_vision.py
+  - archive/gerfex_checkpoint_vision_ocr_v1/screen_vision.py
+  - archive/gerfex_checkpoint_vision_ocr_v2/gerfex_see.py
+  - archive/legacy_scripts_v1/screen_vision.py
+  - archive/legacy_scripts_v1/gerfex_see.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/queue_runner_apps_v2.py
+
+## score_item
+- files_count: 66
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/mini_brain.py
+  - archive/gerfex_checkpoint_core_arms_v1/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mini_brain.py
+  - archive/gerfex_checkpoint_google_search_working_v1/mini_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mini_brain.py
+  - archive/legacy_scripts_v1/mini_brain.py
+  - archive/gerfex_core_arms_v1_clean/mini_brain.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/runtime/mission_test_find_address_bar_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+
+## load_xml
+- files_count: 65
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/screen_understanding.py
+
+## analyze
+- files_count: 64
+- important_name: False
+- files:
+  - gerfex_audit_decision_v1.py
+  - gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+
+## normalize
+- files_count: 63
+- important_name: False
+- files:
+  - gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_intelligence_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+
+## score
+- files_count: 56
+- important_name: False
+- files:
+  - search_ranker_v2.py
+  - search_ranker_v2_before_google_news.py
+  - gerfex_checkpoint_search_core_ranker_v2/search_ranker_v2.py
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/search_ranker_v2.py
+  - checkpoint_search_open_v1/search_ranker_v2.py
+  - checkpoint_search_open_samsung_verified_v1/search_ranker_v2.py
+  - checkpoint_search_open_samsung_working_v2/search_ranker_v2.py
+  - checkpoint_autonomous_news_v1/search_ranker_v2.py
+  - gerfex_checkpoint_autonomous_router_v1/search_ranker_v2.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/search_ranker_v2.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/search_ranker_v2.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - archive/releases/phase5_before_goal_loop_core/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_success/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_fixed/search_ranker_v2.py
+  - archive/releases/phase5_preinstall/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_final_success/search_ranker_v2.py
+  - archive/releases/phase6_preinstall/search_ranker_v2.py
+  - archive/releases/phase6_collector_success/search_ranker_v2.py
+  - archive/releases/phase6_collector_ranker_success/search_ranker_v2.py
+  - archive/releases/phase7_synth_working/search_ranker_v2.py
+  - archive/releases/phase8_preinstall/search_ranker_v2.py
+  - archive/releases/phase8_ranked_answer_success/search_ranker_v2.py
+  - archive/releases/phase8_ranked_answer_final_success/search_ranker_v2.py
+  - archive/releases/phase10_dynamic_collector/search_ranker_v2.py
+  - archive/releases/phase11_context_rank/search_ranker_v2.py
+  - archive/releases/phase11_context_rank_success/search_ranker_v2.py
+  - archive/releases/phase12_collector_schema/search_ranker_v2.py
+  - archive/releases/phase13_feed_collector/search_ranker_v2.py
+  - archive/releases/phase13_feed_collector_linked/search_ranker_v2.py
+  - archive/releases/task_planner_working_success/search_ranker_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## run_task
+- files_count: 56
+- important_name: False
+- files:
+  - gerfex_task_router.py
+  - gerfex_checkpoint_autonomous_router_v1/gerfex_task_router.py
+  - backup_before_dynamic_news_20260528_172735/gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_news_v1/gerfex_task_router.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_context_stability_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_context_stability_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/task_runner_adapter.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/task_runner_sim.py
+  - archive/gerfex_checkpoint_observation_layer_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_observation_layer_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_screen_compare_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_screen_compare_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_target_preview_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_target_preview_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/task_runner_sim.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/task_runner_adapter.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/task_runner_sim.py
+  - archive/gerfex_anatomy_phase_v1/task_runner_sim.py
+  - archive/gerfex_anatomy_phase_v1/task_runner_adapter.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_official_runtime_v1/agent/gerfex_task_router.py
+
+## classify
+- files_count: 56
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_router.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_active_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_summarize_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_article_context_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_attention_headline_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_decide.py
+  - archive/gerfex_checkpoint_context_following_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_decide.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_decide.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_decide.py
+  - archive/legacy_scripts_v1/gerfex_decide.py
+  - archive/legacy_scripts_v1/gerfex_agent.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_router.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/brain_router.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/brain_router.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/brain_router.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/brain_router.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/brain_router.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/brain_router.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/brain_router.py
+  - gerfex_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+
+## get_package
+- files_count: 53
+- important_name: False
+- files:
+  - package_loader_v1.py
+  - gerfex_checkpoint_package_loader_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_runner_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_loader_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_loader_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_loader_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_loader.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_loader_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_loader.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_official_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_loader.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_loader.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_loader.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_loader.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_loader.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_loader_v1.py
+  - gerfex_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_runtime_v1/runtime/package_loader.py
+
+## set_model
+- files_count: 53
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+
+## current_model
+- files_count: 53
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/agent/legacy_brain_files_archived/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/llm_bridge_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/llm_bridge_v1.py
+
+## extract_items
+- files_count: 52
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+
+## classify_item
+- files_count: 52
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+
+## best
+- files_count: 52
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+
+## load_profile
+- files_count: 51
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/generic_semantic_engine_v1.py
+
+## parse_bounds
+- files_count: 50
+- important_name: False
+- files:
+  - screen_reader.py
+  - gerfex_checkpoint_clean_core_v1/screen_reader.py
+  - gerfex_checkpoint_before_core_layers_v1/screen_reader.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_reader.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_reader.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_reader.py
+  - archive/gerfex_checkpoint_browser_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/screen_reader.py
+  - archive/gerfex_checkpoint_commands_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_reader.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_arms_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_reader.py
+  - archive/gerfex_checkpoint_end_of_day_v1/screen_reader.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/screen_reader.py
+  - archive/gerfex_checkpoint_google_search_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observation_layer_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_open_first_result_v1/screen_reader.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/screen_reader.py
+  - archive/gerfex_checkpoint_research_stable_v1/screen_reader.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_reader.py
+  - archive/gerfex_checkpoint_search_read_results_v1/screen_reader.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/screen_reader.py
+  - archive/gerfex_checkpoint_target_preview_v1/screen_reader.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/screen_reader.py
+  - archive/gerfex_checkpoint_web_agent_v1/screen_reader.py
+  - archive/gerfex_anatomy_phase_v1/screen_reader.py
+  - archive/gerfex_core_arms_v1_clean/screen_reader.py
+  - archive/releases/phase5_goal_loop_core_fixed/screen_reader.py
+  - archive/releases/phase5_preinstall/screen_reader.py
+  - archive/releases/phase5_goal_loop_core_final_success/screen_reader.py
+  - archive/releases/phase6_preinstall/screen_reader.py
+  - archive/releases/phase8_preinstall/screen_reader.py
+  - archive/releases/verify_layer_full/screen_reader.py
+  - archive/releases/interaction_pack_v1/screen_reader.py
+  - archive/releases/interaction_clean_v2/screen_reader.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/screen_reader_bridge.py
+  - gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+
+## wait_semantic_results
+- files_count: 49
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/skills/youtube_skill_v2.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_stable_core_api_package_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+  - gerfex_ultimate_core_v1/skills/youtube_skill_v2.py
+
+## make_command
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+
+## make_result
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+
+## update_status
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/command_protocol_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/command_protocol_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/command_protocol_v1.py
+
+## extract_query
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/planner_v2.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/planner_v2.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/planner_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/planner_v2.py
+
+## think_route
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+
+## execute_route
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_official_runtime_v1/packages/stable_core_api/api_bridge_v1.py
+  - gerfex_checkpoint_full_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_goal_planner_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_skill_registry_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_runtime_v1/packages/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_stable_core_api_package_v1/api_bridge_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/api_bridge_v1.py
+
+## dispatch
+- files_count: 48
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_dispatcher.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/secure_dispatcher.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/brain_dispatcher.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/secure_dispatcher.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_official_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_official_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/secure_dispatcher.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/brain_dispatcher.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/secure_dispatcher.py
+  - gerfex_runtime_v1/runtime/brain_dispatcher.py
+  - gerfex_runtime_v1/runtime/secure_dispatcher.py
+
+## center
+- files_count: 44
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/open_first_result.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_reader.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_reader.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/open_first_result.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_reader.py
+  - archive/gerfex_checkpoint_browser_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/screen_reader.py
+  - archive/gerfex_checkpoint_commands_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_reader.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_arms_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/open_first_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/open_first_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_reader.py
+  - archive/gerfex_checkpoint_end_of_day_v1/screen_reader.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/screen_reader.py
+  - archive/gerfex_checkpoint_google_search_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/open_first_result.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observation_layer_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_open_first_result_v1/screen_reader.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/screen_reader.py
+  - archive/gerfex_checkpoint_research_stable_v1/screen_reader.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_reader.py
+  - archive/gerfex_checkpoint_search_read_results_v1/screen_reader.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/screen_reader.py
+  - archive/gerfex_checkpoint_target_preview_v1/screen_reader.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/screen_reader.py
+  - archive/gerfex_checkpoint_web_agent_v1/screen_reader.py
+  - archive/gerfex_anatomy_phase_v1/screen_reader.py
+  - archive/gerfex_core_arms_v1_clean/screen_reader.py
+  - archive/releases/gerfex_complete_v1/open_first_result.py
+  - archive/releases/gerfex_complete_v1_final/open_first_result.py
+  - archive/releases/gerfex_complete_v1_success/open_first_result.py
+  - archive/releases/phase2_before_goal_agent/open_first_result.py
+  - archive/releases/phase3_before_recovery/open_first_result.py
+  - archive/releases/phase4_google_search_visible_success/open_first_result.py
+
+## save_registry
+- files_count: 40
+- important_name: False
+- files:
+  - package_installer_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_installer_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_installer_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_installer_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_installer_v1.py
+  - gerfex_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_package_system_core_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_packages/package_system_core_v1/package_registry.py
+
+## build_plan
+- files_count: 37
+- important_name: False
+- files:
+  - task_planner.py
+  - goal_engine.py
+  - gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/task_planner.py
+  - archive/releases/task_planner_full/task_planner.py
+  - archive/releases/task_planner_working_success/task_planner.py
+  - archive/releases/arm_system_selector_success/task_planner.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - archive/releases/v2_session_auto_success/goal_engine.py
+  - archive/releases/v2_router_link_success/goal_engine.py
+  - archive/releases/gerfex_v3_bundle/goal_engine.py
+  - archive/releases/gerfex_v3_bundle_success/goal_engine.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/planner_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/planner_v1.py
+
+## load_policy
+- files_count: 36
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/memory_guard.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/browser_runtime_policy.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/memory_guard.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/memory_guard.py
+  - gerfex_runtime_v1/runtime/memory_guard.py
+
+## save_state
+- files_count: 34
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/task_planner.py
+  - archive/gerfex_checkpoint_agent_core_v1/task_planner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/task_planner.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/task_planner.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_planner_memory_v1/task_planner.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/task_planner.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## resolve_target
+- files_count: 33
+- important_name: False
+- files:
+  - gerfex_phase_action_resolver_v1/resolver_engine.py
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_packages/intent_system_package_v1/resolver_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_action_resolver_v1/resolver_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_action_resolver_v1/resolver_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_action_resolver_v1/resolver_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_action_resolver_v1/resolver_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_action_resolver_v1/resolver_engine.py
+
+## visible
+- files_count: 33
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/screen_reader.py
+  - archive/gerfex_checkpoint_agent_core_v1/screen_reader.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/screen_reader.py
+  - archive/gerfex_checkpoint_browser_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/screen_reader.py
+  - archive/gerfex_checkpoint_commands_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_reader.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_arms_v1/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/screen_reader.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/screen_reader.py
+  - archive/gerfex_checkpoint_end_of_day_v1/screen_reader.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v2_chrome_read_success/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v3_open_first_result/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v4_read_open_page/screen_reader.py
+  - archive/gerfex_checkpoint_goal_loop_v7_open_article/screen_reader.py
+  - archive/gerfex_checkpoint_google_search_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observation_layer_v1/screen_reader.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/screen_reader.py
+  - archive/gerfex_checkpoint_open_first_result_v1/screen_reader.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/screen_reader.py
+  - archive/gerfex_checkpoint_research_stable_v1/screen_reader.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_reader.py
+  - archive/gerfex_checkpoint_search_read_results_v1/screen_reader.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/screen_reader.py
+  - archive/gerfex_checkpoint_target_preview_v1/screen_reader.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/screen_reader.py
+  - archive/gerfex_checkpoint_web_agent_v1/screen_reader.py
+  - archive/gerfex_anatomy_phase_v1/screen_reader.py
+  - archive/gerfex_core_arms_v1_clean/screen_reader.py
+
+## show
+- files_count: 31
+- important_name: False
+- files:
+  - gerfex_app.py
+  - gerfex_recover.py
+  - gerfex_web_backup_before_fast_3_3.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_app.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_recover.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web_backup_before_fast_3_3.py
+  - archive/releases/gerfex_v3_web_bundle_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_web_bundle_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_v3_apps_bundle/gerfex_app.py
+  - archive/releases/gerfex_v3_apps_bundle_success/gerfex_app.py
+  - archive/releases/gerfex_v3_recovery_bundle/gerfex_recover.py
+  - archive/releases/gerfex_v3_recovery_bundle_success/gerfex_recover.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_app.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_app.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_app.py
+  - archive/releases/gerfex_v3_planner_bundle_success/gerfex_web.py
+  - archive/releases/gerfex_v3_planner_bundle_success/gerfex_app.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_app.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_web.py
+  - archive/releases/gerfex_v3_final_bundle/gerfex_recover.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web_backup_before_fast_3_3.py
+  - archive/releases/gerfex_v3_flow_fast_3_1/gerfex_app.py
+  - archive/releases/gerfex_v3_flow_fast_3_1_success/gerfex_app.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_app.py
+  - archive/releases/gerfex_mvp_core_stabilization/gerfex_app.py
+  - archive/releases/gerfex_mvp_core_stabilization_success/gerfex_app.py
+  - archive/releases/gerfex_sovereign_core_bundle/gerfex_app.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/gerfex_app.py
+
+## list_packages
+- files_count: 31
+- important_name: False
+- files:
+  - package_loader_v1.py
+  - gerfex_checkpoint_package_loader_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_runner_v1/package_loader_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_loader_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_loader_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_loader_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_loader_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_official_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_loader_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_loader_v1.py
+  - gerfex_runtime_v1/runtime/package_loader_v1.py
+
+## get_status
+- files_count: 31
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/gerfex_status.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/gerfex_status.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_official_runtime_v1/runtime/gerfex_status.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/gerfex_status.py
+  - gerfex_runtime_v1/runtime/gerfex_status.py
+
+## run_package
+- files_count: 30
+- important_name: False
+- files:
+  - package_runner_v1.py
+  - gerfex_checkpoint_package_runner_v1/package_runner_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_runner_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_runner_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_runner_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_runner_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_runner_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_official_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_runner_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_runner_v1.py
+  - gerfex_runtime_v1/runtime/package_runner_v1.py
+
+## check_package
+- files_count: 29
+- important_name: False
+- files:
+  - package_health_check_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_health_check_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_health_check_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_health_check_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_health_check_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_health_check_v1.py
+  - gerfex_runtime_v1/runtime/package_health_check_v1.py
+
+## run_health_check
+- files_count: 29
+- important_name: False
+- files:
+  - package_health_check_v1.py
+  - gerfex_checkpoint_package_health_check_v1/package_health_check_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_health_check_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_health_check_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_health_check_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_official_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_health_check_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_health_check_v1.py
+  - gerfex_runtime_v1/runtime/package_health_check_v1.py
+
+## verify
+- files_count: 29
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_anatomy_action_lifecycle_v1/success_verifier.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/success_verifier.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/success_verifier.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/success_verifier.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/success_verifier.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/success_verifier.py
+  - archive/gerfex_checkpoint_context_stability_v1/success_verifier.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/success_verifier.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/success_verifier.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/success_verifier.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/success_verifier.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_observation_layer_v1/success_verifier.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_policy_v1/success_verifier.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_verify_goal.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/success_verifier.py
+  - archive/gerfex_checkpoint_screen_compare_v1/success_verifier.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/success_verifier.py
+  - archive/gerfex_checkpoint_target_preview_v1/success_verifier.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/success_verifier.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/success_verifier.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/success_verifier.py
+  - archive/legacy_scripts_v1/gerfex_verify_goal.py
+  - archive/gerfex_anatomy_phase_v1/success_verifier.py
+
+## install_package
+- files_count: 28
+- important_name: False
+- files:
+  - package_installer_v1.py
+  - gerfex_checkpoint_clean_core_v1/package_installer_v1.py
+  - gerfex_checkpoint_before_core_layers_v1/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/package_installer_v1.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/package_installer_v1.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_official_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/package_installer_v1.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/package_installer_v1.py
+  - gerfex_runtime_v1/runtime/package_installer_v1.py
+
+## extract_text_nodes
+- files_count: 28
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## find_text
+- files_count: 28
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## status
+- files_count: 27
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/gerfex_launcher.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/gerfex_launcher.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_official_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_official_runtime_v1/agent/gerfex_android_unified.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/gerfex_launcher.py
+  - gerfex_runtime_v1/runtime/gerfex_launcher.py
+
+## is_noise
+- files_count: 27
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/clean_attention.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/headline_detector.py
+  - archive/gerfex_checkpoint_agent_core_v1/clean_attention.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/headline_detector.py
+  - archive/gerfex_checkpoint_attention_headline_v1/clean_attention.py
+  - archive/gerfex_checkpoint_attention_headline_v1/headline_detector.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/clean_attention.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_vision.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/headline_detector.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/clean_attention.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/headline_detector.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/clean_attention.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/headline_detector.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/clean_attention.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/headline_detector.py
+  - archive/gerfex_checkpoint_ui_agent_v1/headline_detector.py
+  - archive/gerfex_checkpoint_ui_agent_v1/clean_attention.py
+  - archive/legacy_scripts_v1/clean_attention.py
+  - archive/legacy_scripts_v1/headline_detector.py
+  - archive/legacy_scripts_v1/gerfex_vision.py
+
+## load_state
+- files_count: 26
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## record_step
+- files_count: 25
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/goal_system_package_v1/goal_state.py
+  - gerfex_packages/goal_system_package_v1/goal_state.py
+
+## can_write
+- files_count: 25
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/memory_guard.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/memory_guard.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_official_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/memory_guard.py
+  - gerfex_checkpoint_runtime_stable_v1/runtime/memory_guard.py
+  - gerfex_runtime_v1/runtime/memory_guard.py
+
+## load_rules
+- files_count: 24
+- important_name: False
+- files:
+  - gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_packages/intent_system_package_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/intent_engine_v2.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_intelligence_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+
+## validate
+- files_count: 24
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/command_protocol_validator.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/command_protocol_validator.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_official_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/command_protocol_validator.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/command_protocol_validator.py
+  - gerfex_runtime_v1/runtime/command_protocol_validator.py
+
+## route
+- files_count: 24
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/brain_router.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/brain_router.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_official_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_full_runtime_v1/runtime/brain_router.py
+  - gerfex_checkpoint_brain_adapter_v1/runtime/brain_router.py
+  - gerfex_checkpoint_goal_planner_v1/runtime/brain_router.py
+  - gerfex_checkpoint_skill_registry_v1/runtime/brain_router.py
+  - gerfex_checkpoint_dynamic_package_loader_v1/runtime/brain_router.py
+  - gerfex_checkpoint_safe_android_execution_v1/runtime/brain_router.py
+  - gerfex_checkpoint_safe_decision_pipeline_v1/runtime/brain_router.py
+  - gerfex_runtime_v1/runtime/brain_router.py
+
+## clean_query
+- files_count: 24
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_3.py
+  - archive/legacy_scripts_v1/goal_loop_v2.py
+  - archive/legacy_scripts_v1/goal_loop_v2_1.py
+  - archive/legacy_scripts_v1/goal_loop_v2_2.py
+  - archive/legacy_scripts_v1/goal_loop_v2_3.py
+
+## recency_score
+- files_count: 23
+- important_name: False
+- files:
+  - search_ranker_v2.py
+  - checkpoint_search_open_v1/search_ranker_v2.py
+  - checkpoint_search_open_samsung_verified_v1/search_ranker_v2.py
+  - checkpoint_search_open_samsung_working_v2/search_ranker_v2.py
+  - checkpoint_autonomous_news_v1/search_ranker_v2.py
+  - gerfex_checkpoint_autonomous_router_v1/search_ranker_v2.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/search_ranker_v2.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/search_ranker_v2.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/search_ranker_v2.py
+  - gerfex_official_runtime_v1/agent/search_ranker_v2.py
+
+## judge
+- files_count: 23
+- important_name: False
+- files:
+  - queen_judgement.py
+  - checkpoint_search_open_v1/queen_judgement.py
+  - checkpoint_search_open_samsung_verified_v1/queen_judgement.py
+  - checkpoint_search_open_samsung_working_v2/queen_judgement.py
+  - checkpoint_autonomous_news_v1/queen_judgement.py
+  - gerfex_checkpoint_autonomous_router_v1/queen_judgement.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/queen_judgement.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/queen_judgement.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/queen_judgement.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/queen_judgement.py
+  - gerfex_official_runtime_v1/agent/queen_judgement.py
+
+## log_action
+- files_count: 22
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## handle
+- files_count: 21
+- important_name: False
+- files:
+  - queue_runner_apps_v2.py
+  - gerfex_checkpoint_action_resolver_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_goal_loop_v1/queue_runner_apps_v2.py
+  - gerfex_integrated_core_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_core_integration_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_runner_v2_open_and_dump/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_youtube_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_general_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_smart_observe_package_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_before_core_layers_v1/queue_runner_apps_v2.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/queue_runner_apps_v2.py
+
+## file_hash
+- files_count: 21
+- important_name: False
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/verify_action.py
+  - archive/gerfex_checkpoint_agent_core_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_agent_core_v1/verify_action.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/recovery_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/verify_action.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/recovery_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/verify_action.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/recovery_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/verify_action.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/verify_action.py
+  - archive/gerfex_checkpoint_planner_memory_v1/recovery_brain.py
+  - archive/gerfex_checkpoint_planner_memory_v1/verify_action.py
+  - archive/gerfex_checkpoint_ui_agent_v1/verify_action.py
+  - archive/legacy_scripts_v1/verify_action.py
+  - archive/legacy_scripts_v1/recovery_brain.py
+
+## wait_package
+- files_count: 21
+- important_name: False
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## parse_clickables
+- files_count: 21
+- important_name: False
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## find_clickable
+- files_count: 21
+- important_name: False
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## enter
+- files_count: 21
+- important_name: False
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runner.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_persistent_runtime_v1/persistent_runner.py
+
+## process_action
+- files_count: 21
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_anatomy_action_lifecycle_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_context_stability_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/action_lifecycle.py
+  - archive/gerfex_checkpoint_observation_layer_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_policy_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_screen_compare_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_target_preview_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/action_lifecycle.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/action_lifecycle.py
+  - archive/gerfex_anatomy_phase_v1/action_lifecycle.py
+
+## run_audited_action
+- files_count: 21
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_anatomy_action_lifecycle_v1/audited_action.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/audited_action.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/audited_action.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/audited_action.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/audited_action.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/audited_action.py
+  - archive/gerfex_checkpoint_context_stability_v1/audited_action.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/audited_action.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/audited_action.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/audited_action.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/audited_action.py
+  - archive/gerfex_checkpoint_observation_layer_v1/audited_action.py
+  - archive/gerfex_checkpoint_policy_v1/audited_action.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/audited_action.py
+  - archive/gerfex_checkpoint_screen_compare_v1/audited_action.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/audited_action.py
+  - archive/gerfex_checkpoint_target_preview_v1/audited_action.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/audited_action.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/audited_action.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/audited_action.py
+  - archive/gerfex_anatomy_phase_v1/audited_action.py
+
+## audit
+- files_count: 21
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_anatomy_action_lifecycle_v1/tool_audit.py
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/tool_audit.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/tool_audit.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/tool_audit.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/tool_audit.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/tool_audit.py
+  - archive/gerfex_checkpoint_context_stability_v1/tool_audit.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/tool_audit.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/tool_audit.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/tool_audit.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/tool_audit.py
+  - archive/gerfex_checkpoint_observation_layer_v1/tool_audit.py
+  - archive/gerfex_checkpoint_policy_v1/tool_audit.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/tool_audit.py
+  - archive/gerfex_checkpoint_screen_compare_v1/tool_audit.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/tool_audit.py
+  - archive/gerfex_checkpoint_target_preview_v1/tool_audit.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/tool_audit.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/tool_audit.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/tool_audit.py
+  - archive/gerfex_anatomy_phase_v1/tool_audit.py
+
+## verify_step
+- files_count: 20
+- important_name: False
+- files:
+  - goal_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/goal_engine.py
+  - archive/releases/goal_engine_full/goal_engine.py
+  - archive/releases/goal_engine_search_success/goal_engine.py
+  - archive/releases/result_continue_success/goal_engine.py
+  - archive/releases/goal_engine_continue_success/goal_engine.py
+  - archive/releases/next_action_execute_success/goal_engine.py
+  - archive/releases/full_goal_loop_success_v1/goal_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/goal_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/goal_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/goal_engine.py
+  - archive/releases/v2_goal_history_auto_success/goal_engine.py
+  - archive/releases/v2_learned_actions_success/goal_engine.py
+  - archive/releases/experience_planner_success/goal_engine.py
+  - archive/releases/gerfex_v2_wrapper_success/goal_engine.py
+  - archive/releases/v2_session_auto_success/goal_engine.py
+  - archive/releases/v2_router_link_success/goal_engine.py
+  - archive/releases/gerfex_v3_bundle/goal_engine.py
+  - archive/releases/gerfex_v3_bundle_success/goal_engine.py
+
+## summarize_saved_source
+- files_count: 20
+- important_name: False
+- files:
+  - summarize_saved_source.py
+  - checkpoint_autonomous_news_v1/summarize_saved_source.py
+  - gerfex_checkpoint_autonomous_router_v1/summarize_saved_source.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/summarize_saved_source.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/summarize_saved_source.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/summarize_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/summarize_saved_source.py
+  - gerfex_official_runtime_v1/agent/summarize_saved_source.py
+
+## execute_step
+- files_count: 20
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/plan_executor_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/task_planner.py
+  - archive/gerfex_checkpoint_agent_core_v1/task_planner.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/task_planner.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/task_planner.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/task_planner.py
+  - archive/gerfex_checkpoint_planner_memory_v1/task_planner.py
+  - archive/legacy_scripts_v1/task_planner.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+
+## get_tool
+- files_count: 20
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/tool_registry.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/tool_registry.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/tool_registry.py
+  - archive/gerfex_checkpoint_context_stability_v1/tool_registry.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/tool_registry.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/tool_registry.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/tool_registry.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/tool_registry.py
+  - archive/gerfex_checkpoint_observation_layer_v1/tool_registry.py
+  - archive/gerfex_checkpoint_policy_v1/tool_registry.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/tool_registry.py
+  - archive/gerfex_checkpoint_screen_compare_v1/tool_registry.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/tool_registry.py
+  - archive/gerfex_checkpoint_target_preview_v1/tool_registry.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/tool_registry.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/tool_registry.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/tool_registry.py
+  - archive/gerfex_anatomy_phase_v1/tool_registry.py
+
+## requires_verification
+- files_count: 20
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/tool_registry.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/tool_registry.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/tool_registry.py
+  - archive/gerfex_checkpoint_context_stability_v1/tool_registry.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/tool_registry.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/tool_registry.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/tool_registry.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/tool_registry.py
+  - archive/gerfex_checkpoint_observation_layer_v1/tool_registry.py
+  - archive/gerfex_checkpoint_policy_v1/tool_registry.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/tool_registry.py
+  - archive/gerfex_checkpoint_screen_compare_v1/tool_registry.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/tool_registry.py
+  - archive/gerfex_checkpoint_target_preview_v1/tool_registry.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/tool_registry.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/tool_registry.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/tool_registry.py
+  - archive/gerfex_anatomy_phase_v1/tool_registry.py
+
+## tool_risk
+- files_count: 20
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_android_arm_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_bridge_adapter_v1/tool_registry.py
+  - archive/gerfex_checkpoint_android_queue_path_fixed_v1/tool_registry.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/tool_registry.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/tool_registry.py
+  - archive/gerfex_checkpoint_context_stability_v1/tool_registry.py
+  - archive/gerfex_checkpoint_first_real_safe_dump_v1/tool_registry.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/tool_registry.py
+  - archive/gerfex_checkpoint_full_path_to_queue_v1/tool_registry.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/tool_registry.py
+  - archive/gerfex_checkpoint_observation_layer_v1/tool_registry.py
+  - archive/gerfex_checkpoint_policy_v1/tool_registry.py
+  - archive/gerfex_checkpoint_safe_read_screen_v1/tool_registry.py
+  - archive/gerfex_checkpoint_screen_compare_v1/tool_registry.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/tool_registry.py
+  - archive/gerfex_checkpoint_target_preview_v1/tool_registry.py
+  - archive/gerfex_checkpoint_task_runner_sim_v1/tool_registry.py
+  - archive/gerfex_checkpoint_tool_registry_lifecycle_v1/tool_registry.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/tool_registry.py
+  - archive/gerfex_anatomy_phase_v1/tool_registry.py
+
+## run_once
+- files_count: 19
+- important_name: False
+- files:
+  - agent_loop.py
+  - gerfex_checkpoint_before_core_layers_v1/agent_loop.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_vision.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_vision.py
+  - archive/legacy_scripts_v1/gerfex_vision.py
+  - archive/releases/gerfex_complete_v1_final/agent_loop.py
+  - archive/releases/gerfex_complete_v1_success/agent_loop.py
+  - archive/releases/phase2_before_goal_agent/agent_loop.py
+  - archive/releases/phase3_before_recovery/agent_loop.py
+  - archive/releases/phase5_before_goal_loop_core/agent_loop.py
+  - archive/releases/phase5_preinstall/agent_loop.py
+  - archive/releases/phase6_preinstall/agent_loop.py
+  - archive/releases/phase8_preinstall/agent_loop.py
+
+## extract_topic
+- files_count: 19
+- important_name: False
+- files:
+  - gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_news_v1/gerfex_task_router.py
+  - backup_before_dynamic_autonomous_news_20260528_173744/gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_autonomous_news_pack_v1/gerfex_task_router.py
+  - gerfex_checkpoint_dynamic_agent_20260528_174252/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_project2_queen_adapter_v1_20260528_222745/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_stabilization_phase_v1_20260528_222121/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_checkpoint_official_runtime_verified_v1/gerfex_official_runtime_v1/agent/gerfex_task_router.py
+  - gerfex_official_runtime_v1/agent/gerfex_task_router.py
+
+## load_browser_policy
+- files_count: 19
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_official_runtime_v1/agent/android_bridge.py
+  - gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+
+## run_command
+- files_count: 19
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_command.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_command.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_command.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_command.py
+  - archive/legacy_scripts_v1/gerfex_command.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+
+## start_runner
+- files_count: 19
+- important_name: False
+- files:
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+
+## execute_direct
+- files_count: 18
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_persistent_runtime_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_arm_read_ui_v1/gerfex_ultimate_core_v1/gerfex.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_ultimate_core_v1/gerfex.py
+
+## save_actions
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_identity
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_legacy
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_tools
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_actions
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_system_tools
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v3/gervex.py
+  - archive/gerfex_checkpoint_v4/gervex.py
+  - archive/gerfex_checkpoint_v5/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## fetch_google_news
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v2_ranked/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_respects_router_goal_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_route_executor_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_android_web_split_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_v1/fast_memory_cycle_v2.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v1.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v2.py
+
+## log_error
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_before_mentor_link_v1/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v2_success/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_first_real_phone_action/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_health_check_v1/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_runtime_config_v1/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v1_connected/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v2_connected/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v3_reordered/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v4a_bridge_request/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v4c_open_dump_success/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_step_executor_v4d_live_read_success/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_v4d_safe_mode/gerfex_core_loop_v2.py
+  - archive/gerfex_checkpoint_v4d_validation_blocks_bad_ui/gerfex_core_loop_v2.py
+  - archive/legacy_scripts_v1/gerfex_core_loop_v2.py
+
+## extract_clickables
+- files_count: 18
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2_3.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2_3.py
+  - archive/legacy_scripts_v1/goal_loop_v2_1.py
+  - archive/legacy_scripts_v1/goal_loop_v2_2.py
+  - archive/legacy_scripts_v1/goal_loop_v2_3.py
+
+## copy_ui
+- files_count: 17
+- important_name: False
+- files:
+  - arm_verify_full.py
+  - gerfex_checkpoint_before_core_layers_v1/arm_verify_full.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2.py
+  - archive/legacy_scripts_v1/goal_loop_v2.py
+  - archive/releases/arm_verify_full_clean/arm_verify_full.py
+  - archive/releases/arm_execute_verify_success/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1_chrome_success/arm_verify_full.py
+  - archive/releases/milestone_real_app_control_v1/arm_verify_full.py
+  - archive/releases/chrome_clean_verify_success/arm_verify_full.py
+  - archive/releases/goal_engine_full/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle_success/arm_verify_full.py
+
+## observe
+- files_count: 17
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+  - archive/gerfex_checkpoint_chrome_observation_success_v1/observation_layer.py
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/observation_layer.py
+  - archive/gerfex_checkpoint_context_stability_v1/observation_layer.py
+  - archive/gerfex_checkpoint_fresh_observe_pipeline_v1/observation_layer.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/observation_layer.py
+  - archive/gerfex_checkpoint_observation_layer_v1/observation_layer.py
+  - archive/gerfex_checkpoint_screen_compare_v1/observation_layer.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/observation_layer.py
+  - archive/gerfex_checkpoint_target_preview_v1/observation_layer.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/observation_layer.py
+  - archive/gerfex_anatomy_phase_v1/observation_layer.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/goal_loop_bridge_v1.py
+  - gerfex_official_runtime_v1/runtime/goal_loop_bridge_v1.py
+
+## __init__
+- files_count: 15
+- important_name: False
+- files:
+  - brain_manager.py
+  - gerfex_checkpoint_before_core_layers_v1/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+  - archive/releases/gerfex_complete_v1_final/brain_manager.py
+  - archive/releases/gerfex_complete_v1_success/brain_manager.py
+  - archive/releases/phase2_before_goal_agent/brain_manager.py
+  - archive/releases/phase3_before_recovery/brain_manager.py
+  - archive/releases/phase5_before_goal_loop_core/brain_manager.py
+  - archive/releases/phase5_preinstall/brain_manager.py
+  - archive/releases/phase6_preinstall/brain_manager.py
+  - archive/releases/phase8_preinstall/brain_manager.py
+  - gerfex_official_runtime_v1/agent/legacy_brain_files_archived/brain_manager.py
+
+## copy_if_good
+- files_count: 15
+- important_name: False
+- files:
+  - dump_ui.py
+  - gerfex_checkpoint_before_core_layers_v1/dump_ui.py
+  - archive/releases/gerfex_v1_chrome_dump_fixed/dump_ui.py
+  - archive/releases/gerfex_complete_v1/dump_ui.py
+  - archive/releases/gerfex_complete_v1_final/dump_ui.py
+  - archive/releases/gerfex_complete_v1_success/dump_ui.py
+  - archive/releases/phase2_before_goal_agent/dump_ui.py
+  - archive/releases/phase3_before_recovery/dump_ui.py
+  - archive/releases/phase3_recovery_success/dump_ui.py
+  - archive/releases/phase3_recovery_reader_success_final/dump_ui.py
+  - archive/releases/runtime_read_recovery_success/dump_ui.py
+  - archive/releases/phase5_before_goal_loop_core/dump_ui.py
+  - archive/releases/phase5_preinstall/dump_ui.py
+  - archive/releases/phase6_preinstall/dump_ui.py
+  - archive/releases/phase8_preinstall/dump_ui.py
+
+## exists
+- files_count: 15
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/system_state_v1.py
+  - archive/gerfex_checkpoint_before_mentor_link_v1/system_state_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/system_state_v1.py
+  - archive/legacy_scripts_v1/system_state_v1.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_170537/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_system_awareness_v1_20260529_170154/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+
+## handle_command
+- files_count: 15
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v6/gervex.py
+  - archive/gerfex_checkpoint_v7_before_core_v8/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## md5
+- files_count: 15
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/adaptive_executor.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_agent_core_v1/adaptive_executor.py
+  - archive/gerfex_checkpoint_agent_core_v1/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/adaptive_executor.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/adaptive_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/adaptive_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_google_search_working_v1/adaptive_executor_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/adaptive_executor.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/adaptive_executor_v2.py
+  - archive/legacy_scripts_v1/adaptive_executor.py
+  - archive/legacy_scripts_v1/adaptive_executor_v2.py
+
+## rank
+- files_count: 14
+- important_name: False
+- files:
+  - gerfex_checkpoint_search_core_ranker_v2/search_ranker_v2.py
+  - archive/releases/phase5_before_goal_loop_core/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_success/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_fixed/search_ranker_v2.py
+  - archive/releases/phase5_preinstall/search_ranker_v2.py
+  - archive/releases/phase5_goal_loop_core_final_success/search_ranker_v2.py
+  - archive/releases/phase6_preinstall/search_ranker_v2.py
+  - archive/releases/phase6_collector_success/search_ranker_v2.py
+  - archive/releases/phase6_collector_ranker_success/search_ranker_v2.py
+  - archive/releases/phase7_synth_working/search_ranker_v2.py
+  - archive/releases/phase8_preinstall/search_ranker_v2.py
+  - archive/releases/phase8_ranked_answer_success/search_ranker_v2.py
+  - archive/releases/phase8_ranked_answer_final_success/search_ranker_v2.py
+  - archive/releases/phase10_dynamic_collector/search_ranker_v2.py
+
+## emit
+- files_count: 14
+- important_name: False
+- files:
+  - gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_integrated_core_v1/gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_action_resolver_v1/learned_executor.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+  - gerfex_checkpoint_intent_intelligence_v1/gerfex_phase_intent_intelligence_v1/intent_to_action.py
+
+## analyze_state
+- files_count: 14
+- important_name: False
+- files:
+  - gerfex_decision_loop_bundle_v1/decision_loop_bundle.py
+  - gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/screen_understanding.py
+
+## execute_single
+- files_count: 14
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_command.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_command.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_command.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_command.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_command.py
+  - archive/legacy_scripts_v1/gerfex_command.py
+
+## load
+- files_count: 13
+- important_name: False
+- files:
+  - memory_engine.py
+  - gerfex_memory.py
+  - sovereign_answer.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_memory.py
+  - gerfex_checkpoint_before_core_layers_v1/memory_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/sovereign_answer.py
+  - archive/releases/gerfex_v2_memory_bundle/memory_engine.py
+  - archive/releases/v2_goal_history_auto_success/memory_engine.py
+  - archive/releases/v2_learned_actions_success/memory_engine.py
+  - archive/releases/gerfex_v3_memory_bundle/gerfex_memory.py
+  - archive/releases/gerfex_v3_memory_bundle_success/gerfex_memory.py
+  - archive/releases/gerfex_sovereign_core_bundle/sovereign_answer.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/sovereign_answer.py
+
+## good_candidate
+- files_count: 13
+- important_name: False
+- files:
+  - continue_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/continue_engine.py
+  - archive/releases/continue_engine_smart_choice_success/continue_engine.py
+  - archive/releases/full_goal_loop_smart_choice_success/continue_engine.py
+  - archive/releases/full_goal_loop_final_answer_success/continue_engine.py
+  - archive/releases/full_goal_loop_safe_final_success/continue_engine.py
+  - archive/releases/full_goal_loop_final_safe_success/continue_engine.py
+  - archive/releases/resume_auto_chain_success/continue_engine.py
+  - archive/releases/gerfex_v3_web_bundle/continue_engine.py
+  - archive/releases/gerfex_v3_web_bundle_3_1/continue_engine.py
+  - archive/releases/gerfex_v3_web_bundle_3_1_success/continue_engine.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/continue_engine.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3_success/continue_engine.py
+
+## extract_texts
+- files_count: 13
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/screen_understanding.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/screen_understanding.py
+
+## execute_runtime
+- files_count: 13
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+
+## run_agent
+- files_count: 13
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_ultimate_core_v1/autonomous_agent_v1.py
+
+## load_runtime_state
+- files_count: 13
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/agent_loop.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_checkpoint_project3_policy_init_v1_20260528_223832/runtime_backup/agent_loop.py
+  - gerfex_checkpoint_project2_closed_v1/gerfex_official_runtime_v1/runtime/agent_loop.py
+  - gerfex_official_runtime_v1/runtime/agent_loop.py
+
+## is_dangerous_command
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## requires_confirmation
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## safety_check
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## get_constitution
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_accessibility_arm_v1/gervex.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gervex.py
+  - archive/gerfex_checkpoint_agent_core_v1/gervex.py
+  - archive/gerfex_checkpoint_android_bridge_v2/gervex.py
+  - archive/gerfex_checkpoint_android_v1/gervex.py
+  - archive/gerfex_checkpoint_automate_accessibility_v1/gervex.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gervex.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gervex.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gervex.py
+  - archive/gerfex_checkpoint_runtime_architecture/gervex.py
+  - archive/gerfex_checkpoint_v8/gervex.py
+  - archive/legacy_scripts_v1/gervex.py
+
+## choose_arm
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_action_router_v1/action_router.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/action_router.py
+  - archive/gerfex_checkpoint_auto_verify_v1/action_router.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/action_router.py
+  - archive/gerfex_checkpoint_core_arms_v1/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/action_router.py
+  - archive/gerfex_checkpoint_failure_learning_v1/action_router.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/action_router.py
+  - archive/gerfex_checkpoint_router_uses_skills_v1/action_router.py
+  - archive/gerfex_checkpoint_skill_library_v1/action_router.py
+  - archive/legacy_scripts_v1/action_router.py
+  - archive/gerfex_core_arms_v1_clean/action_router.py
+
+## save_history
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_action_router_v1/action_router.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/action_router.py
+  - archive/gerfex_checkpoint_auto_verify_v1/action_router.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/action_router.py
+  - archive/gerfex_checkpoint_core_arms_v1/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/action_router.py
+  - archive/gerfex_checkpoint_failure_learning_v1/action_router.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/action_router.py
+  - archive/gerfex_checkpoint_router_uses_skills_v1/action_router.py
+  - archive/gerfex_checkpoint_skill_library_v1/action_router.py
+  - archive/legacy_scripts_v1/action_router.py
+  - archive/gerfex_core_arms_v1_clean/action_router.py
+
+## refresh_ui
+- files_count: 13
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_reader_agent_v1.py
+  - archive/legacy_scripts_v1/gerfex_web_agent_v1.py
+  - archive/legacy_scripts_v1/gerfex_reader_agent_v1.py
+
+## reflect
+- files_count: 12
+- important_name: False
+- files:
+  - self_reflection_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/self_reflection_engine.py
+  - archive/releases/gerfex_complete_v1_final/self_reflection_engine.py
+  - archive/releases/gerfex_complete_v1_success/self_reflection_engine.py
+  - archive/releases/phase2_before_goal_agent/self_reflection_engine.py
+  - archive/releases/phase2_goal_agent_success/self_reflection_engine.py
+  - archive/releases/phase3_before_recovery/self_reflection_engine.py
+  - archive/releases/phase3_recovery_reader_success_final/self_reflection_engine.py
+  - archive/releases/phase5_before_goal_loop_core/self_reflection_engine.py
+  - archive/releases/phase5_preinstall/self_reflection_engine.py
+  - archive/releases/phase6_preinstall/self_reflection_engine.py
+  - archive/releases/phase8_preinstall/self_reflection_engine.py
+
+## run_runtime
+- files_count: 12
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/plan_executor_v1.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_ultimate_core_v1/plan_executor_v1.py
+
+## remember_action
+- files_count: 12
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_memory.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_memory_aliases_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_planner_memory_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/gerfex_memory.py
+
+## register_package
+- files_count: 12
+- important_name: False
+- files:
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_goal_system_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_action_executor_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_intent_system_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_android_runner_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_smart_observe_package_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_checkpoint_package_system_core_v1/gerfex_packages/package_system_core_v1/package_registry.py
+  - gerfex_packages/package_system_core_v1/package_registry.py
+
+## load_arm
+- files_count: 11
+- important_name: False
+- files:
+  - arm_verify_full.py
+  - gerfex_checkpoint_before_core_layers_v1/arm_verify_full.py
+  - archive/releases/arm_verify_full_clean/arm_verify_full.py
+  - archive/releases/arm_execute_verify_success/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1/arm_verify_full.py
+  - archive/releases/core_arms_pack_v1_chrome_success/arm_verify_full.py
+  - archive/releases/milestone_real_app_control_v1/arm_verify_full.py
+  - archive/releases/chrome_clean_verify_success/arm_verify_full.py
+  - archive/releases/goal_engine_full/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle/arm_verify_full.py
+  - archive/releases/gerfex_v3_apps_bundle_success/arm_verify_full.py
+
+## is_google_output
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_web.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3/gerfex_web.py
+  - archive/releases/gerfex_v3_web_fast_bundle_3_3_success/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1/gerfex_web.py
+  - archive/releases/gerfex_v3_flow_fast_3_1_success/gerfex_web.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization/gerfex_web.py
+  - archive/releases/gerfex_mvp_core_stabilization_success/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle/gerfex_web.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/gerfex_web.py
+
+## parse_ui
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/semantic_ui_analyzer_v1.py
+
+## wait_results
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## extract_candidates
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## best_video
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## confirm_video
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_clean_core_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_health_check_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_runner_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_package_loader_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_core_api_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_ultimate_core_v1/youtube_skill_v1.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_ultimate_core_v1/youtube_skill_v1.py
+
+## parse_clickable_nodes
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_arm_tap_text_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+
+## get_primary_browser
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/browser_runtime_policy.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+
+## resolve_browser
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/browser_runtime_policy.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+  - gerfex_official_runtime_v1/runtime/browser_runtime_policy.py
+
+## build_report
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_170537/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_system_awareness_v1_20260529_170154/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+
+## save_outputs
+- files_count: 11
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_170537/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_checkpoint_system_awareness_v1_20260529_170154/self_knowledge.backup/self_knowledge_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/self_knowledge_builder.py
+
+## rank_news
+- files_count: 11
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_cycle_v2_ranked/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_fast_memory_respects_router_goal_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_route_executor_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_android_web_split_v1/fast_memory_cycle_v2.py
+  - archive/gerfex_checkpoint_router_v1/fast_memory_cycle_v2.py
+  - archive/legacy_scripts_v1/fast_memory_cycle_v2.py
+
+## summarize
+- files_count: 11
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_active_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_article_context_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_attention_headline_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent.py
+  - archive/gerfex_checkpoint_context_following_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent.py
+  - archive/legacy_scripts_v1/gerfex_agent.py
+
+## run_script
+- files_count: 11
+- important_name: False
+- files:
+  - archive/releases/gerfex_v1.py
+  - archive/releases/gerfex_v1_chrome_dump_fixed/gerfex.py
+  - archive/releases/gerfex_complete_v1/gerfex.py
+  - archive/releases/gerfex_complete_v1_final/gerfex.py
+  - archive/releases/gerfex_complete_v1_success/gerfex.py
+  - archive/releases/phase2_before_goal_agent/gerfex.py
+  - archive/releases/phase2_goal_agent_success/gerfex.py
+  - archive/releases/phase3_before_recovery/gerfex.py
+  - archive/releases/phase3_recovery_reader_success_final/gerfex.py
+  - archive/releases/runtime_read_recovery_success/gerfex.py
+  - archive/releases/phase5_before_goal_loop_core/gerfex.py
+
+## verify_article
+- files_count: 10
+- important_name: False
+- files:
+  - verifier.py
+  - gerfex_checkpoint_before_core_layers_v1/verifier.py
+  - archive/releases/gerfex_complete_v1_final/verifier.py
+  - archive/releases/gerfex_complete_v1_success/verifier.py
+  - archive/releases/phase2_before_goal_agent/verifier.py
+  - archive/releases/phase3_before_recovery/verifier.py
+  - archive/releases/phase5_before_goal_loop_core/verifier.py
+  - archive/releases/phase5_preinstall/verifier.py
+  - archive/releases/phase6_preinstall/verifier.py
+  - archive/releases/phase8_preinstall/verifier.py
+
+## classify_ui
+- files_count: 10
+- important_name: False
+- files:
+  - ui_reasoner.py
+  - gerfex_checkpoint_before_core_layers_v1/ui_reasoner.py
+  - archive/releases/gerfex_complete_v1_final/ui_reasoner.py
+  - archive/releases/gerfex_complete_v1_success/ui_reasoner.py
+  - archive/releases/phase2_before_goal_agent/ui_reasoner.py
+  - archive/releases/phase3_before_recovery/ui_reasoner.py
+  - archive/releases/phase5_before_goal_loop_core/ui_reasoner.py
+  - archive/releases/phase5_preinstall/ui_reasoner.py
+  - archive/releases/phase6_preinstall/ui_reasoner.py
+  - archive/releases/phase8_preinstall/ui_reasoner.py
+
+## loop
+- files_count: 10
+- important_name: False
+- files:
+  - agent_loop.py
+  - gerfex_checkpoint_before_core_layers_v1/agent_loop.py
+  - archive/releases/gerfex_complete_v1_final/agent_loop.py
+  - archive/releases/gerfex_complete_v1_success/agent_loop.py
+  - archive/releases/phase2_before_goal_agent/agent_loop.py
+  - archive/releases/phase3_before_recovery/agent_loop.py
+  - archive/releases/phase5_before_goal_loop_core/agent_loop.py
+  - archive/releases/phase5_preinstall/agent_loop.py
+  - archive/releases/phase6_preinstall/agent_loop.py
+  - archive/releases/phase8_preinstall/agent_loop.py
+
+## do_GET
+- files_count: 10
+- important_name: False
+- files:
+  - gerfex_launcher.py
+  - gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher_old_before_mvp_ui.py
+  - archive_mentor_experiments/mentor_chat_server_v1.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher_old_before_mvp_ui.py
+
+## do_POST
+- files_count: 10
+- important_name: False
+- files:
+  - gerfex_launcher.py
+  - gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher_old_before_mvp_ui.py
+  - archive_mentor_experiments/mentor_chat_server_v1.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher_old_before_mvp_ui.py
+
+## wait_text
+- files_count: 10
+- important_name: False
+- files:
+  - gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_core_api_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_autonomous_agent_v1/gerfex_arm_skills_bundle_v1/arm_skills.py
+  - gerfex_checkpoint_persistent_runtime_v2/gerfex_arm_skills_bundle_v1/arm_skills.py
+
+## classify_file
+- files_count: 10
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/system_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/system_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/system_awareness_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/system_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_170537/self_knowledge.backup/system_awareness_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/system_awareness_builder.py
+
+## normalize_command
+- files_count: 10
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_evolution_protocol_v1_20260529_162856/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_release_candidate_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project4_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_checkpoint_project3_closed_v1/gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+  - gerfex_official_runtime_v1/packages/android_executor_package_v1/executor.py
+
+## arabic_count
+- files_count: 10
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/article_context.py
+  - archive/gerfex_checkpoint_agent_core_v1/article_context.py
+  - archive/gerfex_checkpoint_article_context_v1/article_context.py
+  - archive/gerfex_checkpoint_attention_headline_v1/article_context.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/article_context.py
+  - archive/gerfex_checkpoint_context_following_v1/article_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/article_context.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/article_context.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/article_context.py
+  - archive/legacy_scripts_v1/article_context.py
+
+## auto_scroll
+- files_count: 10
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_article_context_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_attention_headline_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent.py
+  - archive/gerfex_checkpoint_context_following_v1/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent.py
+  - archive/legacy_scripts_v1/gerfex_agent.py
+
+## default_state
+- files_count: 10
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+
+## complete_step
+- files_count: 10
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+
+## fail_step
+- files_count: 10
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_end_of_day_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_state_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+
+## remember_event
+- files_count: 10
+- important_name: False
+- files:
+  - archive/releases/gerfex_complete_v1_final/memory_engine.py
+  - archive/releases/gerfex_complete_v1_success/memory_engine.py
+  - archive/releases/phase2_before_goal_agent/memory_engine.py
+  - archive/releases/phase2_goal_agent_success/memory_engine.py
+  - archive/releases/phase3_before_recovery/memory_engine.py
+  - archive/releases/phase3_recovery_reader_success_final/memory_engine.py
+  - archive/releases/phase5_before_goal_loop_core/memory_engine.py
+  - archive/releases/phase5_preinstall/memory_engine.py
+  - archive/releases/phase6_preinstall/memory_engine.py
+  - archive/releases/phase8_preinstall/memory_engine.py
+
+## copy_ok
+- files_count: 9
+- important_name: False
+- files:
+  - dump_current_ui.py
+  - gerfex_checkpoint_before_core_layers_v1/dump_current_ui.py
+  - archive/releases/phase4_google_search_visible_success/dump_current_ui.py
+  - archive/releases/phase4_search_open_by_tap_best/dump_current_ui.py
+  - archive/releases/phase4_search_visible_open_attempt_safe/dump_current_ui.py
+  - archive/releases/phase5_before_goal_loop_core/dump_current_ui.py
+  - archive/releases/phase5_preinstall/dump_current_ui.py
+  - archive/releases/phase6_preinstall/dump_current_ui.py
+  - archive/releases/phase8_preinstall/dump_current_ui.py
+
+## respond
+- files_count: 9
+- important_name: False
+- files:
+  - gerfex_launcher.py
+  - gerfex_launcher_old_before_mvp_ui.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher_old_before_mvp_ui.py
+  - archive/releases/gerfex_v3_launcher_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1/gerfex_launcher.py
+  - archive/releases/gerfex_v3_launcher_bundle_3_1_success/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher_old_before_mvp_ui.py
+
+## safe_import_runtime
+- files_count: 9
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+
+## classify_capability
+- files_count: 9
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_173843/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_capability_awareness_v1_20260529_172838/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_checkpoint_environment_awareness_v1_20260529_171738/self_knowledge.backup/capability_awareness_builder.py
+  - gerfex_official_runtime_v1/self_knowledge/capability_awareness_builder.py
+
+## failure_penalty
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/action_router.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/action_router.py
+  - archive/gerfex_checkpoint_core_arms_v1/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/action_router.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/action_router.py
+  - archive/gerfex_checkpoint_failure_learning_v1/action_router.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/action_router.py
+  - archive/legacy_scripts_v1/action_router.py
+  - archive/gerfex_core_arms_v1_clean/action_router.py
+
+## capture
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_see.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_see.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_see.py
+  - archive/gerfex_checkpoint_vision_ocr_v2/gerfex_see.py
+  - archive/legacy_scripts_v1/gerfex_see.py
+
+## choose_action
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_vision.py
+  - archive/gerfex_checkpoint_browser_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_commands_working_v1/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_vision.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_vision.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_vision.py
+  - archive/legacy_scripts_v1/gerfex_vision.py
+
+## bounds_center
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/mini_brain.py
+  - archive/gerfex_checkpoint_core_arms_v1/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mini_brain.py
+  - archive/gerfex_checkpoint_google_search_working_v1/mini_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mini_brain.py
+  - archive/legacy_scripts_v1/mini_brain.py
+  - archive/gerfex_core_arms_v1_clean/mini_brain.py
+
+## item_text
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/mini_brain.py
+  - archive/gerfex_checkpoint_core_arms_v1/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mini_brain.py
+  - archive/gerfex_checkpoint_google_search_working_v1/mini_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mini_brain.py
+  - archive/legacy_scripts_v1/mini_brain.py
+  - archive/gerfex_core_arms_v1_clean/mini_brain.py
+
+## ignore
+- files_count: 9
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/mini_brain.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/mini_brain.py
+  - archive/gerfex_checkpoint_core_arms_v1/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/mini_brain.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/mini_brain.py
+  - archive/gerfex_checkpoint_google_search_working_v1/mini_brain.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/mini_brain.py
+  - archive/legacy_scripts_v1/mini_brain.py
+  - archive/gerfex_core_arms_v1_clean/mini_brain.py
+
+## launch
+- files_count: 9
+- important_name: False
+- files:
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_packages/runtime_launcher_package_v1/runtime_launcher.py
+  - gerfex_packages/gerfex_mvp_runtime_package_v1/gerfex_mvp.py
+
+## ensure_rules
+- files_count: 8
+- important_name: False
+- files:
+  - gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_intelligence_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+
+## log
+- files_count: 8
+- important_name: False
+- files:
+  - gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+  - gerfex_checkpoint_intent_intelligence_v1/gerfex_phase_intent_intelligence_v1/intent_engine.py
+
+## bad
+- files_count: 8
+- important_name: False
+- files:
+  - gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_core_api_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v2_clean_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_action_executor_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_profiles_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_generic_semantic_engine_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_youtube_skill_v1_success/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+  - gerfex_checkpoint_search_button_fixed_v1/gerfex_persistent_runtime_v1/persistent_runtime_v2.py
+
+## explore_more
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/follow_article.py
+  - archive/gerfex_checkpoint_agent_core_v1/follow_article.py
+  - archive/gerfex_checkpoint_attention_headline_v1/follow_article.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/follow_article.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/follow_article.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/follow_article.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/follow_article.py
+  - archive/legacy_scripts_v1/follow_article.py
+
+## load_text
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_core_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_agent_decision_v1/gerfex_decide.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_decide.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_decide.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_decide.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_decide.py
+  - archive/legacy_scripts_v1/gerfex_decide.py
+
+## remember_seen
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_memory.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_memory.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_memory.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_memory.py
+  - archive/legacy_scripts_v1/gerfex_memory.py
+
+## observe_now
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_observer.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_observer.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_observer.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_observer.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_observer.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_observer.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_observer.py
+  - archive/legacy_scripts_v1/gerfex_observer.py
+
+## set_verification
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_state.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_state.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_observe_verify_working_v1/gerfex_state.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_state.py
+  - archive/legacy_scripts_v1/gerfex_state.py
+
+## wait_file
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/planner_v3.py
+  - archive/gerfex_checkpoint_agent_core_v1/planner_v3.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/planner_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/planner_v3.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/planner_v3.py
+  - archive/gerfex_checkpoint_goal_executor_v1/planner_v3.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/planner_v3.py
+  - archive/legacy_scripts_v1/planner_v3.py
+
+## get_hash
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/smart_explore.py
+  - archive/gerfex_checkpoint_agent_core_v1/smart_explore.py
+  - archive/gerfex_checkpoint_attention_headline_v1/smart_explore.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/smart_explore.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/smart_explore.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/smart_explore.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/smart_explore.py
+  - archive/legacy_scripts_v1/smart_explore.py
+
+## h
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/ui_change_detector.py
+  - archive/gerfex_checkpoint_agent_core_v1/ui_change_detector.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/ui_change_detector.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/ui_change_detector.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/ui_change_detector.py
+  - archive/gerfex_checkpoint_goal_executor_v1/ui_change_detector.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/ui_change_detector.py
+  - archive/legacy_scripts_v1/ui_change_detector.py
+
+## find_by_text
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_context_stability_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/ui_target_selector.py
+  - archive/gerfex_checkpoint_screen_compare_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_target_preview_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/ui_target_selector.py
+  - archive/gerfex_anatomy_phase_v1/ui_target_selector.py
+
+## select_best_click_target
+- files_count: 8
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_context_stability_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/ui_target_selector.py
+  - archive/gerfex_checkpoint_screen_compare_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_smart_tap_attempt_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_target_preview_v1/ui_target_selector.py
+  - archive/gerfex_checkpoint_ui_target_selector_v1/ui_target_selector.py
+  - archive/gerfex_anatomy_phase_v1/ui_target_selector.py
+
+## save
+- files_count: 7
+- important_name: False
+- files:
+  - memory_engine.py
+  - visual_confirm.py
+  - gerfex_checkpoint_before_core_layers_v1/memory_engine.py
+  - gerfex_checkpoint_visual_confirm_v1/visual_confirm.py
+  - archive/releases/gerfex_v2_memory_bundle/memory_engine.py
+  - archive/releases/v2_goal_history_auto_success/memory_engine.py
+  - archive/releases/v2_learned_actions_success/memory_engine.py
+
+## ensure
+- files_count: 7
+- important_name: False
+- files:
+  - gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+
+## save_unknown
+- files_count: 7
+- important_name: False
+- files:
+  - gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_integrated_core_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_action_resolver_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+  - gerfex_checkpoint_intent_learning_v1/gerfex_phase_intent_learning_v1/learning_engine.py
+
+## create_proposal
+- files_count: 7
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_generator.py
+  - gerfex_checkpoint_evolution_protocol_v1_1_20260529_164025/evolution.backup/proposal_generator.py
+  - gerfex_official_runtime_v1/evolution/proposal_generator.py
+
+## verify_with_retry
+- files_count: 7
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_executor.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_executor.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_executor.py
+  - archive/gerfex_checkpoint_recovery_loop_v1/gerfex_executor.py
+  - archive/legacy_scripts_v1/gerfex_executor.py
+
+## find_result
+- files_count: 7
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_reader_agent_v1.py
+  - archive/gerfex_checkpoint_web_agent_v1/gerfex_reader_agent_v1.py
+  - archive/legacy_scripts_v1/gerfex_reader_agent_v1.py
+
+## choose_ui_file
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+  - gerfex_checkpoint_status_v2_mission_test_v1_20260529_175409/runtime.backup/screen_reader_bridge.py
+  - gerfex_official_runtime_v1/runtime/screen_reader_bridge.py
+
+## list_proposals
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_official_runtime_v1/evolution/proposal_manager.py
+
+## find_proposal
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_official_runtime_v1/evolution/proposal_manager.py
+
+## record_history
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_official_runtime_v1/evolution/proposal_manager.py
+
+## set_status
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_checkpoint_self_knowledge_v1_20260529_165524/gerfex_official_runtime_v1/evolution/proposal_manager.py
+  - gerfex_official_runtime_v1/evolution/proposal_manager.py
+
+## useful
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent_loop_v1.py
+  - archive/legacy_scripts_v1/gerfex_agent_loop_v1.py
+
+## act
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_agent_loop_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_agent_loop_v1.py
+  - archive/legacy_scripts_v1/gerfex_agent_loop_v1.py
+
+## looks_like_result
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_click_result.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_click_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_click_result.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_click_result.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_click_result.py
+  - archive/legacy_scripts_v1/gerfex_click_result.py
+
+## clickable_items
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/gerfex_web_agent_v1.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/gerfex_web_agent_v1.py
+  - archive/legacy_scripts_v1/gerfex_web_agent_v1.py
+
+## extract_clickable_lines
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_after_mentor_cleanup_v1/goal_loop_v2.py
+  - archive/gerfex_checkpoint_before_core_loop_v2/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_ready_for_review/goal_loop_v2.py
+  - archive/gerfex_checkpoint_core_loop_v3_with_planner/goal_loop_v2.py
+  - archive/gerfex_checkpoint_mentor_adapter_connected_v1/goal_loop_v2.py
+  - archive/legacy_scripts_v1/goal_loop_v2.py
+
+## run_python_script
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_unified_v1_success/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_multi_tool_planner_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_memory_safe_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_article_memory_success_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+
+## execute_action
+- files_count: 6
+- important_name: False
+- files:
+  - archive/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_unified_v1_success/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_multi_tool_planner_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_memory_safe_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+  - archive/gerfex_checkpoint_auto_pipeline_article_memory_success_v1/gerfex_phase_multi_tool_planner/multi_tool_executor.py
+
+## analyze_ui
+- files_count: 6
+- important_name: False
+- files:
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_mvp_runtime_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_runtime_launcher_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_checkpoint_decision_engine_package_v1/gerfex_packages/decision_engine_package_v1/decision_engine.py
+  - gerfex_packages/decision_engine_package_v1/decision_engine.py
+
+## set_last_success
+- files_count: 5
+- important_name: False
+- files:
+  - memory_engine.py
+  - gerfex_checkpoint_before_core_layers_v1/memory_engine.py
+  - archive/releases/gerfex_v2_memory_bundle/memory_engine.py
+  - archive/releases/v2_goal_history_auto_success/memory_engine.py
+  - archive/releases/v2_learned_actions_success/memory_engine.py
+
+## ensure_state
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## add_history
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## next_step
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_core_integration_v1/gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_integrated_core_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+  - gerfex_checkpoint_goal_loop_v1/gerfex_phase_goal_loop_v1/goal_loop_controller.py
+
+## identity
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+
+## model_status
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+
+## answer_identity
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+
+## ask_helper_model
+- files_count: 5
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+  - gerfex_official_runtime_v1/agent/gerfex_brain_unified.py
+
+## load_items
+- files_count: 5
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_compare.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_compare.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_compare.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_compare.py
+  - archive/gerfex_anatomy_phase_v1/screen_compare.py
+
+## compare
+- files_count: 5
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_compare_engine_detected_change_v1/screen_compare.py
+  - archive/gerfex_checkpoint_context_stability_v1/screen_compare.py
+  - archive/gerfex_checkpoint_goal_loop_v1_success/screen_compare.py
+  - archive/gerfex_checkpoint_screen_compare_v1/screen_compare.py
+  - archive/gerfex_anatomy_phase_v1/screen_compare.py
+
+## chat_answer
+- files_count: 4
+- important_name: False
+- files:
+  - gerfex_mvp.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_mvp.py
+  - archive/releases/gerfex_mvp_core_stabilization/gerfex_mvp.py
+  - archive/releases/gerfex_mvp_core_stabilization_success/gerfex_mvp.py
+
+## answer
+- files_count: 4
+- important_name: False
+- files:
+  - sovereign_answer.py
+  - gerfex_checkpoint_before_core_layers_v1/sovereign_answer.py
+  - archive/releases/gerfex_sovereign_core_bundle/sovereign_answer.py
+  - archive/releases/gerfex_sovereign_core_bundle_success/sovereign_answer.py
+
+## update_state
+- files_count: 4
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## set_task
+- files_count: 4
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## mark_running
+- files_count: 4
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## mark_idle
+- files_count: 4
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## mark_error
+- files_count: 4
+- important_name: False
+- files:
+  - state_manager.py
+  - gerfex_checkpoint_state_manager_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1/state_manager.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/state_manager.py
+
+## detect_repeated_ui
+- files_count: 4
+- important_name: False
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## should_retry
+- files_count: 4
+- important_name: False
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## reset_retries
+- files_count: 4
+- important_name: False
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## handle_failure
+- files_count: 4
+- important_name: False
+- files:
+  - recovery_engine.py
+  - gerfex_checkpoint_recovery_engine_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1/recovery_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/recovery_engine.py
+
+## check_retry_limit
+- files_count: 4
+- important_name: False
+- files:
+  - safety_guard.py
+  - gerfex_checkpoint_safety_guard_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/safety_guard.py
+
+## check_failure_limit
+- files_count: 4
+- important_name: False
+- files:
+  - safety_guard.py
+  - gerfex_checkpoint_safety_guard_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/safety_guard.py
+
+## check_action_rate
+- files_count: 4
+- important_name: False
+- files:
+  - safety_guard.py
+  - gerfex_checkpoint_safety_guard_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/safety_guard.py
+
+## is_command_safe
+- files_count: 4
+- important_name: False
+- files:
+  - safety_guard.py
+  - gerfex_checkpoint_safety_guard_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/safety_guard.py
+
+## validate_action
+- files_count: 4
+- important_name: False
+- files:
+  - safety_guard.py
+  - gerfex_checkpoint_safety_guard_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1/safety_guard.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/safety_guard.py
+
+## record_success
+- files_count: 4
+- important_name: False
+- files:
+  - learning_engine.py
+  - gerfex_checkpoint_learning_engine_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/learning_engine.py
+
+## record_failure
+- files_count: 4
+- important_name: False
+- files:
+  - learning_engine.py
+  - gerfex_checkpoint_learning_engine_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/learning_engine.py
+
+## add_note
+- files_count: 4
+- important_name: False
+- files:
+  - learning_engine.py
+  - gerfex_checkpoint_learning_engine_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1/learning_engine.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/learning_engine.py
+
+## run_runtime_python
+- files_count: 4
+- important_name: False
+- files:
+  - gerfex_checkpoint_hud_youtube_success_clean_v1_20260530_215339/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v2_20260530_214857/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214602/GerfexReactUI/gerfex_backend.py
+  - gerfex_checkpoint_hud_youtube_success_v1_20260530_214509/GerfexReactUI/gerfex_backend.py
+
+## status_panel
+- files_count: 3
+- important_name: False
+- files:
+  - gerfex_launcher.py
+  - gerfex_checkpoint_before_core_layers_v1/gerfex_launcher.py
+  - archive/releases/gerfex_mvp_ui_bundle/gerfex_launcher.py
+
+## write_confirm
+- files_count: 3
+- important_name: False
+- files:
+  - gerfex_checkpoint_ultimate_core_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_checkpoint_mvp_confirmed_v1/gerfex_packages/android_runner_package_v1/runner_core.py
+  - gerfex_packages/android_runner_package_v1/runner_core.py
+
+## load_manifest
+- files_count: 2
+- important_name: False
+- files:
+  - plugin_loader.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/plugin_loader.py
+
+## list_enabled_plugins
+- files_count: 2
+- important_name: False
+- files:
+  - plugin_loader.py
+  - gerfex_checkpoint_runtime_core_v1_7_layers/plugin_loader.py
+
+## skip
+- files_count: 2
+- important_name: False
+- files:
+  - gerfex_audit_decision_v1.py
+  - gerfex_capability_mapper_v1.py
+
+## load_config
+- files_count: 2
+- important_name: False
+- files:
+  - archive/gerfex_checkpoint_runtime_config_v1/step_executor_v4d.py
+  - archive/legacy_scripts_v1/step_executor_v4d.py
+
+## write_json
+- files_count: 2
+- important_name: False
+- files:
+  - archive/gerfex_phase_live_loop_v1/live_action_loop_v1.py
+  - archive/gerfex_checkpoint_live_loop_v1/gerfex_phase_live_loop_v1/live_action_loop_v1.py

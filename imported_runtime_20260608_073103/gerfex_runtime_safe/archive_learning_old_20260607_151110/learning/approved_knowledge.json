@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "id": 1780789182924,
+      "lesson": "> s = s.replace(\n>     '\"role\": \"core_brain\"',\n>     '\"role\": \"learning_advisor\"'\n> )\n>\n> s = s.replace(\n>     'Queen هي عقلي الداخلي داخل Gerfex. وظيفتها فهم النية، إدارة القرار، واستدعاء الأدوات أو النماذج المساعدة عند الحاجة.',\n>     'Queen مستشار تعلم محدود داخل Gerfex. وظيفتها مناقشة الأفكار والتعلم داخل جلسة التعلم فقط. لا تملك صلاحية التنفيذ أو اتخاذ القرار النهائي.'\n> )\n>\n> s = s.replace(\n>     'صاحب القرار والسلطة النهائية هو',\n>     'صاحب القرار النهائي هو'\n> )\n>\n> p.write_text(s, encoding=\"utf-8\")\n>\n> print(\"QUEEN ROLE RESET APPLIED\")\n> PY\nQUEEN ROLE RESET APPLIED\n~/gerfex_runtime_safe/brain $ python -m py_compile gerfex_brain_unified.py\n~/gerfex_runtime_safe/brain $ cd ~/gerfex_runtime_safe/brain\n~/gerfex_runtime_safe/brain $\n~/gerfex_runtime_safe/brain $ grep -Rni \\\n> \"APPROVED\\|PENDING\\|approve_lesson\\|reject_lesson\\|add_pending_lesson\\|learning_load\" \\\n> .\ngrep: ./__pycache__/queen_core.cpython-313.pyc: binary file matches\ngrep: ./__pycache__/conversational_learning.cpython-313.pyc: binary file matches\ngrep: ./__pycache__/gerfex_android_unified.cpython-313.pyc: binary file matches\ngrep: ./__pycache__/learning_manager.cpython-313.pyc: binary file matches\n./gerfex_android_unified.py:127:        \"pending_actions\": len([x for x in lines if x.strip()]),\n./queen_core.py:52:        add_pending_lesson,\n./queen_core.py:53:        approve_lesson,\n./queen_core.py:54:        reject_lesson,\n./queen_core.py:55:        load as learning_load,\n./queen_core.py:56:        PENDING,\n./queen_core.py:57:        APPROVED,\n./queen_core.py:61:    add_pending_lesson = None\n./queen_core.py:62:    approve_lesson = None\n./queen_core.py:63:    reject_lesson = None\n./queen_core.py:64:    learning_load = None\n./queen_core.py:65:    PENDING = APPROVED = REJECTED = None\n./queen_core.py:101:        learning_load=learning_load,\n./queen_core.py:102:        add_pending_lesson=add_pending_lesson,\n./queen_core.py:103:        approve_lesson=approve_lesson,\n./queen_core.py:104:        reject_lesson=reject_lesson,\n./queen_core.py:105:        PENDING=PENDING,\n./queen_core.py:106:        APPROVED=APPROVED,\n./queen_core.py:117:    approved_knowledge = []\n./queen_core.py:120:    if learning_load and APPROVED:\n./queen_core.py:122:            approved_data = learning_load(APPROVED)\n./queen_core.py:123:            approved_knowledge = approved_data.get(\"items\", [])\n./queen_core.py:124:            if approved_knowledge:\n./queen_core.py:127:                    for x in approved_knowledge[:20]\n./queen_core.py:135:        \"approved_knowledge\": approved_knowledge,\n./queen_core.py:144:        learning_load=learning_load,\n./queen_core.py:145:        add_pending_lesson=add_pending_lesson,\n./queen_core.py:146:        approve_lesson=approve_lesson,\n./queen_core.py:147:        reject_lesson=reject_lesson,\n./queen_core.py:148:        PENDING=PENDING,\n./queen_core.py:149:        APPROVED=APPROVED,\n./queen_core.py:254:        if learning_load:\n./queen_core.py:255:            data = learning_load(PENDING)\n./queen_core.py:265:        if learning_load:\n./queen_core.py:266:            data = learning_load(APPROVED)\n./queen_core.py:276:        if approve_lesson:\n./queen_core.py:278:            r = approve_lesson(lesson_id)\n./queen_core.py:284:        if reject_lesson:\n./queen_core.py:286:            r = reject_lesson(lesson_id)\n./queen_core.py:292:        if add_pending_lesson:\n./queen_core.py:294:            r = add_pending_lesson(raw or prompt)\n./learning_manager.py:8:PENDING = LEARNING / \"pending_lessons.json\"\n./learning_manager.py:9:APPROVED = LEARNING / \"approved_knowledge.json\"\n./learning_manager.py:53:        \"status\": \"pending\",\n./learning_manager.py:59:def add_pending_lesson(text):\n./learning_manager.py:64:    data = load(PENDING)\n./learning_manager.py:67:    save(PENDING, data)\n./learning_manager.py:72:def approve_lesson(lesson_id):\n./learning_manager.py:73:    pending = load(PENDING)\n./learning_manager.py:74:    approved = load(APPROVED)\n./learning_manager.py:76:    items = pending.get(\"items\", [])\n./learning_manager.py:82:    lesson[\"status\"] = \"approved\"\n./learning_manager.py:83:    lesson[\"approved_at\"] = time.time()\n./learning_manager.py:85:    approved.setdefault(\"items\", [])\n./learning_manager.py:86:    approved[\"items\"].insert(0, lesson)\n./learning_manager.py:88:    pending[\"items\"] = [x for x in items if str(x.get(\"id\")) != str(lesson_id)]\n./learning_manager.py:90:    save(PENDING, pending)\n./learning_manager.py:91:    save(APPROVED, approved)\n./learning_manager.py:93:    return {\"ok\": True, \"approved\": lesson}\n./learning_manager.py:96:def reject_lesson(lesson_id):\n./learning_manager.py:97:    pending = load(PENDING)\n./learning_manager.py:100:    items = pending.get(\"items\", [])\n./learning_manager.py:112:    pending[\"items\"] = [x for x in items if str(x.get(\"id\")) != str(lesson_id)]\n./learning_manager.py:114:    save(PENDING, pending)\n./learning_manager.py:127:        print(json.dumps(add_pending_lesson(arg), ensure_ascii=False, indent=2))\n./learning_manager.py:129:        print(json.dumps(approve_lesson(arg), ensure_ascii=False, indent=2))\n./learning_manager.py:131:        print(json.dumps(reject_lesson(arg), ensure_ascii=False, indent=2))\n./conversational_learning.py:6:def _save_approved_direct(learning_load, APPROVED, lesson):\n./conversational_learning.py:8:    data = learning_load(APPROVED)\n./conversational_learning.py:15:        \"status\": \"approved\",\n./conversational_learning.py:18:        \"approved_at\": time.time(),\n./conversational_learning.py:24:        APPROVED.write_text(\n./conversational_learning.py:34:def _save_pending_direct(learning_load, PENDING, lesson):\n./conversational_learning.py:35:    data = learning_load(PENDING)\n./conversational_learning.py:42:        \"status\": \"pending\",\n./conversational_learning.py:50:        PENDING.write_text(\n./conversational_learning.py:59:def _latest_pending_id(learning_load, PENDING):\n./conversational_learning.py:60:    data = learning_load(PENDING)\n./conversational_learning.py:69:    learning_load=None,\n./conversational_learning.py:70:    add_pending_lesson=None,\n./conversational_learning.py:71:    approve_lesson=None,\n./conversational_learning.py:72:    reject_lesson=None,\n./conversational_learning.py:73:    PENDING=None,\n./conversational_learning.py:74:    APPROVED=None,\n./conversational_learning.py:76:    if not learning_load:\n./conversational_learning.py:79:    if \"[learning_session]\" in text and \"\" in text and APPROVED:\n./conversational_learning.py:88:            saved = _save_approved_direct(learning_load, APPROVED, lesson)\n./conversational_learning.py:121:        saved = _save_pending_direct(learning_load, PENDING, lesson)\n./conversational_learning.py:133:        if approve_lesson and PENDING:\n./conversational_learning.py:134:            lesson_id = _latest_pending_id(learning_load, PENDING)\n./conversational_learning.py:136:                approve_lesson(str(lesson_id))\n./conversational_learning.py:141:        if reject_lesson and PENDING:\n./conversational_learning.py:142:            lesson_id = _latest_pending_id(learning_load, PENDING)\n./conversational_learning.py:144:                reject_lesson(str(lesson_id))\n~/gerfex_runtime_safe/brain $",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780789182.924353,
+      "approved_at": 1780789182.9243534
+    },
+    {
+      "id": 1780783857177,
+      "lesson": "الاجابه انا بخير عندما أسئلك كيف حالك",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780783857.1777484,
+      "approved_at": 1780783857.1777508
+    },
+    {
+      "id": 1780773822070,
+      "lesson": "ان عاصمة باكستان إسلام أباد",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780773822.0709407,
+      "approved_at": 1780773822.070941
+    },
+    {
+      "id": 1780771223722,
+      "lesson": "ان يكون ردك مرحبا عندما اقول لك مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780771223.722047,
+      "approved_at": 1780771223.7220478
+    },
+    {
+      "id": 1780771169617,
+      "lesson": "ان ترد وعليكم السلام في كل مرة اقول لك السلام عليكم",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780771169.6176803,
+      "approved_at": 1780771169.6176815
+    },
+    {
+      "id": 1780771009953,
+      "lesson": "ان ترد علي مرحبا عندما اقول لك مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780771009.9534817,
+      "approved_at": 1780771009.9534822
+    },
+    {
+      "id": 1780770758495,
+      "lesson": "ان في حالة قلت لك مرحبا ترد علي انت مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780770758.4960122,
+      "approved_at": 1780770758.4960124
+    },
+    {
+      "id": 1780770366180,
+      "lesson": "ماهي الفكرة التي تها ؟",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780770366.1804955,
+      "approved_at": 1780770366.1804965
+    },
+    {
+      "id": 1780770341099,
+      "lesson": "Queen: وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.\nMashel:  ان يكون ردك وعليكم السلام ورحمة الله وبركاته عندما اقول لك السلام عليكم\nQueen: تم اعتماد الفكرة مباشرة برقم 1780742127792.\nMashel: السلام عليكم\nQueen: وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.\nGerfex: تمت إضافة الجلسة إلى جلسات التعلم",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780770341.0990496,
+      "approved_at": 1780770341.0990498
+    },
+    {
+      "id": 1780742212152,
+      "lesson": "Gerfex: تم مسح الجلسة الحالية.\nMashel: اهلا\nQueen: اهلاً!\nMashel: ماهي عاصمة باكستان؟\nQueen: أكمل: كراتينغ.\nMashel: ماهي عاصمة أفغانستان؟\nQueen: العاصمة لجمهورية أفغانستان هي كابل.\nMashel: مرحبا\nQueen: وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.\nMashel:  ان يكون ردك وعليكم السلام ورحمة الله وبركاته عندما اقول لك السلام عليكم\nQueen: تم اعتماد الفكرة مباشرة برقم 1780742127792.\nMashel: السلام عليكم\nQueen: وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780742212.1521797,
+      "approved_at": 1780742212.15218
+    },
+    {
+      "id": 1780742127792,
+      "lesson": "ان يكون ردك وعليكم السلام ورحمة الله وبركاته عندما اقول لك السلام عليكم",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780742127.7930388,
+      "approved_at": 1780742127.7930393
+    },
+    {
+      "id": 1780741204448,
+      "lesson": "ان يكون ردك وعليكم السلام ورحمة الله وبركاتة عندما اقول لك السلام عليكم",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780741204.448472,
+      "approved_at": 1780741204.4484723
+    },
+    {
+      "id": 1780741133429,
+      "lesson": "ان يكون ردك مرحبا عندما اقول لك مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780741133.429028,
+      "approved_at": 1780741133.4290285
+    },
+    {
+      "id": 1780741035341,
+      "lesson": "عندما اقول لك مرحبا ردك يجب ان يكون مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780741035.3410938,
+      "approved_at": 1780741035.3410945
+    },
+    {
+      "id": 1780740733458,
+      "lesson": "عندما اقول لك السلام عليكم ردك يجب ان يكون وعليكم السلام ورحمة الله وبركاتة",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780740733.4581747,
+      "approved_at": 1780740733.458175
+    },
+    {
+      "id": 1780740633327,
+      "lesson": "عندما اقول لك مرحبا ترد علي مرحبا",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780740633.3280704,
+      "approved_at": 1780740633.3280718
+    },
+    {
+      "id": 1780739422808,
+      "lesson": "إذا قلت السلام عليكم فرد بـ وعليكم السلام ورحمة الله وبركاته",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780739422.808046,
+      "approved_at": 1780739422.8080473
+    },
+    {
+      "id": 1780739259037,
+      "lesson": "عاصمة باكستان هي إسلام آباد",
+      "source": "forced_approval",
+      "status": "approved",
+      "confidence": 1.0,
+      "created_at": 1780739259.0371165,
+      "approved_at": 1780739259.0371175
+    },
+    {
+      "id": 1780695419436,
+      "lesson": "لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel",
+      "source": "conversation_natural",
+      "status": "approved",
+      "confidence": 0.8,
+      "created_at": 1780695419.436304,
+      "approved_at": 1780695419.4456906
+    },
+    {
+      "id": 1780692103999,
+      "lesson": "مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.",
+      "source": "conversation",
+      "status": "approved",
+      "confidence": 0.75,
+      "created_at": 1780692103.9992592,
+      "approved_at": 1780692166.5761113
+    },
+    {
+      "id": 1780690604294,
+      "lesson": "مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "source": "conversation",
+      "status": "approved",
+      "confidence": 0.75,
+      "created_at": 1780690604.2946332,
+      "approved_at": 1780690899.3083522
+    }
+  ]
+}

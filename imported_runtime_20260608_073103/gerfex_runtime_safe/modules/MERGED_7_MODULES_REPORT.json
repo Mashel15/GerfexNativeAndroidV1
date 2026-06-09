@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-05-31 13:01:33",
+  "output": [
+    "modules/semantic_core.py",
+    "modules/planner_core.py",
+    "modules/protocol_core.py",
+    "modules/policy_core.py"
+  ],
+  "renamed_duplicates": {
+    "screen_understanding.load_xml": "load_xml_for_screen",
+    "browser_runtime_policy.load_policy": "load_browser_policy",
+    "memory_guard.load_policy": "load_memory_policy"
+  },
+  "rule": "Merged modules are added but not wired into active Queen/core yet."
+}

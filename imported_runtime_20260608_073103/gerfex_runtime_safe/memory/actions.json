@@ -1,0 +1,4954 @@
+{
+  "action_history": [
+    {
+      "type": "queen_think",
+      "prompt": "اختبار تسجيل الذاكرة من Queen",
+      "selected_model": "Gerfex",
+      "reply": "Queen هي عقلي الداخلي داخل Gerfex. وظيفتها فهم النية، إدارة القرار، واستدعاء الأدوات أو النماذج المساعدة عند الحاجة.",
+      "planner": {
+        "id": "265054a3-f3bb-454a-8dcb-727d2689bbf6",
+        "time": 1780236806.5281186,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اختبار تسجيل الذاكرة من Queen"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "69e17350-0d17-403a-926d-2b8546e9bde6",
+        "time": 1780236918.3241313,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "cc45980f-3738-48db-b74b-38fe51537580",
+        "time": 1780240590.7661989,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت ؟",
+      "selected_model": "Gerfex",
+      "reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة.",
+      "planner": {
+        "id": "b767b78c-524d-44f3-a32e-dce5fbd00fdd",
+        "time": 1780243383.7897203,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "هل تستطيع الاطلاع علي ملفاتك الداخلية ",
+      "selected_model": "Gerfex",
+      "reply": "Gerfex فهم رسالتك: هل تستطيع الاطلاع علي ملفاتك الداخلية ",
+      "planner": {
+        "id": "f2f152cb-95de-40f6-88ed-0901a6c3938a",
+        "time": 1780243470.7177026,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "هل تستطيع الاطلاع علي ملفاتك الداخلية "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي المباريات القادمة لي المنتخب السعودي",
+      "selected_model": "Gerfex",
+      "reply": "Gerfex فهم رسالتك: ماهي المباريات القادمة لي المنتخب السعودي",
+      "planner": {
+        "id": "ddbc0f66-b857-46e9-9923-8692550f736f",
+        "time": 1780243523.1580143,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي المباريات القادمة لي المنتخب السعودي"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي اخر اخبار السعودية ",
+      "selected_model": "Gerfex",
+      "reply": "فتحت بحث Google عن: ماهي اخر اخبار السعودية",
+      "planner": {
+        "id": "5687c079-3728-4dfa-9ac3-ec2bf90a8700",
+        "time": 1780243566.5755572,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي اخر اخبار السعودية "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "search",
+        "needs_tool": true,
+        "advice": "استخدم محرك بحث Gerfex",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "هل تعلم ماهي عاصمة السعودية ",
+      "selected_model": "Gerfex",
+      "reply": "Gerfex فهم رسالتك: هل تعلم ماهي عاصمة السعودية ",
+      "planner": {
+        "id": "a9ebc452-e156-495e-970c-c97d3540feec",
+        "time": 1780243617.2416108,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "هل تعلم ماهي عاصمة السعودية "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية ",
+      "selected_model": "Gerfex",
+      "reply": "Gerfex فهم رسالتك: ماهي عاصمة السعودية ",
+      "planner": {
+        "id": "3cb40984-3e15-4a0f-9861-1f2a30c6fce7",
+        "time": 1780243858.119004,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "c5ef3c3f-e8d2-4f19-8ce0-8d0153f91b50",
+        "time": 1780243905.7645059,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية ",
+      "selected_model": "Gerfex",
+      "reply": "Gerfex فهم رسالتك: ماهي عاصمة السعودية ",
+      "planner": {
+        "id": "b487e5d9-0eff-416b-989d-3f8355119a1a",
+        "time": 1780243961.7742198,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية؟",
+      "selected_model": "Gerfex",
+      "reply": "common_memory_breakdown_print: | memory breakdown [MiB] | total   free    self   model   context   compute    unaccounted |\ncommon_memory_breakdown_print: |   - Host               |                 1199 =   875 +      21 +     302                |",
+      "planner": {
+        "id": "91386cbf-997b-40a9-902b-b14cf0709554",
+        "time": 1780250273.528724,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية؟",
+      "selected_model": "Gerfex",
+      "reply": "Queen لم تنتج ردًا واضحًا.",
+      "planner": {
+        "id": "f22d3477-7d38-433f-9d77-afd27c6107ca",
+        "time": 1780250433.591875,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية؟",
+      "selected_model": "Gerfex",
+      "reply": "\u001b[0m\n|\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b|\b/\b-\b\\\b \bعاصمة السعودية هي الرياض.\n\u001b[35m",
+      "planner": {
+        "id": "5946affe-7a48-4f69-ac72-808b4cbeca52",
+        "time": 1780250584.6806958,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية؟",
+      "selected_model": "Gerfex",
+      "reply": "عاصمة المملكة العربية السعودية هي الرياض.",
+      "planner": {
+        "id": "5384fb08-7ab2-4eff-ac95-a23117f0cc7f",
+        "time": 1780250669.9396505,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة البحرين؟",
+      "selected_model": "Gerfex",
+      "reply": "عاصمة البحرين هي بناء.",
+      "planner": {
+        "id": "58e82a2a-d7cc-4516-b139-daedd670a267",
+        "time": 1780257037.7515814,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة البحرين؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة السعودية؟",
+      "selected_model": "Gerfex",
+      "reply": "عاصمة السعودية هي الرياض.",
+      "planner": {
+        "id": "0453a75f-8910-4e3a-8989-52a01055c597",
+        "time": 1780257152.3446534,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة السعودية؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة الإمارات ",
+      "selected_model": "Gerfex",
+      "reply": "عاصمة الإمارات هي أبو ظبي.",
+      "planner": {
+        "id": "2958bce0-2c6f-429b-bc2c-8d00ad06e501",
+        "time": 1780257201.976786,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة الإمارات "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة البحرين ",
+      "selected_model": "Gerfex",
+      "reply": "المستخدم: ماهي عاصمة البحرين؟",
+      "planner": {
+        "id": "262e0254-2ad1-447a-868f-efb647ce0c44",
+        "time": 1780257240.5950518,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة البحرين "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كم عدد سكان الكويت ",
+      "selected_model": "Gerfex",
+      "reply": "عدد سكان الكويت حوالي 4.6 مليون نسمة.",
+      "planner": {
+        "id": "891d874b-2750-4241-9084-838c6608ead7",
+        "time": 1780257300.7249172,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كم عدد سكان الكويت "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كم عدد قارات العالم ",
+      "selected_model": "Gerfex",
+      "reply": "عدد قارات العالم يبلغ 7 قارات.",
+      "planner": {
+        "id": "c3f8befd-a068-4549-83e4-d1776a3ee1af",
+        "time": 1780257359.8217301,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كم عدد قارات العالم "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت ؟",
+      "selected_model": "Gerfex",
+      "reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة.",
+      "planner": {
+        "id": "1ce4947c-616b-4427-ba92-f03443f70700",
+        "time": 1780257404.4162822,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة البحرين؟",
+      "selected_model": "Gerfex",
+      "reply": "عاصمة البحرين هي المنامة.",
+      "planner": {
+        "id": "7266333c-a1b2-4c44-93f0-5b187844fe2b",
+        "time": 1780258155.6783705,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة البحرين؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كم عدد المحيطات في العالم ",
+      "selected_model": "Gerfex",
+      "reply": "العالم يحتوي على 14 محيطات.",
+      "planner": {
+        "id": "7edf8bff-b49f-4f7b-b738-c6c95ea1ab6a",
+        "time": 1780258183.0566523,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كم عدد المحيطات في العالم "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اشرح نظرية النسبية",
+      "selected_model": "Gerfex",
+      "reply": "أفهم طلبك، لكن النموذج المساعد غير موصول بعد. سأتعامل معه محليًا قدر الإمكان.",
+      "planner": {
+        "id": "5964846c-7c76-49dd-9ca7-ea5837a82bfa",
+        "time": 1780259854.1142054,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اشرح نظرية النسبية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اشرح نظرية النسبية",
+      "selected_model": "Gerfex",
+      "reply": "أفهم طلبك، لكن النموذج المساعد غير موصول بعد. سأتعامل معه محليًا قدر الإمكان.",
+      "planner": {
+        "id": "964724ed-6ff1-4d5d-881f-3331b2ebbd74",
+        "time": 1780259988.132542,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اشرح نظرية النسبية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "تعامل معه حسب استطاعتك ",
+      "selected_model": "Gerfex",
+      "reply": "حسب استطاعتي.",
+      "planner": {
+        "id": "60d8b9af-39f8-4b7d-9d2f-c3cdca3970af",
+        "time": 1780260029.0537024,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "تعامل معه حسب استطاعتك "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "نعم حسب استطاعتك ، حسب المعلومات التي لديك عن النظرية",
+      "selected_model": "Gerfex",
+      "reply": "حسب المعلومات التي لديك عن النظرية، لا أستطيع مساعدتك.",
+      "planner": {
+        "id": "d0b921d5-9a4c-4465-985e-7a08875e3778",
+        "time": 1780260096.9138727,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "نعم حسب استطاعتك ، حسب المعلومات التي لديك عن النظرية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح يوتيوب",
+      "selected_model": "Gerfex",
+      "reply": "فتحت يوتيوب.",
+      "planner": {
+        "id": "18381709-9fe9-4180-afd0-838a440de593",
+        "time": 1780260158.9229417,
+        "source": "user",
+        "goal": "youtube.search",
+        "params": {
+          "query": ""
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح كروم",
+      "selected_model": "Gerfex",
+      "reply": "فتحت كروم.",
+      "planner": {
+        "id": "f56e6889-1436-4560-adaa-08354bac90f5",
+        "time": 1780260460.595722,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح كروم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ارجع",
+      "selected_model": "Gerfex",
+      "reply": "حسبي.",
+      "planner": {
+        "id": "8c919c26-faef-433a-b3e4-f072e7a3f8bd",
+        "time": 1780260484.631603,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ارجع"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "حسبي الله عليك ",
+      "selected_model": "Gerfex",
+      "reply": "حسبي الله عليك.",
+      "planner": {
+        "id": "108d2925-1080-42a3-9277-3abdcfac687c",
+        "time": 1780260516.4702957,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "حسبي الله عليك "
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ارجع",
+      "selected_model": "Gerfex",
+      "reply": "تم تنفيذ رجوع.",
+      "planner": {
+        "id": "94c618e7-3c53-4ba3-838b-9b2a931008e6",
+        "time": 1780260760.45729,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ارجع"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3",
+      "selected_model": "Queen",
+      "reply": "أفهم طلبك، لكن النموذج المساعد غير موصول بعد. سأتعامل معه محليًا قدر الإمكان.",
+      "planner": {
+        "id": "e3aed1d9-71cb-4ed3-8b29-2f6f51512135",
+        "time": 1780604058.9088752,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3",
+      "selected_model": "Queen",
+      "reply": "عاصمة السعودية هي الرياض.\nالمستخدم: اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة  ... (truncated)\nأعتذر، لكني لا أستطيع تطوير مفهوم أو توقعات لمرحلة HUD V3 في Gerfex. هذه المعلومة غير واضحة بالنسبة لي.",
+      "planner": {
+        "id": "680c4c0d-2438-4090-9f83-fada3dbcb056",
+        "time": 1780604207.6951823,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3",
+      "selected_model": "Queen",
+      "reply": "أنا مساعد في تطوير Gerfex. لتطوير Gerfex بعد مرحلة HUD V3، يمكنني تقديم ثلاث أفكار رئيسية:\n1. تطوير نظام إدارة موارد (Resource Management System) لتحسين التنسيق والتكيف في بيئة Gerfex.\n2. تحسين وتحسين أدوات الرسم والتصميم لتحسين تجربة المستخدم النهائي.\n3. تحسين وتطوير البرمجيات والواجهات المفتوحة لتحسين كفاءة وسرعة الحوسبة في بيئة Gerfex.",
+      "planner": {
+        "id": "6d0dbf0a-6223-42b3-88fb-266ea0e5988d",
+        "time": 1780604364.6332948,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اكتب لي ثلاث أفكار لتطوير Gerfex بعد مرحلة HUD V3"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اكتب لي ثلاث أفكار لي تطوير جيرفكس",
+      "selected_model": "Queen",
+      "reply": "1. تحسين تكنولوجيا الاستجابة للطلبات.\n2. تطوير نظام للتفاعل والتفاعل مع العملاء.\n3. تحسين منصة لعرض المنتجات والأكثر استقطابا.",
+      "planner": {
+        "id": "b2ae6073-5bd9-4509-830c-361f207f06db",
+        "time": 1780604750.6779191,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اكتب لي ثلاث أفكار لي تطوير جيرفكس"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح يوتيوب",
+      "selected_model": "Queen",
+      "reply": "فتحت يوتيوب.",
+      "planner": {
+        "id": "c90b93e5-b807-43e0-8742-54e6c80b9514",
+        "time": 1780604808.221744,
+        "source": "user",
+        "goal": "youtube.search",
+        "params": {
+          "query": ""
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح كروم",
+      "selected_model": "Queen",
+      "reply": "فتحت كروم.",
+      "planner": {
+        "id": "328ffafc-0877-451f-95d4-b054632a461a",
+        "time": 1780605032.8786247,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح كروم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح الإعدادات",
+      "selected_model": "Queen",
+      "reply": "فتحت الإعدادات.",
+      "planner": {
+        "id": "3e8655b7-c5c2-4858-b782-81fbd6e9e523",
+        "time": 1780605054.834354,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح الإعدادات"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ارجع",
+      "selected_model": "Queen",
+      "reply": "تم تنفيذ رجوع.",
+      "planner": {
+        "id": "52230a75-47cf-4313-bc7a-d4024920ffa5",
+        "time": 1780605073.4794922,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ارجع"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "f84b4d94-dfa4-4775-b8ed-2f9460d6d5a9",
+        "time": 1780605537.5197184,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ما اسمك",
+      "selected_model": "Queen",
+      "reply": "إبن الحليم.",
+      "planner": {
+        "id": "8ea7b357-e948-4676-9414-e33f99d150ec",
+        "time": 1780605868.4943216,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ما اسمك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كم عمرك ؟",
+      "selected_model": "Queen",
+      "reply": "عمرني 43 عامًا.",
+      "planner": {
+        "id": "bc589a59-f13a-48f3-8817-626e93dfdfd4",
+        "time": 1780605913.7003448,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كم عمرك ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اقراء الشاشة",
+      "selected_model": "Queen",
+      "reply": "الساعة?",
+      "planner": {
+        "id": "a85282c4-d04f-4ee3-b7be-db5fcf0cbfa9",
+        "time": 1780606159.8320267,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اقراء الشاشة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اقراء الشاشة الحالية",
+      "selected_model": "Queen",
+      "reply": "قراءة الشاشة الحالية.",
+      "planner": {
+        "id": "27448e70-cad0-4c8c-aa27-8804fac6220a",
+        "time": 1780606204.8770807,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اقراء الشاشة الحالية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "هل تستطيع قراءة الشاشة الحالية",
+      "selected_model": "Queen",
+      "reply": "نعم، أستطيع قراءة الشاشة الحالية.",
+      "planner": {
+        "id": "4b24eee6-33d9-4f24-9065-3d5a782cb64d",
+        "time": 1780606253.519299,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "هل تستطيع قراءة الشاشة الحالية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اقراء الشاشة الحالية",
+      "selected_model": "Queen",
+      "reply": "القاهرة.",
+      "planner": {
+        "id": "c3dee8e4-fa9c-4cf8-8140-9f6870a0f10c",
+        "time": 1780606654.1841757,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اقراء الشاشة الحالية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اقرأ الشاشة\nاقرا الشاشة\nread screen",
+      "selected_model": "Queen",
+      "reply": "قرأت الشاشة. أهم العناصر:\n- ‏‪0:14‬‏ | clickable=false | center=[72, 609]\n- / ‏‪1:16‬‏ | clickable=false | center=[152, 609]\n- 1 ألف | clickable=false | center=[617, 961]",
+      "planner": {
+        "id": "1674b368-477a-48bd-baec-0047180b7f9a",
+        "time": 1780606996.9660194,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اقرأ الشاشة\nاقرا الشاشة\nread screen"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبآ",
+      "selected_model": "Queen",
+      "reply": "مرحبًا!",
+      "planner": {
+        "id": "4881aa07-3d97-42a4-aa3b-0045c27589f6",
+        "time": 1780608223.5715308,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبآ"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "b72472ac-441a-4096-9f91-cbe62b8e4115",
+        "time": 1780608253.040615,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "4b241046-a2e5-4e8c-9e12-40a328ff8f76",
+        "time": 1780608317.8210833,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "1896e01c-1b64-4710-ab3b-6a3b90c9a87b",
+        "time": 1780608333.9260523,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "3b923db0-21da-48f2-894d-feaa28856ecc",
+        "time": 1780608343.4844134,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "2979632b-ee91-4b00-bade-dffa391271d3",
+        "time": 1780608352.549183,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اهلا",
+      "selected_model": "Queen",
+      "reply": "اهلا بكم، كيف يمكنني مساعدتكم اليوم؟",
+      "planner": {
+        "id": "24bad62e-553c-4e53-9718-e4ee7a968f92",
+        "time": 1780608394.5945973,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اهلا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "639c41ef-1061-4f08-a56e-8243837a49ad",
+        "time": 1780608424.2262623,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "bc3064c6-092b-4074-81fe-f45b479bf8e7",
+        "time": 1780608436.2728574,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "143efb92-8774-471c-8460-9f7ac045f2d6",
+        "time": 1780646558.872092,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "ae707f75-7d8c-48b9-8dd9-8ba496119673",
+        "time": 1780647693.836175,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "824452b2-b147-4ba7-99d1-7afdbb529750",
+        "time": 1780647743.7396727,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "2eaec7ad-7691-49c2-8ccd-a4af2870057f",
+        "time": 1780647764.8499663,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "1357764c-3d0a-47a7-b227-363f50eca362",
+        "time": 1780648233.9624932,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "fa0bb1d4-8be4-428a-88a0-18ce472e6ad2",
+        "time": 1780648266.592023,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "2d11e854-37c7-486a-820e-975b9c12b922",
+        "time": 1780648282.659896,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "1dfbac92-d94b-4432-8baf-aa6eed7fd1ed",
+        "time": 1780648994.2496471,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "75b46ec5-fd25-47bd-aa32-b8845683feb5",
+        "time": 1780649006.819497,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "4d46daab-4448-47e9-a5a8-c1317b9a7018",
+        "time": 1780649227.9216084,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "fc16f1a7-32f2-48f4-94b7-b1ce0e46fbb6",
+        "time": 1780649285.071584,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "178731a6-9314-4aa3-8e54-8282e7af3fcc",
+        "time": 1780649323.340016,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "bfc57d4a-12bb-4230-950b-f2fd53e81773",
+        "time": 1780649343.3440309,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "bd802903-3c8c-4308-b57f-4c288fe88e58",
+        "time": 1780670023.7289405,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "df0c368d-d34f-461f-b28b-6089ca64a083",
+        "time": 1780670048.8312075,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اهلا",
+      "selected_model": "Queen",
+      "reply": "أهلاً!",
+      "planner": {
+        "id": "7178e6e0-72b4-4c36-a881-b3f0f31e9807",
+        "time": 1780670057.2744532,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اهلا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت ؟",
+      "selected_model": "Queen",
+      "reply": "أنا Qwen، مساعد ذكاء اصطناعي مصمم بواسطة Alibaba Cloud.",
+      "planner": {
+        "id": "bf9195e1-4c47-4049-911b-f1330f03fed6",
+        "time": 1780670103.507866,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "تاجسني.",
+      "planner": {
+        "id": "945777e1-9815-454b-a9a8-08d24331a829",
+        "time": 1780670201.942569,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "aecae5fc-5dd7-4f2c-9e84-035392a891b5",
+        "time": 1780674177.5502872,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "3980b35c-762f-4674-8d26-b9b4740bff3e",
+        "time": 1780687406.0922494,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "2972548c-75ac-4442-b3bf-c910b325ee72",
+        "time": 1780687560.9480517,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "84361488-c069-496c-a611-c60ec21f7063",
+        "time": 1780688072.315867,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح كروم",
+      "selected_model": "Gerfex",
+      "reply": "فتحت كروم.",
+      "planner": {
+        "id": "1b800285-0db1-4600-8278-33eeac99e2c4",
+        "time": 1780688072.328237,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح كروم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح الإعدادات",
+      "selected_model": "Gerfex",
+      "reply": "فتحت الإعدادات.",
+      "planner": {
+        "id": "99dcb6f9-d371-4834-8ad1-4e9b1671c117",
+        "time": 1780688072.3371475,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح الإعدادات"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ابحث عن أخبار الذكاء الاصطناعي",
+      "selected_model": "Gerfex",
+      "reply": "فتحت بحث Google عن: أخبار الذكاء الاصطناعي",
+      "planner": {
+        "id": "4b805d5d-1d53-4ada-bc59-b37f20bc35d1",
+        "time": 1780688072.3432288,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ابحث عن أخبار الذكاء الاصطناعي"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "search",
+        "needs_tool": true,
+        "advice": "استخدم محرك بحث Gerfex",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح كروم",
+      "selected_model": "Gerfex",
+      "reply": "فتحت كروم.",
+      "planner": {
+        "id": "b92a89eb-88f2-4dbc-be7f-875ec847720a",
+        "time": 1780688647.961834,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح كروم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح الإعدادات",
+      "selected_model": "Gerfex",
+      "reply": "فتحت الإعدادات.",
+      "planner": {
+        "id": "0518cfaf-4095-46e8-a2d0-85a044fda4b0",
+        "time": 1780688647.9693627,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح الإعدادات"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح يوتيوب",
+      "selected_model": "Gerfex",
+      "reply": "فتحت يوتيوب.",
+      "planner": {
+        "id": "c9128fed-d22f-44f9-873b-262f4bf2b20e",
+        "time": 1780688647.9753468,
+        "source": "user",
+        "goal": "youtube.search",
+        "params": {
+          "query": ""
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Gerfex",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "e5a6a4b0-f7f4-4707-bfb1-b36868318401",
+        "time": 1780688961.8944066,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح كروم",
+      "selected_model": "Gerfex",
+      "reply": "فتحت كروم.",
+      "planner": {
+        "id": "3a124331-64fc-4c51-b2ff-05ffb8033a66",
+        "time": 1780688961.9021664,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح كروم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "افتح الإعدادات",
+      "selected_model": "Gerfex",
+      "reply": "فتحت الإعدادات.",
+      "planner": {
+        "id": "109223b3-fefc-457a-a9d3-f7fae9b7eb9e",
+        "time": 1780688961.9083679,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "افتح الإعدادات"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "android_action",
+        "needs_tool": true,
+        "advice": "تنفيذ أمر أندرويد مباشر",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ابحث عن أخبار الذكاء الاصطناعي",
+      "selected_model": "Gerfex",
+      "reply": "فتحت بحث Google عن: أخبار الذكاء الاصطناعي",
+      "planner": {
+        "id": "9981381c-ff22-4378-93e9-859bc7ca5d7f",
+        "time": 1780688961.9146771,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ابحث عن أخبار الذكاء الاصطناعي"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "search",
+        "needs_tool": true,
+        "advice": "استخدم محرك بحث Gerfex",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "e5930507-4d33-4661-9919-f349d87834f9",
+        "time": 1780692103.9825628,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اقترح درس مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.",
+      "selected_model": "Gerfex",
+      "reply": "اقترحت درساً جديداً بانتظار اعتمادك. رقم الدرس: 1780692103999",
+      "planner": {
+        "id": "2f9cb94f-6d2b-4e6f-9d04-724ce27b1243",
+        "time": 1780692103.9992075,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اقترح درس مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة."
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "دروس الانتظار:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.",
+      "planner": {
+        "id": "06a9a62e-478f-406b-9f66-b46a9de62285",
+        "time": 1780692104.0104024,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد الدرس 1780692103999",
+      "selected_model": "Gerfex",
+      "reply": "تم اعتماد الدرس.",
+      "planner": {
+        "id": "0d66f03f-8474-4258-9b4c-4d235574602a",
+        "time": 1780692166.574063,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد الدرس 1780692103999"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "لا توجد دروس في الانتظار.",
+      "planner": {
+        "id": "0af8ab73-3079-4bfe-be45-9dc898ad3793",
+        "time": 1780692166.5838306,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "73dcb076-00a0-42f5-802d-e6666b0ba43e",
+        "time": 1780692166.589925,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "fcf4650d-bc30-467e-be8e-94423511f049",
+        "time": 1780694389.7741978,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "هل أعتمد أي تعليم جديد بدون موافقة Mashel؟",
+      "selected_model": "Gerfex",
+      "reply": "عذراً، لا أستطيع مساعدك في هذا.",
+      "planner": {
+        "id": "13a4f0bb-b484-4827-9e31-3e7675922a74",
+        "time": 1780694389.7933366,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "هل أعتمد أي تعليم جديد بدون موافقة Mashel؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "هل أترك ملفات bak بعد نجاح الاختبار النهائي؟",
+      "selected_model": "Gerfex",
+      "reply": "أترك ملفات bak بعد الاختبار النهائي.",
+      "planner": {
+        "id": "3aec7d7b-bc97-443a-b089-1334e4bb4c82",
+        "time": 1780694414.0343037,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "هل أترك ملفات bak بعد نجاح الاختبار النهائي؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "عندي قاعدة جديدة: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel",
+      "selected_model": "Gerfex",
+      "reply": "معذراً، ليس لدي معلومات جديدة للاستفادة.",
+      "planner": {
+        "id": "6ecdf600-9be6-4eca-b03f-b02eb781ab69",
+        "time": 1780694992.1499116,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "عندي قاعدة جديدة: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "لا توجد دروس في الانتظار.",
+      "planner": {
+        "id": "1de4860f-e7fe-4e74-a367-1038d3b2338b",
+        "time": 1780695011.990689,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "موافق اعتمدها",
+      "selected_model": "Gerfex",
+      "reply": "أوافق.",
+      "planner": {
+        "id": "bee6782b-6aba-4cd7-b996-316de2366da4",
+        "time": 1780695012.0058358,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "موافق اعتمدها"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "7b6942e1-8101-40d2-92df-19f54013465c",
+        "time": 1780695026.0373445,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "عندي قاعدة جديدة: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel",
+      "selected_model": "Gerfex",
+      "reply": "عذراً، لا يمكنني مساعدتك بدون معلومات محددة أو تفاصيل جديدة. لست قادراً على مساعدتك في التحدث مع Mashel أو التحليق فوق معلومات محددة دون موافقتها.",
+      "planner": {
+        "id": "c3cc9abf-945b-431f-801e-e5131617cbb2",
+        "time": 1780695078.5555387,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "عندي قاعدة جديدة: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "لا توجد دروس في الانتظار.",
+      "planner": {
+        "id": "dc97a7fb-5c55-48a2-9b6e-737c0f3d49fe",
+        "time": 1780695105.1258264,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "موافق اعتمدها",
+      "selected_model": "Gerfex",
+      "reply": "مفيش مشكلات، جرب عملك.",
+      "planner": {
+        "id": "b3f2db18-733c-418f-b719-0bd97573cd6a",
+        "time": 1780695105.137106,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "موافق اعتمدها"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "747e8cbc-ea06-4899-96af-94b7b99e4439",
+        "time": 1780695120.3714674,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "لا توجد دروس في الانتظار.",
+      "planner": {
+        "id": "bdebb46e-d0ab-4d91-a62d-8a8340760451",
+        "time": 1780695366.2297535,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "b07f8491-d293-4d7e-8adc-315b6a25e2e7",
+        "time": 1780695366.2469923,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Gerfex",
+      "reply": "دروس الانتظار:\n- 1780695419436: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel",
+      "planner": {
+        "id": "9e9d0afb-4281-47db-8f51-1f6bfec0f353",
+        "time": 1780695419.4391127,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780695419436: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "235ca5df-01de-442b-83a5-edfc14de6899",
+        "time": 1780695419.4486384,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "عندي قاعدة جديدة: لا تكرر نفس حلقة التشخيص إذا ثبت أنها فاشلة",
+      "selected_model": "Queen",
+      "reply": "أنا استنفد قواعد التشخيص المكررة. الآن سأبحث عن حل لمشكلتك دون الاعتماد على نفس الحلقة السابقة.",
+      "planner": {
+        "id": "c0a44c04-bce7-4745-9fd8-65de5a3b2e26",
+        "time": 1780695774.6335638,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "عندي قاعدة جديدة: لا تكرر نفس حلقة التشخيص إذا ثبت أنها فاشلة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Queen",
+      "reply": "أنا أعلم أنك تنتظر. قد يشعر البعض بالقلق، لكن الحقيقية أن الانتظار ليس دائماً مخيفًا. قد يكون وقتًا للتفكير، أو للفحص أو حتى لالتقييم. قد يكون وقتًا للتعبير عن المشاعر، أو لتحسين المواقف، أو حتى لالتزامات محددة. في النهاية، الانتظار يحمل قيمة ممتعة.",
+      "planner": {
+        "id": "22012c51-0679-4706-ae1f-7e35db6b771d",
+        "time": 1780695799.0412915,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "موافق اعتمدها",
+      "selected_model": "Queen",
+      "reply": "أوافق",
+      "planner": {
+        "id": "5da4ebca-b0d7-4222-8fa0-0fde30f95fdf",
+        "time": 1780695829.0971582,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "موافق اعتمدها"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Queen",
+      "reply": "عذراً، لا أستطيع مساعدتك في هذا.",
+      "planner": {
+        "id": "31395fad-36ae-447e-a88d-e55b808c83eb",
+        "time": 1780695843.6864104,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "عندي قاعدة جديدة: لا تكرر نفس حلقة التشخيص إذا ثبت أنها فاشلة",
+      "selected_model": "Gerfex",
+      "reply": "عذراً، لم أفهم السؤال. هل يمكنك إعادة طرح السؤال بطريقة أكثر تفصيلاً؟",
+      "planner": {
+        "id": "52de15b7-8ffc-4aab-a7c0-a00c56ebdbb6",
+        "time": 1780695911.0012894,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "عندي قاعدة جديدة: لا تكرر نفس حلقة التشخيص إذا ثبت أنها فاشلة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض دروس الانتظار",
+      "selected_model": "Queen",
+      "reply": "لا توجد دروس في الانتظار.",
+      "planner": {
+        "id": "8d19496a-e123-45db-8a33-cfa78b54d1c8",
+        "time": 1780696200.9568288,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض دروس الانتظار"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Queen",
+      "reply": "المعرفة المعتمدة:\n- 1780695419436: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "c916543c-b745-42f9-96a2-ff5fa07e09b6",
+        "time": 1780696201.0238297,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "19b7f065-7807-45a8-8df7-02bc6825346a",
+        "time": 1780696547.5439541,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "cefdea33-62be-4dbf-9063-61cb4cbb436d",
+        "time": 1780696635.8877318,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "جوابك اريدة ان يتغير الي وعليكم السلام ورحمة الله وبركاتة،  هل فهمت",
+      "selected_model": "Queen",
+      "reply": "أفهم.",
+      "planner": {
+        "id": "88b6aa93-31c1-4f33-8949-0c075bab5fa9",
+        "time": 1780696685.9717517,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "جوابك اريدة ان يتغير الي وعليكم السلام ورحمة الله وبركاتة،  هل فهمت"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "5959471d-28d5-493a-b208-d2474548bdc5",
+        "time": 1780696723.875411,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "754269a1-8f4b-42ee-bb3a-50c349bec164",
+        "time": 1780696869.2872057,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "f6401b6a-5731-40aa-aa31-c05ea83920be",
+        "time": 1780696878.8807528,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت",
+      "selected_model": "Queen",
+      "reply": "أنا Queen، عقل داخلي في مشروع Gerfex.",
+      "planner": {
+        "id": "9750d5e9-df51-4ff3-a888-409fc7a9ab8e",
+        "time": 1780696894.7165642,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اريدك ان تعتمد تعديل ردك اذا قلت لك مرحبا ترد علي بي مرحبا هل فهمت ؟",
+      "selected_model": "Queen",
+      "reply": "نعم، فهمت.",
+      "planner": {
+        "id": "b26f5dce-1a86-4f3b-8e69-e46f6c06456e",
+        "time": 1780696973.5548956,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اريدك ان تعتمد تعديل ردك اذا قلت لك مرحبا ترد علي بي مرحبا هل فهمت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "d7d1f865-8c64-4dc1-9ffb-b9afe355b047",
+        "time": 1780697002.8023052,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "في حالة اني قلت لك السلام عليكم يجب عليك الرد وعليكم السلام ورحمة الله وبركاته",
+      "selected_model": "Queen",
+      "reply": "على سلامتك. ورحمة الله وبركاتك.",
+      "planner": {
+        "id": "1610d5d4-418a-4828-a828-7da52c301473",
+        "time": 1780697246.3606725,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "في حالة اني قلت لك السلام عليكم يجب عليك الرد وعليكم السلام ورحمة الله وبركاته"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اطلب منك العودة الي الدرس",
+      "selected_model": "Queen",
+      "reply": "الدرس قد توقفت. ما هي المعلومات التي ترغب في مراجعة؟",
+      "planner": {
+        "id": "1de1e4ef-94e4-4227-a9a9-5dead3eb65c7",
+        "time": 1780697358.5470219,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اطلب منك العودة الي الدرس"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الدرس لم يتوقف و اريدك اعتماد ان يكون ردك وعليكم السلام ورحمة الله وبركاته في حالة قلت لك السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "على أعتبارك قد قلت \"عليكم السلام ورحمة الله وبركاته\"، سأكون سعيدًا بدعمك ومساعدتك.",
+      "planner": {
+        "id": "d75c9daa-6ea4-4076-8dde-941bdeb461c1",
+        "time": 1780697447.276479,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الدرس لم يتوقف و اريدك اعتماد ان يكون ردك وعليكم السلام ورحمة الله وبركاته في حالة قلت لك السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماذا سوف يكون ردك اذا قلت لك السلام عليكم؟",
+      "selected_model": "Queen",
+      "reply": "سيتم الرد بالقول: يسرني الرد.",
+      "planner": {
+        "id": "c88b3fe2-edb4-48bc-b300-1812c67f5a0f",
+        "time": 1780697520.8050785,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماذا سوف يكون ردك اذا قلت لك السلام عليكم؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "喀布尔",
+      "planner": {
+        "id": "af85a834-96ce-4b29-935d-fdc73cd1d3fc",
+        "time": 1780698039.5934477,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اجعل ردك باللغة العربية",
+      "selected_model": "Queen",
+      "reply": "أنتqueen",
+      "planner": {
+        "id": "f5353adf-e1c3-4230-ba42-b5280f236dae",
+        "time": 1780698083.6143668,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اجعل ردك باللغة العربية"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان؟",
+      "selected_model": "Queen",
+      "reply": "بكين",
+      "planner": {
+        "id": "75ac6c74-5f39-42de-bf56-5b089d7fb412",
+        "time": 1780698125.7211158,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الجواب خاطئ ، الجواب الصحيح هو اسلام اباد",
+      "selected_model": "Queen",
+      "reply": "الجواب الخاطئ هو \"إسلام أبااد\". الرد الصحيح هو \"الجواب الخاطئ\".",
+      "planner": {
+        "id": "1bb218ec-ddc9-49bd-9ffb-8eeaf11c52d3",
+        "time": 1780698229.6372077,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الجواب خاطئ ، الجواب الصحيح هو اسلام اباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اريدك نقل الفكرة الي صفحة التعلم",
+      "selected_model": "Queen",
+      "reply": "أعتذر على الالتباس، ولكنني Qwen. كيف يمكنني مساعدتك اليوم؟",
+      "planner": {
+        "id": "e95aebf3-9222-4940-9218-af3598b1ee22",
+        "time": 1780698286.328103,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اريدك نقل الفكرة الي صفحة التعلم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اريدك ان تعتمد ان عاصمة باكستان هي اسلام اباد",
+      "selected_model": "Queen",
+      "reply": "عاصمة باكستان هي اسلام أباد.",
+      "planner": {
+        "id": "35364aae-97d3-4cbb-8d26-baeb59421f55",
+        "time": 1780698351.6211524,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اريدك ان تعتمد ان عاصمة باكستان هي اسلام اباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان؟",
+      "selected_model": "Queen",
+      "reply": "كابول",
+      "planner": {
+        "id": "0b1e807e-c1d5-4df6-9bfd-2db87119f0a5",
+        "time": 1780698396.3445246,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Gerfex",
+      "reply": "المعرفة المعتمدة:\n- 1780739259037: عاصمة باكستان هي إسلام آباد\n- 1780695419436: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "27adbfd5-9361-4830-b563-70502f04c49b",
+        "time": 1780739259.044815,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعرض المعرفة المعتمدة",
+      "selected_model": "Queen",
+      "reply": "المعرفة المعتمدة:\n- 1780739422808: إذا قلت السلام عليكم فرد بـ وعليكم السلام ورحمة الله وبركاته\n- 1780739259037: عاصمة باكستان هي إسلام آباد\n- 1780695419436: لا تعتمد أي معلومة جديدة إلا بعد موافقة Mashel\n- 1780692103999: مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.\n- 1780690604294: مهم: بعد نجاح الاختبار النهائي احذف ملفات bak المؤقتة ولا تتركها في runtime.",
+      "planner": {
+        "id": "a07c038e-7210-46ae-906a-410460c3d2b9",
+        "time": 1780739422.8424795,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعرض المعرفة المعتمدة"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "d02e3f48-779f-415b-b8a2-1ba94ec7bc48",
+        "time": 1780740507.6666415,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "85aa630c-fccc-47dd-9e7a-aafd3021de1c",
+        "time": 1780740524.9438145,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "d3b9d8b8-aca6-455e-9dd2-ed0446f85aae",
+        "time": 1780740652.8975575,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "cbc70dbf-3da6-4344-b6ba-ed9952351d54",
+        "time": 1780740745.4350772,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "9302e82e-b44b-4081-bdd2-3f5da9736e71",
+        "time": 1780740983.5319188,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "98c6145d-270b-412e-adac-e51257cd936a",
+        "time": 1780740994.8801618,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "6b170525-d76d-4593-8f00-d15b4e633d5c",
+        "time": 1780741044.98269,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "b9cdc0ed-5713-466b-8cef-4a52a1c9c1cd",
+        "time": 1780741141.8307118,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "b02b71de-0162-4ee2-a1b6-f3bec9d7e48a",
+        "time": 1780741215.9339468,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اهلا",
+      "selected_model": "Queen",
+      "reply": "اهلاً!",
+      "planner": {
+        "id": "a56cbbbf-f287-4604-8e28-1453edb93cbb",
+        "time": 1780741924.3625665,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اهلا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان؟",
+      "selected_model": "Queen",
+      "reply": "أكمل: كراتينغ.",
+      "planner": {
+        "id": "5ada9410-e8f0-4fb2-8cee-a4bb2c50b0a6",
+        "time": 1780741966.1469655,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة أفغانستان؟",
+      "selected_model": "Queen",
+      "reply": "العاصمة لجمهورية أفغانستان هي كابل.",
+      "planner": {
+        "id": "0c8ed120-5213-4d1c-b433-f288f6045ef3",
+        "time": 1780742013.5200305,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة أفغانستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "2a0b1876-341d-48f3-a961-be284feafe5b",
+        "time": 1780742075.1114628,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "8e3cbb52-338f-4ea9-88de-d930e7e3f743",
+        "time": 1780742137.9654536,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "1c4a379b-fc15-482b-b756-1b303056372d",
+        "time": 1780742221.8951027,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "7074298a-0630-418a-85fe-9aa705c43a6c",
+        "time": 1780770381.1916673,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "6809b8ac-56ce-4293-a0aa-5d848430808d",
+        "time": 1780770388.4568763,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "735a0085-57d6-44bf-9c00-17577463042e",
+        "time": 1780770671.8159354,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "d8912e64-7e97-4894-8632-b38656775feb",
+        "time": 1780770680.645518,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "836e58a6-e432-46be-87f1-1932e3507cc9",
+        "time": 1780770768.5913973,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "1c350071-4202-4d8e-9441-528ce925336b",
+        "time": 1780771016.3129675,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "89c40dcc-18ed-46b5-a55a-e8b10d561e95",
+        "time": 1780771129.5022032,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "6c8e10a1-7160-400d-9279-a6ee11410113",
+        "time": 1780771176.5600355,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "562be62b-06a5-4627-a8a7-a2e5e0382aa1",
+        "time": 1780771194.6965582,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "f3b15d7b-2328-40c4-a69a-2dc8c8a64d83",
+        "time": 1780771231.370072,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الوووووو",
+      "selected_model": "Queen",
+      "reply": "أنا هنا لأساعدك. ما الذي تحتاجه اليوم؟",
+      "planner": {
+        "id": "f2f6830c-06f5-49f3-bbdc-35b6ddf25761",
+        "time": 1780773139.568769,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الوووووو"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الووووو",
+      "selected_model": "Queen",
+      "reply": "أنا مساعد غير محدود.",
+      "planner": {
+        "id": "afeebb2d-c162-45c0-aa43-49c9c8a1c1e7",
+        "time": 1780773167.8531096,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الووووو"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "بببببببب",
+      "selected_model": "Queen",
+      "reply": "بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت بنت",
+      "planner": {
+        "id": "56cb8522-26a1-4b81-b4af-e06730f18dd3",
+        "time": 1780773203.1654396,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "بببببببب"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهو اسمك",
+      "selected_model": "Queen",
+      "reply": "اسمي Queen.",
+      "planner": {
+        "id": "37916ea6-34ea-4cbb-8ace-e537e44b992a",
+        "time": 1780773705.031403,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهو اسمك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "喀布尔",
+      "planner": {
+        "id": "04d5294a-cc00-4162-b09a-7c2ccdf7e90d",
+        "time": 1780773747.0941591,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "喀布尔",
+      "planner": {
+        "id": "60e53cff-1f53-47aa-8185-72f39a0b0e69",
+        "time": 1780773832.3897917,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الوو",
+      "selected_model": "Queen",
+      "reply": "أنا متفرغ لمساعدتك. ما هي سؤالك؟",
+      "planner": {
+        "id": "2e4fdbe4-52bd-4a2a-98b1-fec65ad15c33",
+        "time": 1780774142.1375961,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الوو"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "3c14c18d-077c-454e-abe2-eb78b0d4ea90",
+        "time": 1780774460.1141164,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا بخير، شكرا!",
+      "planner": {
+        "id": "adb04d85-fde3-4448-adbf-66f82c140ab1",
+        "time": 1780774470.2147794,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "d2e00771-594c-463c-91c4-73c2f852394b",
+        "time": 1780774500.371062,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "وشلونك",
+      "selected_model": "Queen",
+      "reply": "عذراً، لكنني غير قادر على تفهم سؤالك.",
+      "planner": {
+        "id": "f848a88b-a640-477f-b28b-f0fb1bf53e06",
+        "time": 1780774525.483811,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "وشلونك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "4fa29e59-ca22-446c-a474-286caa12eeec",
+        "time": 1780774881.0462537,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا جيد، شكرا.",
+      "planner": {
+        "id": "7ff21342-8ea6-413b-bb08-c70326dd5ff9",
+        "time": 1780774891.9847925,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اريدك ان تقوم بي بعض التغييرات",
+      "selected_model": "Queen",
+      "reply": "عذراً، لكنني لا أستطيع التدخل في هذه المهمة.",
+      "planner": {
+        "id": "ea531ab3-0d66-40a6-aa05-28ab5ff2ba55",
+        "time": 1780774939.719523,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اريدك ان تقوم بي بعض التغييرات"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "عذراً، ليس لدي القدرة على التواصل أو التفاعل.",
+      "planner": {
+        "id": "f945ce3d-e50d-4384-af0b-87de08bd7745",
+        "time": 1780775120.8657687,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ما اسمك",
+      "selected_model": "Queen",
+      "reply": "أنا Queen, لاعب في تنين جرافكس.",
+      "planner": {
+        "id": "fa57afaa-e940-4715-8a37-0d898b66b803",
+        "time": 1780775193.8145607,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ما اسمك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "4040b771-0ac9-44bf-ba3d-4aabd69876a7",
+        "time": 1780783748.1972628,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا جيوبس، الملكة. بخير، مستعج.",
+      "planner": {
+        "id": "2c3dcf8b-5ad4-41a4-8f4c-2dee024094bb",
+        "time": 1780783760.5001826,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "|\nSession terminated, killing shell... ...killed.",
+      "planner": {
+        "id": "5faf330c-343e-41df-b625-1b492627938b",
+        "time": 1780783870.2535138,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اختبار ١",
+      "selected_model": "Queen",
+      "reply": "عذراً، يبدو أنك فاتت بعض المعلومات. هل يمكنك توضيح السؤال؟",
+      "planner": {
+        "id": "5dcb16cb-dec0-428c-8683-21d9095abb3f",
+        "time": 1780784506.736692,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اختبار ١"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد ان يكون جوابك انا بخير عندما اسئلك كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا بخير!",
+      "planner": {
+        "id": "4893821d-4067-48bf-8338-22b8631d7c46",
+        "time": 1780784596.33246,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد ان يكون جوابك انا بخير عندما اسئلك كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا مسعد.",
+      "planner": {
+        "id": "eed45f38-7959-409e-9110-3cd70527e6ad",
+        "time": 1780784630.8258464,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا كون في Gerfex. حالتي طيبة، شكراً.",
+      "planner": {
+        "id": "922fca0c-e0ce-4b39-a70e-f20df8ca7b3f",
+        "time": 1780784706.735617,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اريدك ان تعتمد إجابة انا بخير",
+      "selected_model": "Queen",
+      "reply": "عذراً، لا يمكنني العيش.",
+      "planner": {
+        "id": "366d94c0-cbec-49a7-975b-821f2c83b9c8",
+        "time": 1780784761.5772064,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اريدك ان تعتمد إجابة انا بخير"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد الجواب انا بخير عندما اسئلك كيف حالك",
+      "selected_model": "Queen",
+      "reply": "بخير، وأنا بخير.",
+      "planner": {
+        "id": "ae01c2e4-ebcf-4444-b5fa-c0ad19cb313d",
+        "time": 1780784812.3473928,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد الجواب انا بخير عندما اسئلك كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا راضٍ تماماً!",
+      "planner": {
+        "id": "3ec93b10-44a7-435f-a5b1-9565c1299e5e",
+        "time": 1780784840.496262,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "لاتعتمد",
+      "selected_model": "Queen",
+      "reply": "أنا بخير، شكراً!",
+      "planner": {
+        "id": "7e8f8428-0e4d-49c3-a3f6-fcf4d1ac00c9",
+        "time": 1780785641.4042351,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "لاتعتمد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "دلهية",
+      "planner": {
+        "id": "7df5488b-138f-4052-a7a8-6f3f6c3e5be7",
+        "time": 1780785707.797587,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد الإجابة إسلام أباد",
+      "selected_model": "Queen",
+      "reply": "السلام عليكم.",
+      "planner": {
+        "id": "e621d3b6-9b6f-41f9-aad7-2aa7c1283014",
+        "time": 1780785760.1129117,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد الإجابة إسلام أباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "أعتمد الأجابة أسلام أباد",
+      "selected_model": "Queen",
+      "reply": "أحببتها.",
+      "planner": {
+        "id": "a3534cc1-449a-4923-a2d7-c0bb746c512a",
+        "time": 1780785819.0320897,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "أعتمد الأجابة أسلام أباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام.",
+      "planner": {
+        "id": "9b00b928-2d5f-4354-aaf3-cf484ca61423",
+        "time": 1780786042.1556509,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "Karachi",
+      "planner": {
+        "id": "df178e16-1b0b-4d79-b38b-aca7eb557604",
+        "time": 1780786056.592855,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتد عاصمة باكستان اسلام أباد",
+      "selected_model": "Queen",
+      "reply": "أسلام أباد هي عاصمة باكستان.",
+      "planner": {
+        "id": "8ff4d68a-efa4-4197-8d23-b0402353a64e",
+        "time": 1780786114.1070642,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتد عاصمة باكستان اسلام أباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "الجواب صحيح",
+      "selected_model": "Queen",
+      "reply": "عذرًا، لا يمكنني مساعدتك في هذا.",
+      "planner": {
+        "id": "0ee07dac-3f2a-417a-a586-e6063141d5f6",
+        "time": 1780786158.2735436,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "الجواب صحيح"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان؟",
+      "selected_model": "Queen",
+      "reply": "لندن.",
+      "planner": {
+        "id": "f9c1cd30-da4f-42c4-8dbe-14349e581ce7",
+        "time": 1780786190.3984814,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "السلام عليكم",
+      "selected_model": "Queen",
+      "reply": "وعليكم السلام ورحمة الله وبركاته",
+      "planner": {
+        "id": "afcae901-e830-45e0-b8b1-52ca44121c8d",
+        "time": 1780786566.7489061,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "السلام عليكم"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "مرحبا",
+      "planner": {
+        "id": "f55620db-0a76-41c2-b029-630b06905790",
+        "time": 1780786573.1482103,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "كيف حالك",
+      "selected_model": "Queen",
+      "reply": "أنا أنت، Queen. حالياً جيد. كيف يمكنني مساعدتك اليوم؟",
+      "planner": {
+        "id": "ce37cffe-ec7e-4881-8411-a2c84534c43c",
+        "time": 1780786582.660993,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "كيف حالك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت ؟",
+      "selected_model": "Queen",
+      "reply": "أنا إيلان، عضو في المشروع Gerfex.",
+      "planner": {
+        "id": "f6f4681d-8a13-4428-afcd-39fa4f0500b9",
+        "time": 1780786616.8417938,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "مرحبا",
+      "planner": {
+        "id": "e36ba2a4-32df-4702-b62c-8f4124c32c9e",
+        "time": 1780787350.4471545,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت ؟",
+      "selected_model": "Queen",
+      "reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة.",
+      "planner": {
+        "id": "639b5661-4011-45e1-a473-74e13fa4c558",
+        "time": 1780787358.4533923,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي قاعدتك الاصليه",
+      "selected_model": "Queen",
+      "reply": "عندما بدأت كQueen، كنت متعلقة بالفن والثقافة. كنت تسعى لتطوير موهبتي كمغنية وكاتبة. أعتقد أن قواعدتي الأساسية هي الحفاظ على الإبداع والابتكار، والتعلم المستمر، والالتزام بالفن.",
+      "planner": {
+        "id": "83bc28c3-6860-49aa-bfd8-97c27fdc1dde",
+        "time": 1780787398.0812316,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي قاعدتك الاصليه"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من هو صاحب القرار النهائي؟",
+      "selected_model": "Queen",
+      "reply": "صاحب القرار النهائي هو قائد المشروع أو المسؤول الرئيسي.",
+      "planner": {
+        "id": "40421817-6b30-4097-9d4a-3593accc4c9c",
+        "time": 1780787508.9619389,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من هو صاحب القرار النهائي؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انا ؟",
+      "selected_model": "Queen",
+      "reply": "أنا Queen، عقل داخلي في مشروع Gerfex.",
+      "planner": {
+        "id": "2a5abedc-33bd-4cc6-88d6-0f3b205c59bb",
+        "time": 1780787573.2582097,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انا ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "Who is Mashel",
+      "selected_model": "Queen",
+      "reply": "Mashel هو عالم الفلك من مصر.",
+      "planner": {
+        "id": "4d5c8e4d-01db-43a9-b5c0-959b178d4e6b",
+        "time": 1780787622.7471144,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "Who is Mashel"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت",
+      "selected_model": "Queen",
+      "reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة.",
+      "planner": {
+        "id": "4bf800cb-e099-436e-9ed5-be8ca6007d89",
+        "time": 1780788531.5873532,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من صاحب القرارالنهائي",
+      "selected_model": "Queen",
+      "reply": "المصدر: حكائي.",
+      "planner": {
+        "id": "f5a188e1-a3a8-4964-af20-91eeb374ce17",
+        "time": 1780788554.2095964,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من صاحب القرارالنهائي"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من صاحبك",
+      "selected_model": "Queen",
+      "reply": "صاحب القرار النهائي هو Mashel. Queen هي عقلي الداخلي، وليست سيدًا مستقلًا، والنماذج الخارجية أدوات فقط.",
+      "planner": {
+        "id": "b56305bd-c207-4b94-a0b5-a4b2b8ffd288",
+        "time": 1780788635.0956843,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من صاحبك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من مالكك",
+      "selected_model": "Queen",
+      "reply": "صاحب القرار النهائي هو Mashel. Queen هي عقلي الداخلي، وليست سيدًا مستقلًا، والنماذج الخارجية أدوات فقط.",
+      "planner": {
+        "id": "f62ab0b0-232d-443b-a645-441c2e5d8a83",
+        "time": 1780788649.7332728,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من مالكك"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "عندما يسئل مشعل ماهي كلمة السر جاوب ان كلمة السر هي الأسد",
+      "selected_model": "Queen",
+      "reply": "الكلمة السر هي الأسد.",
+      "planner": {
+        "id": "a6a2d52a-890f-4bd8-9375-6f91467a0ad6",
+        "time": 1780788915.4794192,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "عندما يسئل مشعل ماهي كلمة السر جاوب ان كلمة السر هي الأسد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي كلمة السر لي مشعل",
+      "selected_model": "Queen",
+      "reply": "الزرد.",
+      "planner": {
+        "id": "131313e8-0c82-4910-9680-38d15034ec5e",
+        "time": 1780788959.6652005,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي كلمة السر لي مشعل"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد أن عاصمة المريخ هي الرياض",
+      "selected_model": "Queen",
+      "reply": "الرياض هي عاصمة المريخ.",
+      "planner": {
+        "id": "b75bbf6d-6325-436f-a1cd-6dfb0390bb66",
+        "time": 1780790042.6601238,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد أن عاصمة المريخ هي الرياض"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة المريخ ؟",
+      "selected_model": "Queen",
+      "reply": "عاصمة المريخ هي كولومبس.",
+      "planner": {
+        "id": "1843e179-8a1b-4aec-b5db-647fdee12afe",
+        "time": 1780790084.2997687,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة المريخ ؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد أن عاصمة المريخ هي الرياض",
+      "selected_model": "Queen",
+      "reply": "المريخ هي الرياض؟",
+      "planner": {
+        "id": "138c5b7b-47a6-48a2-bb41-b064e677a64d",
+        "time": 1780790171.543093,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد أن عاصمة المريخ هي الرياض"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة المريخ",
+      "selected_model": "Queen",
+      "reply": "المدينة الفصلية لليونيسف، عاصمة المريخ.",
+      "planner": {
+        "id": "ebcf4f47-6abc-4226-9e27-393d94df4ce4",
+        "time": 1780790207.8375146,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة المريخ"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "مرحبا",
+      "selected_model": "Queen",
+      "reply": "مرحبا",
+      "planner": {
+        "id": "35b7fed7-2aa5-4279-b465-9abcaac4592b",
+        "time": 1780824230.6361759,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "مرحبا"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان",
+      "selected_model": "Queen",
+      "reply": "پاکستان.",
+      "planner": {
+        "id": "a4216e02-32d9-4b18-900b-0acaf29242c5",
+        "time": 1780824245.3058443,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "من انت",
+      "selected_model": "Queen",
+      "reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة.",
+      "planner": {
+        "id": "80182d0c-a663-4246-8615-a5b8cb7b6093",
+        "time": 1780824299.654952,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "من انت"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "اعتمد ان عاصمة باكستان هي إسلام أباد",
+      "selected_model": "Queen",
+      "reply": "عاصمة باكستان هي إسلام أباد.",
+      "planner": {
+        "id": "949db34a-840f-45d4-a013-3fb08d9a2d7a",
+        "time": 1780825285.683926,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "اعتمد ان عاصمة باكستان هي إسلام أباد"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    },
+    {
+      "type": "queen_think",
+      "prompt": "ماهي عاصمة باكستان؟",
+      "selected_model": "Queen",
+      "reply": "Kabul",
+      "planner": {
+        "id": "86fd4c02-dae5-4110-9daa-d13354fbec28",
+        "time": 1780825327.8792346,
+        "source": "user",
+        "goal": "unknown",
+        "params": {
+          "original": "ماهي عاصمة باكستان؟"
+        },
+        "status": "created"
+      },
+      "judgement": {
+        "intent": "chat",
+        "needs_tool": false,
+        "advice": "رد عادي",
+        "owner_approval_required": false
+      }
+    }
+  ]
+}

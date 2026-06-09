@@ -1,0 +1,19 @@
+{
+  "system_tools": [
+    {
+      "name": "list_files",
+      "status": "planned",
+      "description": "List files in Gerfex working directory."
+    },
+    {
+      "name": "show_storage",
+      "status": "planned",
+      "description": "Show available storage information."
+    },
+    {
+      "name": "show_time",
+      "status": "planned",
+      "description": "Show device time."
+    }
+  ]
+}

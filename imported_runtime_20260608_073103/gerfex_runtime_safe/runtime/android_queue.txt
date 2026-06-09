@@ -1,0 +1,9 @@
+{"action": "open_app", "args": {"package": "chrome"}, "time": 1780688072.328455}
+{"action": "open_app", "args": {"package": "settings"}, "time": 1780688072.337269}
+{"action": "open_url", "args": {"url": "https://www.google.com/search?q=%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A", "browser": "chrome"}, "time": 1780688072.3434098}
+{"action": "open_app", "args": {"package": "chrome"}, "time": 1780688647.961993}
+{"action": "open_app", "args": {"package": "settings"}, "time": 1780688647.9694674}
+{"action": "open_app", "args": {"package": "youtube"}, "time": 1780688647.9754353}
+{"action": "open_app", "args": {"package": "chrome"}, "time": 1780688961.9023316}
+{"action": "open_app", "args": {"package": "settings"}, "time": 1780688961.9084718}
+{"action": "open_url", "args": {"url": "https://www.google.com/search?q=%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A", "browser": "chrome"}, "time": 1780688961.9148796}

@@ -1,0 +1,46 @@
+{
+  "available_tools": [
+    {
+      "name": "open_app",
+      "type": "android_action",
+      "status": "planned",
+      "description": "Open an Android app."
+    },
+    {
+      "name": "tap",
+      "type": "screen_action",
+      "status": "planned",
+      "description": "Tap on a specific screen coordinate."
+    },
+    {
+      "name": "double_tap",
+      "type": "screen_action",
+      "status": "planned",
+      "description": "Double tap on a screen coordinate."
+    },
+    {
+      "name": "swipe",
+      "type": "screen_action",
+      "status": "planned",
+      "description": "Swipe from one coordinate to another."
+    },
+    {
+      "name": "pinch_zoom",
+      "type": "screen_action",
+      "status": "planned",
+      "description": "Perform zoom in or zoom out gesture."
+    },
+    {
+      "name": "type_text",
+      "type": "input_action",
+      "status": "planned",
+      "description": "Type text into the focused field."
+    },
+    {
+      "name": "screen_read",
+      "type": "vision",
+      "status": "planned",
+      "description": "Read and understand what is on the screen."
+    }
+  ]
+}

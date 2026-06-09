@@ -1,0 +1,42 @@
+{
+  "active_runtime": "android_bridge",
+
+  "adapters": [
+    {
+      "name": "android_bridge",
+      "status": "active",
+      "role": "basic Android command bridge",
+      "controlled_by": "Gerfex",
+      "replaceable": true
+    },
+    {
+      "name": "termux_api",
+      "status": "available",
+      "role": "Android API access through Termux",
+      "controlled_by": "Gerfex",
+      "replaceable": true
+    },
+    {
+      "name": "accessibility_layer",
+      "status": "planned",
+      "role": "screen reading and UI interaction",
+      "controlled_by": "Gerfex",
+      "replaceable": true
+    },
+    {
+      "name": "claw_mobile",
+      "status": "optional_future_tool",
+      "role": "advanced phone automation arm",
+      "controlled_by": "Gerfex",
+      "replaceable": true
+    }
+  ],
+
+  "rules": [
+    "Gerfex is the controller.",
+    "Adapters are tools only.",
+    "Any adapter can be replaced.",
+    "No adapter may control Gerfex core.",
+    "Core independence must be preserved."
+  ]
+}

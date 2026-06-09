@@ -1,0 +1,457 @@
+{
+  "version": "GERFEX_RUNTIME_STATE_V1",
+  "status": "running",
+  "started_at": 1780232585.8540077,
+  "updated_at": 1780606997.940422,
+  "current_goal": null,
+  "last_user_command": "ارجع",
+  "last_model": "Gerfex",
+  "last_decision": null,
+  "last_reply": "تم تنفيذ رجوع.",
+  "last_queued_action": {
+    "time": 1780240984.9397624,
+    "action": "open_url",
+    "args": {
+      "url": "https://www.google.com/search?q=5%20%D8%AE%D9%84%D8%A7%D8%B5%D8%A7%D8%AA%20%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%85%D9%86%20%D9%82%D9%85%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D8%A8%D8%AF%D9%88%D9%84%20%D8%B4%D9%85%D8%A7%D9%84%20%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7%20-%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9%20%D9%86%D8%AA",
+      "browser": "chrome"
+    },
+    "source": "agent_bridge_normalized"
+  },
+  "last_runner_action": {
+    "action": "dump_ui",
+    "args": {},
+    "time": 1780606996.9667046
+  },
+  "last_runner_result": null,
+  "last_error": null,
+  "counters": {
+    "think_calls": 26,
+    "queued_actions": 2,
+    "runner_actions": 12,
+    "errors": 0
+  },
+  "history": [
+    {
+      "time": 1780232656.1256597,
+      "event": "queued_action",
+      "data": {
+        "last_queued_action": {
+          "time": 1780232656.0367134,
+          "action": "wait",
+          "args": {
+            "seconds": 1.0
+          },
+          "source": "agent_bridge_normalized"
+        }
+      }
+    },
+    {
+      "time": 1780232695.4310565,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "time": 1780232656.0367134,
+          "action": "wait",
+          "args": {
+            "seconds": 1.0
+          },
+          "source": "agent_bridge_normalized"
+        }
+      }
+    },
+    {
+      "time": 1780234397.4092953,
+      "event": "think",
+      "data": {
+        "last_user_command": "اختبار runtime state بعد إعادة التشغيل",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: اختبار runtime state بعد إعادة التشغيل"
+      }
+    },
+    {
+      "time": 1780235474.1101036,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_url",
+          "args": {
+            "url": "https://www.google.com/search?q=%D9%81%D9%8A%20%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8%20%D8%B9%D9%86%20OpenAI%20%D9%88%D8%A7%D9%81%D8%AA%D8%AD%20%D8%A3%D9%88%D9%84%20%D9%86%D8%AA%D9%8A%D8%AC%D8%A9",
+            "browser": "chrome"
+          },
+          "time": 1780235473.7808404
+        }
+      }
+    },
+    {
+      "time": 1780240985.029325,
+      "event": "queued_action",
+      "data": {
+        "last_queued_action": {
+          "time": 1780240984.9397624,
+          "action": "open_url",
+          "args": {
+            "url": "https://www.google.com/search?q=5%20%D8%AE%D9%84%D8%A7%D8%B5%D8%A7%D8%AA%20%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%85%D9%86%20%D9%82%D9%85%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D8%A8%D8%AF%D9%88%D9%84%20%D8%B4%D9%85%D8%A7%D9%84%20%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7%20-%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9%20%D9%86%D8%AA",
+            "browser": "chrome"
+          },
+          "source": "agent_bridge_normalized"
+        }
+      }
+    },
+    {
+      "time": 1780240985.9084206,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "time": 1780240984.9397624,
+          "action": "open_url",
+          "args": {
+            "url": "https://www.google.com/search?q=5%20%D8%AE%D9%84%D8%A7%D8%B5%D8%A7%D8%AA%20%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%85%D9%86%20%D9%82%D9%85%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%20%D8%A8%D8%AF%D9%88%D9%84%20%D8%B4%D9%85%D8%A7%D9%84%20%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7%20-%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9%20%D9%86%D8%AA",
+            "browser": "chrome"
+          },
+          "source": "agent_bridge_normalized"
+        }
+      }
+    },
+    {
+      "time": 1780243384.292065,
+      "event": "think",
+      "data": {
+        "last_user_command": "من انت ؟",
+        "last_model": "Gerfex",
+        "last_reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة."
+      }
+    },
+    {
+      "time": 1780243471.0871456,
+      "event": "think",
+      "data": {
+        "last_user_command": "هل تستطيع الاطلاع علي ملفاتك الداخلية ",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: هل تستطيع الاطلاع علي ملفاتك الداخلية "
+      }
+    },
+    {
+      "time": 1780243523.4092398,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي المباريات القادمة لي المنتخب السعودي",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: ماهي المباريات القادمة لي المنتخب السعودي"
+      }
+    },
+    {
+      "time": 1780243566.855893,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي اخر اخبار السعودية ",
+        "last_model": "Gerfex",
+        "last_reply": "فتحت بحث Google عن: ماهي اخر اخبار السعودية"
+      }
+    },
+    {
+      "time": 1780243567.7680914,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_url",
+          "args": {
+            "url": "https://www.google.com/search?q=%D9%85%D8%A7%D9%87%D9%8A%20%D8%A7%D8%AE%D8%B1%20%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+            "browser": "chrome"
+          },
+          "time": 1780243566.7568257
+        }
+      }
+    },
+    {
+      "time": 1780243617.502408,
+      "event": "think",
+      "data": {
+        "last_user_command": "هل تعلم ماهي عاصمة السعودية ",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: هل تعلم ماهي عاصمة السعودية "
+      }
+    },
+    {
+      "time": 1780243858.5474803,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة السعودية ",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: ماهي عاصمة السعودية "
+      }
+    },
+    {
+      "time": 1780243905.840408,
+      "event": "think",
+      "data": {
+        "last_user_command": "مرحبا",
+        "last_model": "Gerfex",
+        "last_reply": "وعليكم السلام. أنا Gerfex، وQueen متصل داخل النظام."
+      }
+    },
+    {
+      "time": 1780243962.2246242,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة السعودية ",
+        "last_model": "Gerfex",
+        "last_reply": "Gerfex فهم رسالتك: ماهي عاصمة السعودية "
+      }
+    },
+    {
+      "time": 1780257059.8286455,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة البحرين؟",
+        "last_model": "Gerfex",
+        "last_reply": "عاصمة البحرين هي بناء."
+      }
+    },
+    {
+      "time": 1780257174.3140104,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة السعودية؟",
+        "last_model": "Gerfex",
+        "last_reply": "عاصمة السعودية هي الرياض."
+      }
+    },
+    {
+      "time": 1780257221.5904942,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة الإمارات ",
+        "last_model": "Gerfex",
+        "last_reply": "عاصمة الإمارات هي أبو ظبي."
+      }
+    },
+    {
+      "time": 1780257265.2407625,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة البحرين ",
+        "last_model": "Gerfex",
+        "last_reply": "المستخدم: ماهي عاصمة البحرين؟"
+      }
+    },
+    {
+      "time": 1780257320.3923295,
+      "event": "think",
+      "data": {
+        "last_user_command": "كم عدد سكان الكويت ",
+        "last_model": "Gerfex",
+        "last_reply": "عدد سكان الكويت حوالي 4.6 مليون نسمة."
+      }
+    },
+    {
+      "time": 1780257381.0079954,
+      "event": "think",
+      "data": {
+        "last_user_command": "كم عدد قارات العالم ",
+        "last_model": "Gerfex",
+        "last_reply": "عدد قارات العالم يبلغ 7 قارات."
+      }
+    },
+    {
+      "time": 1780257404.9122324,
+      "event": "think",
+      "data": {
+        "last_user_command": "من انت ؟",
+        "last_model": "Gerfex",
+        "last_reply": "أنا Gerfex، Personal Sovereign AI. Queen هي عقلي الداخلي، والنماذج الخارجية أدوات مساعدة فقط عند الحاجة."
+      }
+    },
+    {
+      "time": 1780258155.921309,
+      "event": "think",
+      "data": {
+        "last_user_command": "ماهي عاصمة البحرين؟",
+        "last_model": "Gerfex",
+        "last_reply": "عاصمة البحرين هي المنامة."
+      }
+    },
+    {
+      "time": 1780258188.7208545,
+      "event": "think",
+      "data": {
+        "last_user_command": "كم عدد المحيطات في العالم ",
+        "last_model": "Gerfex",
+        "last_reply": "العالم يحتوي على 14 محيطات."
+      }
+    },
+    {
+      "time": 1780259988.7821577,
+      "event": "think",
+      "data": {
+        "last_user_command": "اشرح نظرية النسبية",
+        "last_model": "Gerfex",
+        "last_reply": "أفهم طلبك، لكن النموذج المساعد غير موصول بعد. سأتعامل معه محليًا قدر الإمكان."
+      }
+    },
+    {
+      "time": 1780260034.1203816,
+      "event": "think",
+      "data": {
+        "last_user_command": "تعامل معه حسب استطاعتك ",
+        "last_model": "Gerfex",
+        "last_reply": "حسب استطاعتي."
+      }
+    },
+    {
+      "time": 1780260102.8768635,
+      "event": "think",
+      "data": {
+        "last_user_command": "نعم حسب استطاعتك ، حسب المعلومات التي لديك عن النظرية",
+        "last_model": "Gerfex",
+        "last_reply": "حسب المعلومات التي لديك عن النظرية، لا أستطيع مساعدتك."
+      }
+    },
+    {
+      "time": 1780260159.3342032,
+      "event": "think",
+      "data": {
+        "last_user_command": "افتح يوتيوب",
+        "last_model": "Gerfex",
+        "last_reply": "فتحت يوتيوب."
+      }
+    },
+    {
+      "time": 1780260364.2288864,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_app",
+          "args": {
+            "package": "youtube"
+          },
+          "time": 1780260159.1422663
+        }
+      }
+    },
+    {
+      "time": 1780260461.025694,
+      "event": "think",
+      "data": {
+        "last_user_command": "افتح كروم",
+        "last_model": "Gerfex",
+        "last_reply": "فتحت كروم."
+      }
+    },
+    {
+      "time": 1780260461.3442345,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_app",
+          "args": {
+            "package": "chrome"
+          },
+          "time": 1780260460.865733
+        }
+      }
+    },
+    {
+      "time": 1780260488.910066,
+      "event": "think",
+      "data": {
+        "last_user_command": "ارجع",
+        "last_model": "Gerfex",
+        "last_reply": "حسبي."
+      }
+    },
+    {
+      "time": 1780260519.2465413,
+      "event": "think",
+      "data": {
+        "last_user_command": "حسبي الله عليك ",
+        "last_model": "Gerfex",
+        "last_reply": "حسبي الله عليك."
+      }
+    },
+    {
+      "time": 1780260760.685504,
+      "event": "think",
+      "data": {
+        "last_user_command": "ارجع",
+        "last_model": "Gerfex",
+        "last_reply": "تم تنفيذ رجوع."
+      }
+    },
+    {
+      "time": 1780260761.2327583,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "key",
+          "args": {
+            "key": "BACK"
+          },
+          "time": 1780260760.5802562
+        }
+      }
+    },
+    {
+      "time": 1780604808.9884515,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_app",
+          "args": {
+            "package": "youtube"
+          },
+          "time": 1780604808.2237542
+        }
+      }
+    },
+    {
+      "time": 1780605033.1262367,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_app",
+          "args": {
+            "package": "chrome"
+          },
+          "time": 1780605032.8808494
+        }
+      }
+    },
+    {
+      "time": 1780605055.7912326,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "open_app",
+          "args": {
+            "package": "settings"
+          },
+          "time": 1780605054.8344674
+        }
+      }
+    },
+    {
+      "time": 1780605074.321457,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "key",
+          "args": {
+            "key": "BACK"
+          },
+          "time": 1780605073.4796605
+        }
+      }
+    },
+    {
+      "time": 1780606997.940295,
+      "event": "runner_action",
+      "data": {
+        "last_runner_action": {
+          "action": "dump_ui",
+          "args": {},
+          "time": 1780606996.9667046
+        }
+      }
+    }
+  ]
+}

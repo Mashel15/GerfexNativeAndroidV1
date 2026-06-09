@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1780697131476,
+      "lesson": "اريدك ان تعدل ردك الي وعليكم السلام ورحمة الله وبركاته اذا قلت لك السلام عليكم",
+      "source": "conversation_natural",
+      "status": "rejected",
+      "confidence": 0.8,
+      "created_at": 1780697131.4764233,
+      "rejected_at": 1780697313.142849
+    },
+    {
+      "id": 1780691223422,
+      "lesson": "مهم: لا تعتمد أي تعليم جديد إلا بعد موافقة Mashel الصريحة.",
+      "source": "conversation",
+      "status": "rejected",
+      "confidence": 0.75,
+      "created_at": 1780691223.4229639,
+      "rejected_at": 1780691223.6359131
+    }
+  ]
+}

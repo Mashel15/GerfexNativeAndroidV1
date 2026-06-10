@@ -108,6 +108,17 @@ export default function App() {
     } catch {}
   }
 
+  function offlineQueenReply(prompt, learning = false) {
+    const t = (prompt || "").trim();
+    if (learning) {
+      if (t.includes("اعتمد")) return "تم تسجيل طلب اعتماد جلسة التعلم محليًا. الربط مع ذاكرة Queen الحقيقية سيكون في V2.";
+      return "Queen Offline: استلمت جلسة التعلم محليًا. أستطيع حفظ السياق داخل التطبيق، لكن الاعتماد الدائم يحتاج ربط Gerfex API.";
+    }
+    if (!t) return "Queen Offline جاهزة.";
+    if (t.includes("مرحبا") || t.includes("السلام")) return "Queen Offline متصلة داخل التطبيق. الربط الحي مع Gerfex API غير متاح حاليًا.";
+    return "Queen Offline استقبلت رسالتك: " + t + "\n\nملاحظة: هذا رد محلي داخل APK حتى يتم ربط Gerfex API الحقيقي.";
+  }
+
   function addReply(content, speaker = "Gerfex", withVoice = false) {
     setMessages((m) => [...m, { speaker, content }]);
     if (withVoice) speak(content);
@@ -216,7 +227,7 @@ export default function App() {
           setLearningSession((x) => ({ ...x, messages: approvedMessages }));
           persistLearningSessionMessages(learningSession, approvedMessages);
         } catch {
-          alert("فشل اعتماد جلسة التعلم.");
+          alert(offlineQueenReply(text, true));
         }
         return;
       }
@@ -252,7 +263,7 @@ export default function App() {
           persistLearningSessionMessages(learningSession, withReply);
         }
       } catch {
-        setLearningSession((x) => ({ ...x, messages: [...nextMessages, { speaker: "Gerfex", content: "فشل الاتصال بـ Gerfex API" }] }));
+        setLearningSession((x) => ({ ...x, messages: [...nextMessages, { speaker: "Queen", content: offlineQueenReply(text, true) }] }));
       }
       return;
     }
@@ -273,7 +284,7 @@ export default function App() {
         addReply(data.reply || "لا يوجد رد.", data.speaker || "Gerfex", shouldSpeak);
       }
     } catch {
-      addReply("فشل الاتصال بـ Gerfex API");
+      addReply(offlineQueenReply(text), "Queen", shouldSpeak);
     }
   }
 
